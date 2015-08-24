@@ -15,6 +15,9 @@ To run the code in the notebook it is necessary to both download the code from t
 ###Data
 This folder contains the data from this study and that from previous work that are imported into the Jupyter/IPython notebooks and utilized in the analysis.
 
+###GPlates
+This folder contains reconstruction files put together using the GPlates software package (http://www.gplates.org) along with videos of the two reconstruction interpretations that are described in the manuscript (Figure 4). These videos can't be viewed on Github, but are hosted and availible for viewing here: http://www.swanson-hysell.org/research/umkondo-lip/
+
 ###Manuscript
 This folder contains the text of the paper and the figure files. The LaTEX source is included as are the output PDF files. These PDF files can be viewed within Github using the first link or downloaded using the second link:
 
