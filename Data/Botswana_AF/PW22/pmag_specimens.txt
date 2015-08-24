@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-10	PW22	PW22-10a	"PW22-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	9.000e-02	2.000e-02	T		u	7.0	202.1	l	63.3	3.9	9	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-10	PW22	PW22-10a	"PW22-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	9.000e-02	2.000e-02	T		u	7.0	326.1	l	66.0	3.9	9	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-10	PW22	PW22-10a	"PW22-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	9.000e-02	2.000e-02	T		u	7.0	309.8	l	60.2	3.9	9	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-1	PW22	PW22-1a	"PW22-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	0.7	276.9	l	15.9	15.1	4	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-1	PW22	PW22-1a	"PW22-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	0.7	188.9	l	10.8	15.1	4	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-1	PW22	PW22-1a	"PW22-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	0.7	190.5	l	7.9	15.1	4	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-2	PW22	PW22-2a	"PW22-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.0	270.7	l	24.4	13.3	7	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-2	PW22	PW22-2a	"PW22-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.0	188.1	l	18.3	13.3	7	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-2	PW22	PW22-2a	"PW22-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.0	191.0	l	15.4	13.3	7	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-3	PW22	PW22-3a	"PW22-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	8.9	262.3	l	-9.9	10.4	7	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-3	PW22	PW22-3a	"PW22-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	8.9	179.9	l	-6.2	10.4	7	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-3	PW22	PW22-3a	"PW22-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	8.9	178.8	l	-7.3	10.4	7	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-4	PW22	PW22-4a	"PW22-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.7	256.3	l	-15.6	8.6	8	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-4	PW22	PW22-4a	"PW22-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.7	180.0	l	-8.7	8.6	8	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-4	PW22	PW22-4a	"PW22-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.7	178.4	l	-9.8	8.6	8	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-5	PW22	PW22-5a	"PW22-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	11.6	269.7	l	-16.6	7.5	8	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-5	PW22	PW22-5a	"PW22-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	11.6	181.4	l	-5.6	7.5	8	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-5	PW22	PW22-5a	"PW22-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	11.6	180.4	l	-7.0	7.5	8	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-6	PW22	PW22-6a	"PW22-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.1	199.3	l	-27.3	11.0	7	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-6	PW22	PW22-6a	"PW22-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.1	181.7	l	6.0	11.0	7	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-6	PW22	PW22-6a	"PW22-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.1	182.6	l	4.4	11.0	7	100
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-9	PW22	PW22-9a	"PW22-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	5.8	253.7	l	-12.2	6.3	13	-1
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-9	PW22	PW22-9a	"PW22-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	5.8	186.2	l	-5.4	6.3	13	0
+	This study	Botswana 2012	Mosolotsane 1 Sill	PW22-9	PW22	PW22-9a	"PW22-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	5.8	185.1	l	-7.6	6.3	13	100

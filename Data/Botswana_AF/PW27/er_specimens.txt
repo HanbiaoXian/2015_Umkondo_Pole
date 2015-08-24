@@ -1,0 +1,21 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-1	PW27	PW27-1a	0	0.0046757
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-1	PW27	PW27-1b	0	0.0049179
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-2	PW27	PW27-2a	0	0.0052935
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-2	PW27	PW27-2b	0	0.0051377
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-3	PW27	PW27-3a	0	0.0049788
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-3	PW27	PW27-3b	0	0.0045419
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-4	PW27	PW27-4a	0	0.0043836
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-4	PW27	PW27-4b	0	0.0051724
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-5	PW27	PW27-5a	0	0.0051352
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-5	PW27	PW27-5b	0	0.0047027
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-5	PW27	PW27-5c	0	0.0001019
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-6	PW27	PW27-6a	0	0.0048538
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-6	PW27	PW27-6b	0	0.0051074
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-7	PW27	PW27-7a	0	0.0047154
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-7	PW27	PW27-7b	0	0.0046531
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-8	PW27	PW27-8a	0	0.0049603
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-8	PW27	PW27-8b	0	0.0052588
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-9	PW27	PW27-9a	0	0.0050846
+This study	Botswana 2012	Mosolotsane 2 Sill	PW27-9	PW27	PW27-9b	0	0.0049492

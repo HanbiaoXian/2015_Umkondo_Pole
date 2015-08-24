@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-11	PW32	PW32-11a	"PW32-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	21.5	241.6	l	5.7	13.3	8	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-11	PW32	PW32-11a	"PW32-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	21.5	199.3	l	10.4	13.3	8	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-11	PW32	PW32-11a	"PW32-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	21.5	199.3	l	10.4	13.3	8	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-13	PW32	PW32-13a	"PW32-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	3.1	263.8	l	-15.0	16.1	9	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-13	PW32	PW32-13a	"PW32-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	3.1	183.5	l	2.3	16.1	9	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-13	PW32	PW32-13a	"PW32-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	3.1	183.5	l	2.3	16.1	9	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-18	PW32	PW32-18a	"PW32-18a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-A:DA-DIR	pmagpy-3.2.1	4.000e-02	1.500e-02	T		u	0.0	266.2	l	2.3	7.7	3	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-18	PW32	PW32-18a	"PW32-18a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	4.000e-02	1.500e-02	T		u	0.0	217.4	l	4.0	7.7	3	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-18	PW32	PW32-18a	"PW32-18a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	4.000e-02	1.500e-02	T		u	0.0	217.4	l	4.0	7.7	3	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-21	PW32	PW32-21a	"PW32-21a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	5.1	229.2	l	-44.8	20.5	10	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-21	PW32	PW32-21a	"PW32-21a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	5.1	184.0	l	0.3	20.5	10	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-21	PW32	PW32-21a	"PW32-21a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	5.1	184.0	l	0.3	20.5	10	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-5	PW32	PW32-5a	"PW32-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.8	341.6	l	18.9	14.2	7	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-5	PW32	PW32-5a	"PW32-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.8	193.0	l	-8.7	14.2	7	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-5	PW32	PW32-5a	"PW32-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.8	193.0	l	-8.7	14.2	7	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-6	PW32	PW32-6a	"PW32-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	296.2	l	56.4	13.3	8	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-6	PW32	PW32-6a	"PW32-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	183.2	l	3.2	13.3	8	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-6	PW32	PW32-6a	"PW32-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	183.2	l	3.2	13.3	8	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-7	PW32	PW32-7a	"PW32-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	5.9	271.7	l	60.8	11.6	9	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-7	PW32	PW32-7a	"PW32-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	5.9	198.0	l	-0.8	11.6	9	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-7	PW32	PW32-7a	"PW32-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	5.9	198.0	l	-0.8	11.6	9	100
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-8	PW32	PW32-8a	"PW32-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	12.6	259.9	l	-24.8	10.4	10	-1
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-8	PW32	PW32-8a	"PW32-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	12.6	193.2	l	4.4	10.4	10	0
+	This study	Botswana 2012	Sepatamorire Hill Sill	PW32-8	PW32	PW32-8a	"PW32-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	12.6	193.2	l	4.4	10.4	10	100

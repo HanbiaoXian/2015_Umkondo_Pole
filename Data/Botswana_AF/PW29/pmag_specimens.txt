@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Phage Sill	PW29-10	PW29	PW29-10a	"PW29-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	0.8	244.3	l	-1.6	5.7	7	-1
+	This study	Botswana 2012	Phage Sill	PW29-10	PW29	PW29-10a	"PW29-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	0.8	186.5	l	5.8	5.7	7	0
+	This study	Botswana 2012	Phage Sill	PW29-10	PW29	PW29-10a	"PW29-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	0.8	187.4	l	4.6	5.7	7	100
+	This study	Botswana 2012	Phage Sill	PW29-3	PW29	PW29-3a	"PW29-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	53.8	l	18.4	11.2	9	-1
+	This study	Botswana 2012	Phage Sill	PW29-3	PW29	PW29-3a	"PW29-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	177.7	l	5.4	11.2	9	0
+	This study	Botswana 2012	Phage Sill	PW29-3	PW29	PW29-3a	"PW29-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	178.7	l	5.7	11.2	9	100
+	This study	Botswana 2012	Phage Sill	PW29-4	PW29	PW29-4a	"PW29-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	144.2	l	-16.6	17.3	8	-1
+	This study	Botswana 2012	Phage Sill	PW29-4	PW29	PW29-4a	"PW29-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	197.3	l	-2.6	17.3	8	0
+	This study	Botswana 2012	Phage Sill	PW29-4	PW29	PW29-4a	"PW29-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	10.9	196.6	l	-5.6	17.3	8	100
+	This study	Botswana 2012	Phage Sill	PW29-5	PW29	PW29-5a	"PW29-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.2	103.5	l	3.9	22.4	8	-1
+	This study	Botswana 2012	Phage Sill	PW29-5	PW29	PW29-5a	"PW29-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.2	194.2	l	7.5	22.4	8	0
+	This study	Botswana 2012	Phage Sill	PW29-5	PW29	PW29-5a	"PW29-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	7.2	195.3	l	4.9	22.4	8	100
+	This study	Botswana 2012	Phage Sill	PW29-6	PW29	PW29-6a	"PW29-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	9.5	244.3	l	-0.3	11.9	4	-1
+	This study	Botswana 2012	Phage Sill	PW29-6	PW29	PW29-6a	"PW29-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	9.5	205.8	l	7.0	11.9	4	0
+	This study	Botswana 2012	Phage Sill	PW29-6	PW29	PW29-6a	"PW29-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	9.5	206.6	l	2.6	11.9	4	100
+	This study	Botswana 2012	Phage Sill	PW29-7	PW29	PW29-7a	"PW29-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.9	224.2	l	-12.3	12.6	6	-1
+	This study	Botswana 2012	Phage Sill	PW29-7	PW29	PW29-7a	"PW29-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.9	194.3	l	-2.8	12.6	6	0
+	This study	Botswana 2012	Phage Sill	PW29-7	PW29	PW29-7a	"PW29-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	5.9	193.6	l	-5.2	12.6	6	100
+	This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8a	"PW29-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	7.0	169.6	l	-23.1	12.8	6	-1
+	This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8a	"PW29-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	7.0	208.1	l	-5.4	12.8	6	0
+	This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8a	"PW29-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	7.0	206.9	l	-10.0	12.8	6	100
+	This study	Botswana 2012	Phage Sill	PW29-9	PW29	PW29-9a	"PW29-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	15.0	211.5	l	-14.4	21.5	8	-1
+	This study	Botswana 2012	Phage Sill	PW29-9	PW29	PW29-9a	"PW29-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	15.0	187.7	l	-2.3	21.5	8	0
+	This study	Botswana 2012	Phage Sill	PW29-9	PW29	PW29-9a	"PW29-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	15.0	187.1	l	-3.6	21.5	8	100

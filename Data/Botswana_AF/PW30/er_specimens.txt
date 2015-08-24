@@ -1,0 +1,25 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Moijabana Sill	PW30-10	PW30	PW30-10a	0	0.005469
+This study	Botswana 2012	Moijabana Sill	PW30-10	PW30	PW30-10b	0	0.0052353
+This study	Botswana 2012	Moijabana Sill	PW30-11	PW30	PW30-11a	0	0.0054194
+This study	Botswana 2012	Moijabana Sill	PW30-11	PW30	PW30-11b	0	0.0059875
+This study	Botswana 2012	Moijabana Sill	PW30-12	PW30	PW30-12a	0	0.0066296
+This study	Botswana 2012	Moijabana Sill	PW30-12	PW30	PW30-12b	0	0.0053098
+This study	Botswana 2012	Moijabana Sill	PW30-1	PW30	PW30-1a	0	0.0045608
+This study	Botswana 2012	Moijabana Sill	PW30-1	PW30	PW30-1b	0	0.0039555
+This study	Botswana 2012	Moijabana Sill	PW30-1	PW30	PW30-1c	0	8.14E-5
+This study	Botswana 2012	Moijabana Sill	PW30-2	PW30	PW30-2a	0	0.0046872
+This study	Botswana 2012	Moijabana Sill	PW30-2	PW30	PW30-2b	0	0.0054817
+This study	Botswana 2012	Moijabana Sill	PW30-3	PW30	PW30-3a	0	0.0040817
+This study	Botswana 2012	Moijabana Sill	PW30-3	PW30	PW30-3b	0	0.0052069
+This study	Botswana 2012	Moijabana Sill	PW30-4	PW30	PW30-4a	0	0.0054964
+This study	Botswana 2012	Moijabana Sill	PW30-4	PW30	PW30-4b	0	0.0050786
+This study	Botswana 2012	Moijabana Sill	PW30-5	PW30	PW30-5a	0	0.0047599
+This study	Botswana 2012	Moijabana Sill	PW30-5	PW30	PW30-5b	0	0.0064957
+This study	Botswana 2012	Moijabana Sill	PW30-6	PW30	PW30-6a	0	0.0051683
+This study	Botswana 2012	Moijabana Sill	PW30-7	PW30	PW30-7a	0	0.005005
+This study	Botswana 2012	Moijabana Sill	PW30-8	PW30	PW30-8a	0	0.0057339
+This study	Botswana 2012	Moijabana Sill	PW30-8	PW30	PW30-8b	0	0.0053979
+This study	Botswana 2012	Moijabana Sill	PW30-9	PW30	PW30-9a	0	0.0055646
+This study	Botswana 2012	Moijabana Sill	PW30-9	PW30	PW30-9b	0	0.0057633

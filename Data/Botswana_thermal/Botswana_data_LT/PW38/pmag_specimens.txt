@@ -1,0 +1,8 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	UMK_BOT	PW38.5b	PW38	PW38.5b	PW38.5b:LP-DIR-T	hargrave 2014-08-04 17:36:16	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.0.2	748	423	K		u	31.6	255.9	l	13.1	6.8	9	-1
+	This study	UMK_BOT	PW38.5b	PW38	PW38.5b	PW38.5b:LP-DIR-T	hargrave 2014-08-04 17:36:16	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.0.2	748	423	K		u	31.6	262.3	l	18.5	6.8	9	0
+	This study	UMK_BOT	PW38.5b	PW38	PW38.5b	PW38.5b:LP-DIR-T	hargrave 2014-08-04 17:36:16	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.0.2	748	423	K		u	31.6	262.3	l	18.5	6.8	9	100
+	This study	UMK_BOT	PW38.6b	PW38	PW38.6b	PW38.6b:LP-DIR-T	hargrave 2014-08-04 17:37:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.0.2	623	423	K		u	53.8	267.1	l	-22.8	4.3	5	-1
+	This study	UMK_BOT	PW38.6b	PW38	PW38.6b	PW38.6b:LP-DIR-T	hargrave 2014-08-04 17:37:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.0.2	623	423	K		u	53.8	262.2	l	-16.1	4.3	5	0
+	This study	UMK_BOT	PW38.6b	PW38	PW38.6b	PW38.6b:LP-DIR-T	hargrave 2014-08-04 17:37:50	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.0.2	623	423	K		u	53.8	262.2	l	-16.1	4.3	5	100

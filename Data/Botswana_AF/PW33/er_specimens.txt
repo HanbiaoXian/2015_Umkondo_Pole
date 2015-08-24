@@ -1,0 +1,16 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Palapye Dike	PW33-2	PW33	PW33-2a	0	0.0043603
+This study	Botswana 2012	Palapye Dike	PW33-2	PW33	PW33-2b	0	0.005579
+This study	Botswana 2012	Palapye Dike	PW33-3	PW33	PW33-3a	0	0.0045904
+This study	Botswana 2012	Palapye Dike	PW33-3	PW33	PW33-3b	0	0.0051848
+This study	Botswana 2012	Palapye Dike	PW33-4	PW33	PW33-4a	0	0.0056727
+This study	Botswana 2012	Palapye Dike	PW33-5	PW33	PW33-5a	0	0.0048951
+This study	Botswana 2012	Palapye Dike	PW33-5	PW33	PW33-5b	0	0.0045451
+This study	Botswana 2012	Palapye Dike	PW33-5	PW33	PW33-5c	0	0.0001115
+This study	Botswana 2012	Palapye Dike	PW33-6	PW33	PW33-6a	0	0.0051606
+This study	Botswana 2012	Palapye Dike	PW33-6	PW33	PW33-6b	0	0.0047139
+This study	Botswana 2012	Palapye Dike	PW33-7	PW33	PW33-7a	0	0.0046731
+This study	Botswana 2012	Palapye Dike	PW33-7	PW33	PW33-7b	0	0.0051319
+This study	Botswana 2012	Palapye Dike	PW33-8	PW33	PW33-8a	0	0.0054567
+This study	Botswana 2012	Palapye Dike	PW33-8	PW33	PW33-8b	0	0.0054526

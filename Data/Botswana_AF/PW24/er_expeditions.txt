@@ -1,0 +1,3 @@
+tab 	er_expeditions
+Expedition_description	er_citation_names	er_expedition_name	expedition_start_lat	expedition_start_loc	expedition_start_lon
+	This study	Botswana 2012	-22.8947	-22.8947,26.3741	26.3741

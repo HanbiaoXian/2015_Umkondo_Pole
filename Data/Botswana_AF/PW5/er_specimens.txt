@@ -1,0 +1,24 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Rasemong North Intrusion	PW5-10	PW5	PW5-10a	0	0.0047009
+This study	Botswana 2012	Rasemong North Intrusion	PW5-10	PW5	PW5-10b	0	0.0039283
+This study	Botswana 2012	Rasemong North Intrusion	PW5-11	PW5	PW5-11a	0	0.0045326
+This study	Botswana 2012	Rasemong North Intrusion	PW5-11	PW5	PW5-11b	0	0.0038833
+This study	Botswana 2012	Rasemong North Intrusion	PW5-12	PW5	PW5-12a	0	0.0046344
+This study	Botswana 2012	Rasemong North Intrusion	PW5-12	PW5	PW5-12b	0	0.0037662
+This study	Botswana 2012	Rasemong North Intrusion	PW5-1	PW5	PW5-1a	0	0.0046677
+This study	Botswana 2012	Rasemong North Intrusion	PW5-1	PW5	PW5-1b	0	0.0055271
+This study	Botswana 2012	Rasemong North Intrusion	PW5-2	PW5	PW5-2a	0	0.0036659
+This study	Botswana 2012	Rasemong North Intrusion	PW5-2	PW5	PW5-2b	0	0.0037689
+This study	Botswana 2012	Rasemong North Intrusion	PW5-4	PW5	PW5-4a	0	0.0045391
+This study	Botswana 2012	Rasemong North Intrusion	PW5-4	PW5	PW5-4b	0	0.0041563
+This study	Botswana 2012	Rasemong North Intrusion	PW5-5	PW5	PW5-5a	0	0.004887
+This study	Botswana 2012	Rasemong North Intrusion	PW5-5	PW5	PW5-5c	0	8.32E-5
+This study	Botswana 2012	Rasemong North Intrusion	PW5-6	PW5	PW5-6a	0	0.0039164
+This study	Botswana 2012	Rasemong North Intrusion	PW5-6	PW5	PW5-6b	0	0.0043274
+This study	Botswana 2012	Rasemong North Intrusion	PW5-7	PW5	PW5-7a	0	0.005149
+This study	Botswana 2012	Rasemong North Intrusion	PW5-7	PW5	PW5-7b	0	0.0041935
+This study	Botswana 2012	Rasemong North Intrusion	PW5-8	PW5	PW5-8a	0	0.0040882
+This study	Botswana 2012	Rasemong North Intrusion	PW5-8	PW5	PW5-8b	0	0.004224
+This study	Botswana 2012	Rasemong North Intrusion	PW5-9	PW5	PW5-9a	0	0.0039118
+This study	Botswana 2012	Rasemong North Intrusion	PW5-9	PW5	PW5-9b	0	0.0039522

@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Dibete Kop Sill	PW38-1	PW38	PW38-1a	"PW38-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	14.0	269.6	l	-27.8	11.6	8	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-1	PW38	PW38-1a	"PW38-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	14.0	192.5	l	-9.3	11.6	8	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-1	PW38	PW38-1a	"PW38-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	14.0	192.5	l	-9.3	11.6	8	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-2	PW38	PW38-2a	"PW38-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.3	253.7	l	-36.2	12.9	8	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-2	PW38	PW38-2a	"PW38-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.3	186.0	l	-5.1	12.9	8	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-2	PW38	PW38-2a	"PW38-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.3	186.0	l	-5.1	12.9	8	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-3	PW38	PW38-3a	"PW38-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.8	251.7	l	-21.9	5.4	12	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-3	PW38	PW38-3a	"PW38-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.8	186.6	l	4.7	5.4	12	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-3	PW38	PW38-3a	"PW38-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.8	186.6	l	4.7	5.4	12	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-4	PW38	PW38-4a	"PW38-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	1.5	258.0	l	-15.2	9.0	12	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-4	PW38	PW38-4a	"PW38-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	1.5	192.3	l	5.7	9.0	12	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-4	PW38	PW38-4a	"PW38-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	1.5	192.3	l	5.7	9.0	12	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-5	PW38	PW38-5a	"PW38-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	4.5	194.7	l	-26.5	9.5	10	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-5	PW38	PW38-5a	"PW38-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	4.5	190.8	l	3.6	9.5	10	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-5	PW38	PW38-5a	"PW38-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	4.5	190.8	l	3.6	9.5	10	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-6	PW38	PW38-6a	"PW38-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	183.4	l	-30.9	7.5	12	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-6	PW38	PW38-6a	"PW38-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	191.8	l	7.1	7.5	12	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-6	PW38	PW38-6a	"PW38-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	191.8	l	7.1	7.5	12	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-7	PW38	PW38-7a	"PW38-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	2.3	232.6	l	-40.7	1.0	13	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-7	PW38	PW38-7a	"PW38-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	2.3	201.3	l	-9.4	1.0	13	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-7	PW38	PW38-7a	"PW38-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	2.3	201.3	l	-9.4	1.0	13	100
+	This study	Botswana 2012	Dibete Kop Sill	PW38-8	PW38	PW38-8a	"PW38-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	8.3	136.5	l	-54.7	1.5	13	-1
+	This study	Botswana 2012	Dibete Kop Sill	PW38-8	PW38	PW38-8a	"PW38-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	8.3	145.2	l	-14.5	1.5	13	0
+	This study	Botswana 2012	Dibete Kop Sill	PW38-8	PW38	PW38-8a	"PW38-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	8.3	145.2	l	-14.5	1.5	13	100

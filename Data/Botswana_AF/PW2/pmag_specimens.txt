@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Kgale Peak Sill	PW2-1	PW2	PW2-1a	"PW2-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.4	258.4	l	10.5	0.6	8	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-1	PW2	PW2-1a	"PW2-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.4	153.7	l	14.2	0.6	8	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-1	PW2	PW2-1a	"PW2-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.4	155.0	l	12.1	0.6	8	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-2	PW2	PW2-2a	"PW2-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	8.8	262.2	l	31.7	3.5	4	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-2	PW2	PW2-2a	"PW2-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	8.8	163.6	l	15.3	3.5	4	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-2	PW2	PW2-2a	"PW2-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	8.8	164.9	l	12.3	3.5	4	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-3	PW2	PW2-3a	"PW2-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	4.0	237.6	l	56.4	7.0	4	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-3	PW2	PW2-3a	"PW2-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	4.0	190.8	l	20.7	7.0	4	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-3	PW2	PW2-3a	"PW2-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	4.0	191.9	l	15.7	7.0	4	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-4	PW2	PW2-4a	"PW2-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.9	246.9	l	15.9	3.0	8	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-4	PW2	PW2-4a	"PW2-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.9	193.6	l	20.0	3.0	8	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-4	PW2	PW2-4a	"PW2-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.9	194.6	l	14.8	3.0	8	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-6	PW2	PW2-6a	"PW2-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.7	282.0	l	-54.4	1.0	8	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-6	PW2	PW2-6a	"PW2-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.7	59.9	l	-9.4	1.0	8	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-6	PW2	PW2-6a	"PW2-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.7	59.7	l	-3.6	1.0	8	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-7	PW2	PW2-7a	"PW2-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.2	48.9	l	14.1	1.6	8	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-7	PW2	PW2-7a	"PW2-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.2	249.1	l	-37.8	1.6	8	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-7	PW2	PW2-7a	"PW2-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	1.2	251.3	l	-43.2	1.6	8	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-8	PW2	PW2-8a	"PW2-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	0.6	299.5	l	72.5	3.7	4	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-8	PW2	PW2-8a	"PW2-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	0.6	179.4	l	14.6	3.7	4	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-8	PW2	PW2-8a	"PW2-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	0.6	180.3	l	10.4	3.7	4	100
+	This study	Botswana 2012	Kgale Peak Sill	PW2-9	PW2	PW2-9a	"PW2-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	3.2	269.7	l	87.1	6.1	4	-1
+	This study	Botswana 2012	Kgale Peak Sill	PW2-9	PW2	PW2-9a	"PW2-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	3.2	193.7	l	16.0	6.1	4	0
+	This study	Botswana 2012	Kgale Peak Sill	PW2-9	PW2	PW2-9a	"PW2-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL-O:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.200e-01	T		u	3.2	194.5	l	10.8	6.1	4	100

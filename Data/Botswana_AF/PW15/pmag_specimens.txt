@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-1	PW15	PW15-1a	"PW15-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.3	260.9	l	-19.3	7.2	8	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-1	PW15	PW15-1a	"PW15-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.3	201.3	l	-11.0	7.2	8	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-1	PW15	PW15-1a	"PW15-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.3	200.6	l	-13.1	7.2	8	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-2	PW15	PW15-2a	"PW15-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	2.3	223.6	l	4.7	0.4	10	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-2	PW15	PW15-2a	"PW15-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	2.3	185.3	l	22.9	0.4	10	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-2	PW15	PW15-2a	"PW15-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	2.3	186.9	l	21.8	0.4	10	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-3	PW15	PW15-3a	"PW15-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	6.2	238.8	l	-19.0	8.4	6	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-3	PW15	PW15-3a	"PW15-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	6.2	192.4	l	-10.8	8.4	6	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-3	PW15	PW15-3a	"PW15-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	6.2	191.7	l	-12.3	8.4	6	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-4	PW15	PW15-4a	"PW15-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	0.8	341.4	l	66.9	1.1	11	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-4	PW15	PW15-4a	"PW15-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	0.8	194.7	l	-11.9	1.1	11	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-4	PW15	PW15-4a	"PW15-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	0.8	193.8	l	-13.5	1.1	11	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-5	PW15	PW15-5a	"PW15-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.7	337.4	l	68.8	2.8	9	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-5	PW15	PW15-5a	"PW15-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.7	201.0	l	-10.6	2.8	9	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-5	PW15	PW15-5a	"PW15-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.7	200.3	l	-12.6	2.8	9	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-6	PW15	PW15-6a	"PW15-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.4	338.9	l	58.9	2.7	9	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-6	PW15	PW15-6a	"PW15-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.4	190.3	l	-17.1	2.7	9	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-6	PW15	PW15-6a	"PW15-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.4	189.1	l	-18.4	2.7	9	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-7	PW15	PW15-7a	"PW15-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.6	302.2	l	31.8	4.1	9	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-7	PW15	PW15-7a	"PW15-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.6	155.7	l	-9.5	4.1	9	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-7	PW15	PW15-7a	"PW15-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.6	155.1	l	-8.4	4.1	9	100
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-8	PW15	PW15-8a	"PW15-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	2.5	319.9	l	-40.7	3.5	4	-1
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-8	PW15	PW15-8a	"PW15-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	2.5	124.6	l	-57.2	3.5	4	0
+	This study	Botswana 2012	Mogatelwane 2 Sill	PW15-8	PW15	PW15-8a	"PW15-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.000e-01	T		u	2.5	120.7	l	-54.2	3.5	4	100

@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Mogatelwane 2 Sill	PW16	PW16-1a:PW16-2a:PW16-3a:PW16-4a:PW16-5a:PW16-6a:PW16-7a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	60.7	A	233.9	Site direction included in results table	-43.0	2	7	7	0		3.9131	100

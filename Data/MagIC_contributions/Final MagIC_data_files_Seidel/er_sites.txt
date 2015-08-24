@@ -1,0 +1,32 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lat	site_lithology	site_lon	site_type
+This study	Timbavati	TG01	intrusive	s	-25.35		31.81	sill
+This study	Timbavati	TG02	intrusive	s	-25.35		31.79	sill
+This study	Timbavati	TG03	intrusive	s	-25.04		31.23	sill
+This study	Timbavati	TG04	intrusive	s	-24.94		31.3	sill
+This study	Timbavati	TG05	intrusive	s	-24.55		31.35	sill
+This study	Timbavati	TG06	intrusive	s	-23.91		31.45	sill
+This study	Timbavati	TG07	intrusive	s	-23.9		31.45	sill
+This study	Timbavati	TG08	intrusive	s	-23.23		31.23	sill
+This study	Timbavati	TG09	intrusive	s	-23.21		31.3	sill
+This study	Timbavati	TG11	intrusive	s	-24.4		31.59	sill
+This study	Karoo Dike	KD1	intrusive	s	-25.35		31.81	dike
+This study	Baked sed	L1	sediment	s	-25.75		29.47	Baked Contact
+This study	Baked sed	L2	sediment	s	-25.58		29.62	Baked Contact
+This study	Timbavati	TG12	intrusive	s	-23.71		31.31	sill
+This study	Vredefort	VF1	intrusive	s	-25.84		27.52	sill
+This study	Vredefort	VF2	intrusive	s	-26.84		27.51	sill
+This study	Vredefort	VF3	intrusive	s	-27.02		27.38	sill
+This study	Vredefort	VF4	intrusive	s	-26.9		28.65	sill
+This study	Vredefort	VF5	intrusive	s	-26.91		28.69	sill
+This study	Baked ss	WS1	sediment	s	-25.7		29.2	sill
+This study	post-Waterberg	W01	intrusive	s	-25.47	diabase	29.45	sill
+This study	post-Waterberg	W02	intrusive	s	-25.47	diabase	29.45	sill
+This study	post-Waterberg	W03	intrusive	s	-25.68	diabase	29.4	sill
+This study	post-Waterberg	W04	intrusive	s	-25.73	diabase	29.45	sill
+This study	post-Waterberg	W05	intrusive	s	-25.75	diabase	29.47	sill
+This study	post-Waterberg	W06	intrusive	s	-25.73	diabase	29.38	sill
+This study	post-Waterberg	W07	intrusive	s	-25.7	diabase	29.2	sill
+This study	post-Waterberg	W08	intrusive	s	-25.58	diabase	28.57	sill
+This study	post-Waterberg	W09	intrusive	s	-25.65	diabase	28.6	sill
+This study	post-Waterberg	W10	intrusive	s	-25.66	diabase	28.7	sill

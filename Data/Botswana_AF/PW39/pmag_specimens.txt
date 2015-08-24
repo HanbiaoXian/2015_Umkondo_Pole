@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-10	PW39	PW39-10a	"PW39-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	11.8	268.9	l	-31.8	6.3	12	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-10	PW39	PW39-10a	"PW39-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	11.8	150.4	l	-31.3	6.3	12	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-10	PW39	PW39-10a	"PW39-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	11.8	150.4	l	-31.3	6.3	12	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-11	PW39	PW39-11a	"PW39-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.1	84.5	l	-32.7	4.2	11	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-11	PW39	PW39-11a	"PW39-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.1	156.8	l	-24.6	4.2	11	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-11	PW39	PW39-11a	"PW39-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.1	156.8	l	-24.6	4.2	11	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-1	PW39	PW39-1a	"PW39-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	5.3	347.4	l	-30.9	4.4	10	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-1	PW39	PW39-1a	"PW39-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	5.3	151.2	l	-43.6	4.4	10	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-1	PW39	PW39-1a	"PW39-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	5.3	151.2	l	-43.6	4.4	10	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-2	PW39	PW39-2a	"PW39-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	7.1	348.0	l	-40.1	4.4	10	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-2	PW39	PW39-2a	"PW39-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	7.1	146.3	l	-52.8	4.4	10	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-2	PW39	PW39-2a	"PW39-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	2.500e-02	T		u	7.1	146.3	l	-52.8	4.4	10	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-5	PW39	PW39-5a	"PW39-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	9.000e-02	2.500e-02	T		u	11.6	219.6	l	-51.2	3.7	8	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-5	PW39	PW39-5a	"PW39-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	9.000e-02	2.500e-02	T		u	11.6	137.5	l	-35.4	3.7	8	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-5	PW39	PW39-5a	"PW39-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	9.000e-02	2.500e-02	T		u	11.6	137.5	l	-35.4	3.7	8	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6a	"PW39-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	63.2	222.1	l	-47.2	10.4	8	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6a	"PW39-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	63.2	120.3	l	-31.2	10.4	8	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6a	"PW39-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	63.2	120.3	l	-31.2	10.4	8	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-7	PW39	PW39-7a	"PW39-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	19.5	90.8	l	39.2	5.3	11	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-7	PW39	PW39-7a	"PW39-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	19.5	117.8	l	37.7	5.3	11	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-7	PW39	PW39-7a	"PW39-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	19.5	117.8	l	37.7	5.3	11	100
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-8	PW39	PW39-8a	"PW39-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	3.9	142.3	l	-65.8	1.9	11	-1
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-8	PW39	PW39-8a	"PW39-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	3.9	138.0	l	-49.2	1.9	11	0
+	This study	Botswana 2012	Marseilles Hill Sill	PW39-8	PW39	PW39-8a	"PW39-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	2.500e-02	T		u	3.9	138.0	l	-49.2	1.9	11	100

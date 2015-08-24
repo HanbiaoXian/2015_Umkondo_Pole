@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+42.0	178.4	6.0	3	-24.6882	25.8645	8	8	0	5.4039	i		This study	Kgale Peak Sill	PW2	PW2-1a:PW2-2a:PW2-3a:PW2-4a:PW2-6a:PW2-7a:PW2-8a:PW2-9a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:DE-BFL-O:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW2	A	Site VGP, coord system = b component: A	100	38.4	32.0	-68.3	201.5	8

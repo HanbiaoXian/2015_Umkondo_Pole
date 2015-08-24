@@ -1,0 +1,27 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Suping Sill	PW11-10	PW11	PW11-10a	0	0.0056153
+This study	Botswana 2012	Suping Sill	PW11-10	PW11	PW11-10b	0	0.0055158
+This study	Botswana 2012	Suping Sill	PW11-11	PW11	PW11-11a	0	0.0052173
+This study	Botswana 2012	Suping Sill	PW11-11	PW11	PW11-11b	0	0.005187
+This study	Botswana 2012	Suping Sill	PW11-12	PW11	PW11-12a	0	0.0051796
+This study	Botswana 2012	Suping Sill	PW11-12	PW11	PW11-12b	0	0.0065917
+This study	Botswana 2012	Suping Sill	PW11-1	PW11	PW11-1a	0	0.0054561
+This study	Botswana 2012	Suping Sill	PW11-1	PW11	PW11-1b	0	0.0067097
+This study	Botswana 2012	Suping Sill	PW11-2	PW11	PW11-2a	0	0.0057877
+This study	Botswana 2012	Suping Sill	PW11-2	PW11	PW11-2b	0	0.0067281
+This study	Botswana 2012	Suping Sill	PW11-3	PW11	PW11-3a	0	0.0059258
+This study	Botswana 2012	Suping Sill	PW11-3	PW11	PW11-3b	0	0.0061639
+This study	Botswana 2012	Suping Sill	PW11-4	PW11	PW11-4a	0	0.004718
+This study	Botswana 2012	Suping Sill	PW11-4	PW11	PW11-4b	0	0.0059052
+This study	Botswana 2012	Suping Sill	PW11-5	PW11	PW11-5a	0	0.0049213
+This study	Botswana 2012	Suping Sill	PW11-5	PW11	PW11-5b	0	0.0048701
+This study	Botswana 2012	Suping Sill	PW11-6	PW11	PW11-6a	0	0.0046097
+This study	Botswana 2012	Suping Sill	PW11-6	PW11	PW11-6b	0	0.0050292
+This study	Botswana 2012	Suping Sill	PW11-7	PW11	PW11-7a	0	0.0057989
+This study	Botswana 2012	Suping Sill	PW11-7	PW11	PW11-7b	0	0.0057539
+This study	Botswana 2012	Suping Sill	PW11-8	PW11	PW11-8a	0	0.0051858
+This study	Botswana 2012	Suping Sill	PW11-8	PW11	PW11-8b	0	0.006521
+This study	Botswana 2012	Suping Sill	PW11-8	PW11	PW11-8c	0	0.0001204
+This study	Botswana 2012	Suping Sill	PW11-9	PW11	PW11-9a	0	0.0053417
+This study	Botswana 2012	Suping Sill	PW11-9	PW11	PW11-9b	0	0.0058358

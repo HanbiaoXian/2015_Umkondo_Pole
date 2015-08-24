@@ -1,0 +1,8 @@
+tab 	er_specimens
+er_citation_name	er_location_name	er_sample_name	er_site_name	er_specimen_name
+This study	Botswana	PW22.1b	PW22	PW22.1b
+This study	Botswana	PW22.2b	PW22	PW22.2b
+This study	Botswana	PW22.3b	PW22	PW22.3b
+This study	Botswana	PW22.4b	PW22	PW22.4b
+This study	Botswana	PW22.5b	PW22	PW22.5b
+This study	Botswana	PW22.6b	PW22	PW22.6b

@@ -1,0 +1,32 @@
+tab 	er_ages
+age	age_description	age_unit	er_citation_names	er_location_name	er_site_name	magic_method_codes
+			This study	Timbavati	TG01	
+			This study	Timbavati	TG02	
+			This study	Timbavati	TG03	
+			This study	Timbavati	TG04	
+			This study	Timbavati	TG05	
+			This study	Timbavati	TG06	
+			This study	Timbavati	TG07	
+			This study	Timbavati	TG08	
+			This study	Timbavati	TG09	
+			This study	Timbavati	TG11	
+			This study	Karoo Dike	KD1	
+			This study	Baked sed	L1	
+			This study	Baked sed	L2	
+			This study	Timbavati	TG12	
+			This study	Vredefort	VF1	
+			This study	Vredefort	VF2	
+			This study	Vredefort	VF3	
+			This study	Vredefort	VF4	
+			This study	Vredefort	VF5	
+			This study	Baked ss	WS1	
+			This study	post-Waterberg	W01	
+			This study	post-Waterberg	W02	
+			This study	post-Waterberg	W03	
+			This study	post-Waterberg	W04	
+			This study	post-Waterberg	W05	
+			This study	post-Waterberg	W06	
+			This study	post-Waterberg	W07	
+			This study	post-Waterberg	W08	
+			This study	post-Waterberg	W09	
+			This study	post-Waterberg	W10	

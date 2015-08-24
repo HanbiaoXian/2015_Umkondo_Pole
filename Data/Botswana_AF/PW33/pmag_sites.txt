@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Palapye Dike	PW33	PW33-2a:PW33-3a:PW33-4a:PW33-5a:PW33-6a:PW33-7a:PW33-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:DE-BFL-A:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	11.4	A	173.6	Site direction included in results table	13.9	29	7	7	0		6.7930	100

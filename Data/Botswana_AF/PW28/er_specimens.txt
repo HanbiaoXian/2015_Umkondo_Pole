@@ -1,0 +1,23 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Shosong Sill	PW28-10	PW28	PW28-10a	0	0.0049232
+This study	Botswana 2012	Shosong Sill	PW28-10	PW28	PW28-10b	0	0.0053567
+This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1a	0	0.0047034
+This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1b	0	0.0043319
+This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1c	0	8.9E-5
+This study	Botswana 2012	Shosong Sill	PW28-2	PW28	PW28-2a	0	0.0048511
+This study	Botswana 2012	Shosong Sill	PW28-2	PW28	PW28-2b	0	0.005114
+This study	Botswana 2012	Shosong Sill	PW28-3	PW28	PW28-3a	0	0.0048269
+This study	Botswana 2012	Shosong Sill	PW28-3	PW28	PW28-3b	0	0.0056841
+This study	Botswana 2012	Shosong Sill	PW28-4	PW28	PW28-4a	0	0.0047025
+This study	Botswana 2012	Shosong Sill	PW28-4	PW28	PW28-4b	0	0.0056052
+This study	Botswana 2012	Shosong Sill	PW28-5	PW28	PW28-5a	0	0.004572
+This study	Botswana 2012	Shosong Sill	PW28-5	PW28	PW28-5b	0	0.0045024
+This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6a	0	0.0048021
+This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6b	0	0.0053834
+This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6c	0	8.51E-5
+This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6d	0	0.0005613
+This study	Botswana 2012	Shosong Sill	PW28-8	PW28	PW28-8a	0	0.0051784
+This study	Botswana 2012	Shosong Sill	PW28-8	PW28	PW28-8b	0	0.0052234
+This study	Botswana 2012	Shosong Sill	PW28-9	PW28	PW28-9a	0	0.0051386
+This study	Botswana 2012	Shosong Sill	PW28-9	PW28	PW28-9b	0	0.0055478

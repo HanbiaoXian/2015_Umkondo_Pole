@@ -1,0 +1,1 @@
+tab 	er_expeditions				expedition_description	er_citation_names	er_expedition_name	expedition_start_lat	expedition_start_loc	expedition_start_lonsampling Umkondo sills in southern Botswana to complement the existing number of cooling units	This study	Botswana 2012	-24.6878	"-24.6878,25.8622"	25.8622

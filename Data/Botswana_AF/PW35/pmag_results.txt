@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+4.5	183.4	-0.9	294	-23.8140	26.7354	5	5	0	4.9864	i		This study	Masama 3 Sill	PW35	PW35-2a:PW35-3a:PW35-4a:PW35-6a:PW35-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW35	A	Site VGP, coord system = b component: A	100	4.1	3.4	-65.5	215.0	5

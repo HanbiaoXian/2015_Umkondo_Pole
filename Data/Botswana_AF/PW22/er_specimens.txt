@@ -1,0 +1,27 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-10	PW22	PW22-10a	0	0.0050139
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-10	PW22	PW22-10b	0	0.0056577
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-11	PW22	PW22-11a	0	0.0051118
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-11	PW22	PW22-11b	0	0.0056782
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-12	PW22	PW22-12a	0	0.0045322
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-12	PW22	PW22-12b	0	0.0052612
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-1	PW22	PW22-1a	0	0.0054517
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-1	PW22	PW22-1b	0	0.0061504
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-2	PW22	PW22-2a	0	0.0049011
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-2	PW22	PW22-2b	0	0.0042971
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-3	PW22	PW22-3a	0	0.0047936
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-3	PW22	PW22-3b	0	0.0056589
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-4	PW22	PW22-4a	0	0.0048861
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-4	PW22	PW22-4b	0	0.004462
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-5	PW22	PW22-5a	0	0.0051809
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-5	PW22	PW22-5b	0	0.0042669
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-6	PW22	PW22-6a	0	0.0053869
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-6	PW22	PW22-6b	0	0.004701
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-7	PW22	PW22-7a	0	0.0048041
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-7	PW22	PW22-7b	0	0.0049381
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-8	PW22	PW22-8a	0	0.0050894
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-8	PW22	PW22-8b	0	0.0051057
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-8	PW22	PW22-8c	0	0.0001077
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-9	PW22	PW22-9a	0	0.0055395
+This study	Botswana 2012	Mosolotsane 1 Sill	PW22-9	PW22	PW22-9b	0	0.0056393

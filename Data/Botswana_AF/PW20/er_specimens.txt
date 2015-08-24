@@ -1,0 +1,19 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Lentsweletau Sill	PW20-1	PW20	PW20-1a	0	0.0052405
+This study	Botswana 2012	Lentsweletau Sill	PW20-1	PW20	PW20-1b	0	0.0055565
+This study	Botswana 2012	Lentsweletau Sill	PW20-2	PW20	PW20-2a	0	0.0045595
+This study	Botswana 2012	Lentsweletau Sill	PW20-2	PW20	PW20-2b	0	0.0054075
+This study	Botswana 2012	Lentsweletau Sill	PW20-3	PW20	PW20-3a	0	0.0052634
+This study	Botswana 2012	Lentsweletau Sill	PW20-3	PW20	PW20-3b	0	0.0058165
+This study	Botswana 2012	Lentsweletau Sill	PW20-4	PW20	PW20-4a	0	0.005601
+This study	Botswana 2012	Lentsweletau Sill	PW20-4	PW20	PW20-4b	0	0.0041654
+This study	Botswana 2012	Lentsweletau Sill	PW20-5	PW20	PW20-5a	0	0.0046656
+This study	Botswana 2012	Lentsweletau Sill	PW20-5	PW20	PW20-5b	0	0.0046494
+This study	Botswana 2012	Lentsweletau Sill	PW20-6	PW20	PW20-6a	0	0.0051122
+This study	Botswana 2012	Lentsweletau Sill	PW20-6	PW20	PW20-6b	0	0.0047748
+This study	Botswana 2012	Lentsweletau Sill	PW20-6	PW20	PW20-6c	0	9.99E-5
+This study	Botswana 2012	Lentsweletau Sill	PW20-7	PW20	PW20-7a	0	0.0043019
+This study	Botswana 2012	Lentsweletau Sill	PW20-7	PW20	PW20-7b	0	0.004481
+This study	Botswana 2012	Lentsweletau Sill	PW20-8	PW20	PW20-8a	0	0.0048445
+This study	Botswana 2012	Lentsweletau Sill	PW20-8	PW20	PW20-8b	0	0.0053278

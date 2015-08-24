@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+22.1	183.8	-14.8	7	-24.1804	25.6919	8	8	0	7.0303	i		This study	Mogatelwane 2 Sill	PW15	PW15-1a:PW15-2a:PW15-3a:PW15-4a:PW15-5a:PW15-6a:PW15-7a:PW15-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW15	A	Site VGP, coord system = b component: A	100	20.9	16.6	-58.1	212.8	8

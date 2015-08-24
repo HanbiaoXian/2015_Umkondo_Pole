@@ -1,0 +1,37 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mokgware Sill	PW31-10	PW31	PW31-10a	0	0.0051568
+This study	Botswana 2012	Mokgware Sill	PW31-10	PW31	PW31-10b	0	0.006593
+This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11a	0	0.0056426
+This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11b	0	0.0052883
+This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11c	0	9.92E-5
+This study	Botswana 2012	Mokgware Sill	PW31-12	PW31	PW31-12a	0	0.0059965
+This study	Botswana 2012	Mokgware Sill	PW31-12	PW31	PW31-12b	0	0.006707
+This study	Botswana 2012	Mokgware Sill	PW31-13	PW31	PW31-13a	0	0.0054386
+This study	Botswana 2012	Mokgware Sill	PW31-13	PW31	PW31-13b	0	0.0060827
+This study	Botswana 2012	Mokgware Sill	PW31-14	PW31	PW31-14a	0	0.0053136
+This study	Botswana 2012	Mokgware Sill	PW31-14	PW31	PW31-14b	0	0.0054372
+This study	Botswana 2012	Mokgware Sill	PW31-15	PW31	PW31-15a	0	0.0053217
+This study	Botswana 2012	Mokgware Sill	PW31-15	PW31	PW31-15b	0	0.0065952
+This study	Botswana 2012	Mokgware Sill	PW31-16	PW31	PW31-16a	0	0.0058334
+This study	Botswana 2012	Mokgware Sill	PW31-16	PW31	PW31-16b	0	0.0057985
+This study	Botswana 2012	Mokgware Sill	PW31-17	PW31	PW31-17a	0	0.0057768
+This study	Botswana 2012	Mokgware Sill	PW31-17	PW31	PW31-17b	0	0.0057629
+This study	Botswana 2012	Mokgware Sill	PW31-1	PW31	PW31-1a	0	0.0049021
+This study	Botswana 2012	Mokgware Sill	PW31-1	PW31	PW31-1b	0	0.0054743
+This study	Botswana 2012	Mokgware Sill	PW31-2	PW31	PW31-2a	0	0.0054477
+This study	Botswana 2012	Mokgware Sill	PW31-2	PW31	PW31-2b	0	0.0048675
+This study	Botswana 2012	Mokgware Sill	PW31-3	PW31	PW31-3a	0	0.0057847
+This study	Botswana 2012	Mokgware Sill	PW31-3	PW31	PW31-3b	0	0.0048288
+This study	Botswana 2012	Mokgware Sill	PW31-4	PW31	PW31-4a	0	0.005232
+This study	Botswana 2012	Mokgware Sill	PW31-4	PW31	PW31-4b	0	0.0055684
+This study	Botswana 2012	Mokgware Sill	PW31-5	PW31	PW31-5a	0	0.0054616
+This study	Botswana 2012	Mokgware Sill	PW31-5	PW31	PW31-5b	0	0.0049107
+This study	Botswana 2012	Mokgware Sill	PW31-6	PW31	PW31-6a	0	0.0056664
+This study	Botswana 2012	Mokgware Sill	PW31-6	PW31	PW31-6b	0	0.005339
+This study	Botswana 2012	Mokgware Sill	PW31-7	PW31	PW31-7a	0	0.0051689
+This study	Botswana 2012	Mokgware Sill	PW31-7	PW31	PW31-7b	0	0.0053258
+This study	Botswana 2012	Mokgware Sill	PW31-8	PW31	PW31-8a	0	0.0060369
+This study	Botswana 2012	Mokgware Sill	PW31-8	PW31	PW31-8b	0	0.0059322
+This study	Botswana 2012	Mokgware Sill	PW31-9	PW31	PW31-9a	0	0.0049895
+This study	Botswana 2012	Mokgware Sill	PW31-9	PW31	PW31-9b	0	0.0054825

@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Botswana	PW23	PW23.1b:PW23.2b:PW23.3b:PW23.4b:PW23.5b:PW23.7b	LP-DIR-T:DE-BFL:DA-DIR-TILT:DE-BFL-A:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	36.3	A	174.0	Site direction included in results table	-12.7	4	6	6	0		4.8540	100

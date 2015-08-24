@@ -1,0 +1,27 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-10	PW26	PW26-10a	0	0.0046225
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-10	PW26	PW26-10b	0	0.0054498
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-11	PW26	PW26-11a	0	0.0048804
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-11	PW26	PW26-11b	0	0.0055735
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-12	PW26	PW26-12a	0	0.0049451
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-12	PW26	PW26-12b	0	0.0054415
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-1	PW26	PW26-1a	0	0.0047261
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-1	PW26	PW26-1b	0	0.0051987
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-2	PW26	PW26-2a	0	0.0046889
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-2	PW26	PW26-2b	0	0.0048863
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-3	PW26	PW26-3a	0	0.004772
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-3	PW26	PW26-3b	0	0.0047435
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-4	PW26	PW26-4a	0	0.0050277
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-4	PW26	PW26-4b	0	0.0050537
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-5	PW26	PW26-5a	0	0.0053565
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-5	PW26	PW26-5b	0	0.0056307
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-6	PW26	PW26-6a	0	0.0044657
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-6	PW26	PW26-6b	0	0.0054502
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-6	PW26	PW26-6c	0	8.62E-5
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-7	PW26	PW26-7a	0	0.004715
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-7	PW26	PW26-7b	0	0.0046288
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-8	PW26	PW26-8a	0	0.0043663
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-8	PW26	PW26-8b	0	0.0054935
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-9	PW26	PW26-9a	0	0.0051188
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26-9	PW26	PW26-9b	0	0.0052339

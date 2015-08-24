@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+10.6	182.0	-5.7	28	-24.3277	25.5322	8	8	0	7.7524	i		This study	Suping Sill	PW11	PW11-1a:PW11-2a:PW11-3a:PW11-4a:PW11-5a:PW11-6a:PW11-7a:PW11-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW11	A	Site VGP, coord system = b component: A	100	9.7	8.0	-62.7	209.9	8

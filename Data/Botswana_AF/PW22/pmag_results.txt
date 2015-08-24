@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+26.9	187.3	6.9	5	-22.9070	26.3893	8	8	0	6.6559	i		This study	Mosolotsane 1 Sill	PW22	PW22-10a:PW22-1a:PW22-2a:PW22-3a:PW22-4a:PW22-5a:PW22-6a:PW22-9a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW22	A	Site VGP, coord system = b component: A	100	25.0	19.6	-69.3	227.4	8

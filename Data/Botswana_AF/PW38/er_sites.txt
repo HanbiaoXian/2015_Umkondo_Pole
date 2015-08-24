@@ -1,0 +1,3 @@
+tab 	er_sites
+er_citation_names	er_expedition_name	er_location_name	er_site_name	site_description	site_elevation	site_lat	site_lon
+This study	Botswana 2012	Dibete Kop Sill	PW38			-23.7817	26.5631

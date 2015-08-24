@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Mosolotsane 2 Sill	PW27	PW27-1a:PW27-2a:PW27-3a:PW27-4a:PW27-5a:PW27-6a:PW27-8a:PW27-9a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	5.6	A	187.6	Site direction included in results table	2.0	97	8	8	0		7.9282	100

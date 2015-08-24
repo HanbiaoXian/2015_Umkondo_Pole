@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Shosong Sill	PW28-10	PW28	PW28-10a	"PW28-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.1	109.9	l	-9.1	2.9	8	-1
+	This study	Botswana 2012	Shosong Sill	PW28-10	PW28	PW28-10a	"PW28-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.1	191.2	l	11.6	2.9	8	0
+	This study	Botswana 2012	Shosong Sill	PW28-10	PW28	PW28-10a	"PW28-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	4.1	191.2	l	11.6	2.9	8	100
+	This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1a	"PW28-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	73.1	l	20.4	3.2	12	-1
+	This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1a	"PW28-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	187.9	l	3.5	3.2	12	0
+	This study	Botswana 2012	Shosong Sill	PW28-1	PW28	PW28-1a	"PW28-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.0	187.9	l	3.5	3.2	12	100
+	This study	Botswana 2012	Shosong Sill	PW28-2	PW28	PW28-2a	"PW28-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.9	85.3	l	7.2	3.9	9	-1
+	This study	Botswana 2012	Shosong Sill	PW28-2	PW28	PW28-2a	"PW28-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.9	185.3	l	4.8	3.9	9	0
+	This study	Botswana 2012	Shosong Sill	PW28-2	PW28	PW28-2a	"PW28-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.9	185.3	l	4.8	3.9	9	100
+	This study	Botswana 2012	Shosong Sill	PW28-3	PW28	PW28-3a	"PW28-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	3.9	99.4	l	0.5	1.8	6	-1
+	This study	Botswana 2012	Shosong Sill	PW28-3	PW28	PW28-3a	"PW28-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	3.9	190.7	l	5.9	1.8	6	0
+	This study	Botswana 2012	Shosong Sill	PW28-3	PW28	PW28-3a	"PW28-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	3.9	190.7	l	5.9	1.8	6	100
+	This study	Botswana 2012	Shosong Sill	PW28-4	PW28	PW28-4a	"PW28-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.5	113.4	l	-1.8	4.4	8	-1
+	This study	Botswana 2012	Shosong Sill	PW28-4	PW28	PW28-4a	"PW28-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.5	189.0	l	4.2	4.4	8	0
+	This study	Botswana 2012	Shosong Sill	PW28-4	PW28	PW28-4a	"PW28-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	3.5	189.0	l	4.2	4.4	8	100
+	This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6a	"PW28-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	3.6	75.9	l	23.7	5.3	7	-1
+	This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6a	"PW28-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	3.6	189.9	l	0.4	5.3	7	0
+	This study	Botswana 2012	Shosong Sill	PW28-6	PW28	PW28-6a	"PW28-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	3.6	189.9	l	0.4	5.3	7	100
+	This study	Botswana 2012	Shosong Sill	PW28-8	PW28	PW28-8a	"PW28-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.7	101.3	l	-8.2	2.4	9	-1
+	This study	Botswana 2012	Shosong Sill	PW28-8	PW28	PW28-8a	"PW28-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.7	181.0	l	-1.5	2.4	9	0
+	This study	Botswana 2012	Shosong Sill	PW28-8	PW28	PW28-8a	"PW28-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.7	181.0	l	-1.5	2.4	9	100
+	This study	Botswana 2012	Shosong Sill	PW28-9	PW28	PW28-9a	"PW28-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	84.3	l	21.0	1.8	9	-1
+	This study	Botswana 2012	Shosong Sill	PW28-9	PW28	PW28-9a	"PW28-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	192.4	l	2.0	1.8	9	0
+	This study	Botswana 2012	Shosong Sill	PW28-9	PW28	PW28-9a	"PW28-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	1.2	192.4	l	2.0	1.8	9	100

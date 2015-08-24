@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Sepatamorire Hill Sill	PW32	PW32-11a:PW32-13a:PW32-18a:PW32-21a:PW32-5a:PW32-6a:PW32-7a:PW32-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:DE-BFL-A:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	8.7	A	193.9	Site direction included in results table	1.9	41	8	8	0		7.8301	100

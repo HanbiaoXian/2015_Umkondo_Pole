@@ -1,0 +1,27 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-10	PW19	PW19-10a	0	0.004913
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-10	PW19	PW19-10b	0	0.0053913
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-11	PW19	PW19-11a	0	0.005107
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-11	PW19	PW19-11b	0	0.0057327
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-12	PW19	PW19-12a	0	0.0048594
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-12	PW19	PW19-12b	0	0.0049209
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-12	PW19	PW19-12c	0	0.0001075
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-13	PW19	PW19-13a	0	0.0045858
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-13	PW19	PW19-13b	0	0.0047424
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-1	PW19	PW19-1a	0	0.0046757
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-1	PW19	PW19-1b	0	0.0054259
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-2	PW19	PW19-2a	0	0.0050121
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-2	PW19	PW19-2b	0	0.0049181
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-3	PW19	PW19-3a	0	0.0044738
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-3	PW19	PW19-3b	0	0.0056217
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-4	PW19	PW19-4a	0	0.0047533
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-4	PW19	PW19-4b	0	0.0055772
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-5	PW19	PW19-5a	0	0.0047243
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-5	PW19	PW19-5b	0	0.0050035
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-6	PW19	PW19-6a	0	0.0050073
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-6	PW19	PW19-6b	0	0.004893
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-8	PW19	PW19-8a	0	0.0054493
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-8	PW19	PW19-8b	0	0.0052309
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-9	PW19	PW19-9a	0	0.0049986
+This study	Botswana 2012	Molepolole Prison Quarry Sill	PW19-9	PW19	PW19-9b	0	0.0043919

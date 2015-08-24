@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Masama 1 Sill	PW34	PW34-1a:PW34-2a:PW34-3a:PW34-5a:PW34-6a:PW34-7a:PW34-8a:PW34-9a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:LP-DC4:DE-FM:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	9.8	A	175.6	Site direction included in results table	-9.4	33	8	8	0		7.7868	100

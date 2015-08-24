@@ -1,0 +1,23 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-10	PW7	PW7-10a	"PW7-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	91.7	73.8	l	-0.3	11.5	9	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-10	PW7	PW7-10a	"PW7-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	91.7	180.5	l	-10.6	11.5	9	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-10	PW7	PW7-10a	"PW7-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	91.7	180.5	l	-10.6	11.5	9	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-11	PW7	PW7-11a	"PW7-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	30.2	143.9	l	-11.0	4.6	8	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-11	PW7	PW7-11a	"PW7-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	30.2	186.9	l	18.9	4.6	8	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-11	PW7	PW7-11a	"PW7-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	30.2	186.9	l	18.9	4.6	8	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-12	PW7	PW7-12a	"PW7-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	8.000e-02	1.500e-02	T		u	20.1	138.6	l	-21.0	3.2	9	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-12	PW7	PW7-12a	"PW7-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	8.000e-02	1.500e-02	T		u	20.1	183.7	l	3.9	3.2	9	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-12	PW7	PW7-12a	"PW7-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	8.000e-02	1.500e-02	T		u	20.1	183.7	l	3.9	3.2	9	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-1	PW7	PW7-1a	"PW7-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	7.000e-02	2.500e-02	T		u	3.0	117.7	l	-27.8	6.9	6	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-1	PW7	PW7-1a	"PW7-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	7.000e-02	2.500e-02	T		u	3.0	180.7	l	2.1	6.9	6	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-1	PW7	PW7-1a	"PW7-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	7.000e-02	2.500e-02	T		u	3.0	180.7	l	2.1	6.9	6	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-2	PW7	PW7-2a	"PW7-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	17.4	100.7	l	-34.5	9.1	8	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-2	PW7	PW7-2a	"PW7-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	17.4	178.3	l	-11.5	9.1	8	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-2	PW7	PW7-2a	"PW7-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	17.4	178.3	l	-11.5	9.1	8	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-3	PW7	PW7-3a	"PW7-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	8.1	124.6	l	-27.9	5.0	8	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-3	PW7	PW7-3a	"PW7-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	8.1	189.7	l	6.2	5.0	8	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-3	PW7	PW7-3a	"PW7-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	8.1	189.7	l	6.2	5.0	8	100
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-5	PW7	PW7-5a	"PW7-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	1.500e-02	T		u	13.7	150.5	l	-33.9	4.6	14	-1
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-5	PW7	PW7-5a	"PW7-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	1.500e-02	T		u	13.7	165.6	l	16.7	4.6	14	0
+	This study	Botswana 2012	Mabogoapitse Hill Sill	PW7-5	PW7	PW7-5a	"PW7-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	1.500e-02	T		u	13.7	165.6	l	16.7	4.6	14	100

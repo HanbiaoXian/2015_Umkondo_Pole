@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Masama 3 Sill	PW37-10	PW37	PW37-10a	"PW37-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	4.0	132.4	l	-15.6	1.8	10	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-10	PW37	PW37-10a	"PW37-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	4.0	188.8	l	-3.2	1.8	10	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-10	PW37	PW37-10a	"PW37-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	4.0	188.7	l	4.8	1.8	10	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-1	PW37	PW37-1a	"PW37-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	2.000e-02	T		u	0.8	74.0	l	0.0	0.8	12	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-1	PW37	PW37-1a	"PW37-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	2.000e-02	T		u	0.8	187.2	l	-4.9	0.8	12	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-1	PW37	PW37-1a	"PW37-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	2.000e-02	T		u	0.8	187.2	l	3.1	0.8	12	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-2	PW37	PW37-2a	"PW37-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	0.4	121.0	l	-16.9	1.7	9	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-2	PW37	PW37-2a	"PW37-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	0.4	194.9	l	-7.7	1.7	9	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-2	PW37	PW37-2a	"PW37-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	0.4	194.9	l	0.3	1.7	9	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-3	PW37	PW37-3a	"PW37-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	3.6	333.1	l	4.3	1.0	10	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-3	PW37	PW37-3a	"PW37-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	3.6	186.7	l	-11.8	1.0	10	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-3	PW37	PW37-3a	"PW37-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	3.6	186.8	l	-3.8	1.0	10	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-5	PW37	PW37-5a	"PW37-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	5.0	39.8	l	-11.3	2.2	9	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-5	PW37	PW37-5a	"PW37-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	5.0	189.4	l	-21.1	2.2	9	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-5	PW37	PW37-5a	"PW37-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	5.0	189.5	l	-13.1	2.2	9	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6a	"PW37-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	5.000e-02	T		u	9.2	58.1	l	-24.3	7.3	6	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6a	"PW37-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	5.000e-02	T		u	9.2	185.7	l	-30.6	7.3	6	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6a	"PW37-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	5.000e-02	T		u	9.2	186.1	l	-22.6	7.3	6	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-7	PW37	PW37-7a	"PW37-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.0	122.9	l	-16.4	1.2	11	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-7	PW37	PW37-7a	"PW37-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.0	186.2	l	-10.9	1.2	11	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-7	PW37	PW37-7a	"PW37-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	2.000e-02	T		u	2.0	186.3	l	-2.9	1.2	11	100
+	This study	Botswana 2012	Masama 3 Sill	PW37-9	PW37	PW37-9a	"PW37-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	0.8	123.9	l	-10.0	2.0	9	-1
+	This study	Botswana 2012	Masama 3 Sill	PW37-9	PW37	PW37-9a	"PW37-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	0.8	190.7	l	2.5	2.0	9	0
+	This study	Botswana 2012	Masama 3 Sill	PW37-9	PW37	PW37-9a	"PW37-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	0.8	190.7	l	10.5	2.0	9	100

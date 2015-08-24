@@ -1,0 +1,8 @@
+tab 	er_samples
+er_citation_name	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type	specimen_volume	specimen_weight
+This study	UMK_BOT	PW6.1b	PW6	SO-CMD-NORTH	-18.3	0.0	90.0		0.0	-21.0	0				1.000e-03
+This study	UMK_BOT	PW6.4b	PW6	SO-CMD-NORTH	4.4	0.0	90.0		0.0	-33.0	0				1.000e-03
+This study	UMK_BOT	PW6.5b	PW6	SO-CMD-NORTH	15.8	0.0	90.0		0.0	-41.0	0				1.000e-03
+This study	UMK_BOT	PW6.6b	PW6	SO-CMD-NORTH	62.1	0.0	90.0		0.0	-15.0	0				1.000e-03
+This study	UMK_BOT	PW6.7b	PW6	SO-CMD-NORTH	63.5	0.0	90.0		0.0	-11.0	0				1.000e-03
+This study	UMK_BOT	PW6.8b	PW6	SO-CMD-NORTH	65.1	0.0	90.0		0.0	-14.0	0				1.000e-03

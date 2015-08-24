@@ -1,0 +1,20 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana	PW37.1b	PW37	PW37.1b	PW37.1b:LP-DIR-T	hargrave 2014-07-14 17:02:51	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	793	K		u	0.0	82.8	l	-1.4	0.6	9	-1
+	This study	Botswana	PW37.1b	PW37	PW37.1b	PW37.1b:LP-DIR-T	hargrave 2014-07-14 17:02:51	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	793	K		u	0.0	196.0	l	-3.6	0.6	9	0
+	This study	Botswana	PW37.1b	PW37	PW37.1b	PW37.1b:LP-DIR-T	hargrave 2014-07-14 17:02:51	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	793	K		u	0.0	196.0	l	4.4	0.6	9	100
+	This study	Botswana	PW37.2b	PW37	PW37.2b	PW37.2b:LP-DIR-T	hargrave 2014-07-14 17:04:21	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	823	K		u	0.0	131.5	l	-16.8	1.8	7	-1
+	This study	Botswana	PW37.2b	PW37	PW37.2b	PW37.2b:LP-DIR-T	hargrave 2014-07-14 17:04:21	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	823	K		u	0.0	204.7	l	-5.3	1.8	7	0
+	This study	Botswana	PW37.2b	PW37	PW37.2b	PW37.2b:LP-DIR-T	hargrave 2014-07-14 17:04:21	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	823	K		u	0.0	204.7	l	2.5	1.8	7	100
+	This study	Botswana	PW37.3b	PW37	PW37.3b	PW37.3b:LP-DIR-T	hargrave 2014-07-14 17:05:49	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	813	K		u	0.0	333.9	l	5.6	0.7	8	-1
+	This study	Botswana	PW37.3b	PW37	PW37.3b	PW37.3b:LP-DIR-T	hargrave 2014-07-14 17:05:49	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	813	K		u	0.0	187.8	l	-10.6	0.7	8	0
+	This study	Botswana	PW37.3b	PW37	PW37.3b	PW37.3b:LP-DIR-T	hargrave 2014-07-14 17:05:49	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	813	K		u	0.0	187.8	l	-2.6	0.7	8	100
+	This study	Botswana	PW37.5b	PW37	PW37.5b	PW37.5b:LP-DIR-T	hargrave 2014-07-14 17:07:18	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	773	K		u	0.0	41.8	l	-6.5	1.4	10	-1
+	This study	Botswana	PW37.5b	PW37	PW37.5b	PW37.5b:LP-DIR-T	hargrave 2014-07-14 17:07:18	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	773	K		u	0.0	190.6	l	-16.1	1.4	10	0
+	This study	Botswana	PW37.5b	PW37	PW37.5b	PW37.5b:LP-DIR-T	hargrave 2014-07-14 17:07:18	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	773	K		u	0.0	190.6	l	-8.1	1.4	10	100
+	This study	Botswana	PW37.6b	PW37	PW37.6b	PW37.6b:LP-DIR-T	hargrave 2014-07-14 17:08:46	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	773	K		u	0.0	61.8	l	-18.8	1.5	10	-1
+	This study	Botswana	PW37.6b	PW37	PW37.6b	PW37.6b:LP-DIR-T	hargrave 2014-07-14 17:08:46	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	773	K		u	0.0	188.2	l	-24.5	1.5	10	0
+	This study	Botswana	PW37.6b	PW37	PW37.6b	PW37.6b:LP-DIR-T	hargrave 2014-07-14 17:08:46	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	773	K		u	0.0	188.3	l	-16.5	1.5	10	100
+	This study	Botswana	PW37.7b	PW37	PW37.7b	PW37.7b:LP-DIR-T	hargrave 2014-07-14 17:10:16	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	848	823	K		u	0.0	124.1	l	-13.7	0.7	7	-1
+	This study	Botswana	PW37.7b	PW37	PW37.7b	PW37.7b:LP-DIR-T	hargrave 2014-07-14 17:10:16	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	848	823	K		u	0.0	187.0	l	-7.9	0.7	7	0
+	This study	Botswana	PW37.7b	PW37	PW37.7b	PW37.7b:LP-DIR-T	hargrave 2014-07-14 17:10:16	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	848	823	K		u	0.0	187.0	l	0.0	0.7	7	100

@@ -1,0 +1,31 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Rapitsane Sill	PW10-10	PW10	PW10-10a	0	0.0059781
+This study	Botswana 2012	Rapitsane Sill	PW10-10	PW10	PW10-10b	0	0.0060696
+This study	Botswana 2012	Rapitsane Sill	PW10-11	PW10	PW10-11a	0	0.005398
+This study	Botswana 2012	Rapitsane Sill	PW10-11	PW10	PW10-11b	0	0.0065499
+This study	Botswana 2012	Rapitsane Sill	PW10-12	PW10	PW10-12a	0	0.0059951
+This study	Botswana 2012	Rapitsane Sill	PW10-12	PW10	PW10-12b	0	0.0063074
+This study	Botswana 2012	Rapitsane Sill	PW10-13	PW10	PW10-13a	0	0.0046404
+This study	Botswana 2012	Rapitsane Sill	PW10-13	PW10	PW10-13b	0	0.0062851
+This study	Botswana 2012	Rapitsane Sill	PW10-1	PW10	PW10-1a	0	0.0059513
+This study	Botswana 2012	Rapitsane Sill	PW10-1	PW10	PW10-1b	0	0.0060125
+This study	Botswana 2012	Rapitsane Sill	PW10-2	PW10	PW10-2a	0	0.0054538
+This study	Botswana 2012	Rapitsane Sill	PW10-2	PW10	PW10-2b	0	0.00591
+This study	Botswana 2012	Rapitsane Sill	PW10-3	PW10	PW10-3a	0	0.0059379
+This study	Botswana 2012	Rapitsane Sill	PW10-3	PW10	PW10-3b	0	0.0059279
+This study	Botswana 2012	Rapitsane Sill	PW10-4	PW10	PW10-4a	0	0.0053186
+This study	Botswana 2012	Rapitsane Sill	PW10-4	PW10	PW10-4b	0	0.005934
+This study	Botswana 2012	Rapitsane Sill	PW10-5	PW10	PW10-5a	0	0.0053432
+This study	Botswana 2012	Rapitsane Sill	PW10-5	PW10	PW10-5b	0	0.0063092
+This study	Botswana 2012	Rapitsane Sill	PW10-6	PW10	PW10-6a	0	0.0056237
+This study	Botswana 2012	Rapitsane Sill	PW10-6	PW10	PW10-6b	0	0.0048053
+This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7a	0	0.0054054
+This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7b	0	0.0057048
+This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7c	0	9.4E-5
+This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7d	0	0.0009998
+This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7e	0	0.0009971
+This study	Botswana 2012	Rapitsane Sill	PW10-8	PW10	PW10-8a	0	0.0051372
+This study	Botswana 2012	Rapitsane Sill	PW10-8	PW10	PW10-8b	0	0.0057426
+This study	Botswana 2012	Rapitsane Sill	PW10-9	PW10	PW10-9a	0	0.0061722
+This study	Botswana 2012	Rapitsane Sill	PW10-9	PW10	PW10-9b	0	0.0064299

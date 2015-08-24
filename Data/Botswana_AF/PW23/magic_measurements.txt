@@ -1,0 +1,1180 @@
+tab 	magic_measurements
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_name	magic_instrument_codes	magic_method_codes	measurement_date	measurement_dec	measurement_flag	measurement_inc	measurement_magn_moment	measurement_number	measurement_pos_z	measurement_standard	measurement_temp	treatment_ac_field	treatment_dc_field	treatment_temp
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:20:42.00	194.7255664	g	-53.09473249	5.82E-08	1204989	0.067	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:20:56.00	197.6002604	g	-24.34246453	2.81E-07	1204990	0.267	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:21:10.00	-9.80971989	g	1.230816381	3.65E-07	1204991	0.467	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:21:24.00	254.1461714	g	53.67023799	7.58E-08	1204992	0.667	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:21:38.00	267.5509907	g	-13.83513062	7.42E-07	1204993	0.867	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:21:52.00	264.4476295	g	-69.58088775	2.05E-07	1204994	1.067	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:22:06.00	244.9976647	g	-62.83041927	3.67E-07	1204995	1.267	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-NO	2013:03:12:14:22:20.00	196.5753678	g	-63.13302957	3.09E-07	1204996	1.467	u				
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:31:09.00	191.2854655	g	-56.94535457	4.76E-08	1221547	0.067	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:31:24.00	201.6184401	g	-30.32989558	1.86E-07	1221548	0.267	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:31:38.00	-12.96304629	g	5.434756705	2.29E-07	1221549	0.467	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:31:52.00	251.9817451	g	48.16172418	5.94E-08	1221550	0.667	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:32:06.00	268.7476034	g	-14.27189467	5.87E-07	1221551	0.867	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:32:20.00	260.682201	g	-60.13626921	1.19E-07	1221552	1.067	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:32:35.00	262.1837018	g	-53.56734876	1.97E-07	1221553	1.267	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-LT-Z	2013:04:02:17:32:49.00	207.2767787	g	-63.07418163	1.83E-07	1221554	1.467	u				77
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:52:04.00	191.2615216	g	-57.09973011	4.75E-08	1221555	0.067	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:52:19.00	201.8362815	g	-30.54129986	1.86E-07	1221556	0.267	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:52:34.00	-13.15852689	g	5.445884749	2.27E-07	1221557	0.467	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:52:50.00	251.8830739	g	47.96561939	5.93E-08	1221558	0.667	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:53:05.00	268.7834743	g	-14.25320549	5.88E-07	1221559	0.867	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:53:20.00	260.8996492	g	-60.02300139	1.19E-07	1221560	1.067	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:53:35.00	262.3133349	g	-53.50879096	1.97E-07	1221561	1.267	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:53:51.00	207.5930177	g	-63.10232503	1.83E-07	1221562	1.467	u		0.001		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:57:23.00	191.2242705	g	-57.05534428	4.76E-08	1221563	0.067	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:57:39.00	201.8634761	g	-30.71882796	1.85E-07	1221564	0.267	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:57:54.00	-13.22426209	g	5.568303817	2.26E-07	1221565	0.467	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:58:09.00	252.088989	g	48.10270758	5.94E-08	1221566	0.667	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:58:24.00	268.777684	g	-14.26720742	5.87E-07	1221567	0.867	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:58:39.00	260.7782139	g	-59.95757801	1.19E-07	1221568	1.067	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:58:55.00	262.4693888	g	-53.43402467	1.97E-07	1221569	1.267	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:17:59:10.00	207.7741237	g	-63.05064583	1.82E-07	1221570	1.467	u		0.0015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:02:43.00	190.9766123	g	-57.02332475	4.76E-08	1221571	0.067	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:02:58.00	201.8268885	g	-31.01392265	1.85E-07	1221572	0.267	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:03:13.00	-13.30961819	g	5.699707835	2.25E-07	1221573	0.467	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:03:29.00	251.9750395	g	48.22514811	5.92E-08	1221574	0.667	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:03:44.00	268.8006795	g	-14.28547334	5.87E-07	1221575	0.867	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:03:59.00	260.8565085	g	-59.84952471	1.19E-07	1221576	1.067	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:04:14.00	262.6200442	g	-53.39266326	1.96E-07	1221577	1.267	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:04:30.00	207.9016757	g	-63.02508237	1.82E-07	1221578	1.467	u		0.002		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:08:03.00	191.1245216	g	-57.02194719	4.75E-08	1221579	0.067	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:08:19.00	202.0970197	g	-31.56684111	1.84E-07	1221580	0.267	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:08:34.00	-13.41244883	g	6.1344112	2.22E-07	1221581	0.467	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:08:49.00	251.7850921	g	48.0271014	5.90E-08	1221582	0.667	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:09:04.00	268.7891985	g	-14.30328727	5.86E-07	1221583	0.867	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:09:20.00	260.9221175	g	-59.64296447	1.18E-07	1221584	1.067	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:09:35.00	262.9756422	g	-53.28835817	1.96E-07	1221585	1.267	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:09:50.00	208.2729966	g	-62.98443565	1.80E-07	1221586	1.467	u		0.0025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:13:26.00	190.9667469	g	-57.2051178	4.53E-08	1221587	0.067	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:13:41.00	205.2225947	g	-38.71806172	1.74E-07	1221588	0.267	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:13:56.00	-14.37512253	g	8.131090961	1.96E-07	1221589	0.467	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:14:12.00	251.2543152	g	47.12150695	5.54E-08	1221590	0.667	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:14:27.00	268.7882744	g	-14.56841677	5.75E-07	1221591	0.867	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:14:42.00	259.8599501	g	-56.76537319	1.08E-07	1221592	1.067	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:14:57.00	267.5543933	g	-52.24208089	1.83E-07	1221593	1.267	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:15:13.00	212.9483491	g	-63.34451509	1.62E-07	1221594	1.467	u		0.005		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:18:51.00	189.1718077	g	-57.23424211	3.97E-08	1221595	0.067	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:19:06.00	211.8494483	g	-47.07096075	1.52E-07	1221596	0.267	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:19:22.00	-19.29346341	g	9.329170098	1.42E-07	1221597	0.467	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:19:37.00	252.6765916	g	36.75682619	4.73E-08	1221598	0.667	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:19:52.00	268.8565596	g	-14.97140056	5.45E-07	1221599	0.867	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:20:07.00	256.7448658	g	-48.36936543	8.81E-08	1221600	1.067	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:20:22.00	-88.33690034	g	-45.8794615	1.53E-07	1221601	1.267	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:20:38.00	224.3048144	g	-61.61407668	1.27E-07	1221602	1.467	u		0.0075		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:24:19.00	187.0371274	g	-56.11096883	3.11E-08	1221603	0.067	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:24:34.00	222.818617	g	-52.96506614	9.86E-08	1221604	0.267	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:24:49.00	-29.43569377	g	8.755217887	9.68E-08	1221605	0.467	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:25:05.00	253.3542773	g	25.58252609	4.16E-08	1221606	0.667	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:25:20.00	268.9115521	g	-15.2043566	4.89E-07	1221607	0.867	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:25:35.00	252.4458508	g	-35.29100994	7.11E-08	1221608	1.067	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:25:50.00	-89.12838938	g	-34.48408957	1.22E-07	1221609	1.267	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:26:05.00	235.7113122	g	-53.83563869	9.26E-08	1221610	1.467	u		0.01		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:29:51.00	181.8051331	g	-56.61899305	1.90E-08	1221611	0.067	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:30:06.00	-87.3133263	g	-57.16933446	2.98E-08	1221612	0.267	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:30:22.00	-35.52957694	g	14.57198927	5.75E-08	1221613	0.467	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:30:37.00	250.6846174	g	18.31478066	3.69E-08	1221614	0.667	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:30:52.00	269.0119388	g	-15.53825964	3.74E-07	1221615	0.867	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:31:07.00	249.4170061	g	-24.08929984	6.36E-08	1221616	1.067	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:31:23.00	-89.763224	g	-20.04067086	9.60E-08	1221617	1.267	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:31:38.00	246.0849299	g	-41.79449231	6.68E-08	1221618	1.467	u		0.015		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:35:28.00	-187.9032144	g	-53.63160701	1.35E-08	1221619	0.067	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:35:43.00	-46.39386867	g	-21.84845948	2.35E-08	1221620	0.267	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:35:58.00	-55.69582427	g	12.2887227	4.06E-08	1221621	0.467	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:36:13.00	258.1446643	g	19.29771335	3.26E-08	1221622	0.667	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:36:29.00	269.060775	g	-15.91552944	2.71E-07	1221623	0.867	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:36:44.00	247.4465499	g	-19.71670905	5.69E-08	1221624	1.067	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:36:59.00	269.7912218	g	-11.665233	8.43E-08	1221625	1.267	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:37:14.00	251.1637609	g	-35.04849029	5.42E-08	1221626	1.467	u		0.02		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:41:09.00	-196.774611	g	-49.82258045	1.03E-08	1221627	0.067	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:41:24.00	-13.38428198	g	8.300517368	1.88E-08	1221628	0.267	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:41:40.00	-66.47812913	g	25.19379682	3.63E-08	1221629	0.467	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:41:55.00	252.8439935	g	18.17137801	3.04E-08	1221630	0.667	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:42:10.00	269.393517	g	-16.28698541	1.87E-07	1221631	0.867	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:42:25.00	247.65805	g	-15.69072842	5.16E-08	1221632	1.067	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:42:41.00	269.2557247	g	-7.958670835	7.41E-08	1221633	1.267	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:42:56.00	252.8680607	g	-29.74271599	4.53E-08	1221634	1.467	u		0.025		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:55:04.00	-203.9720465	g	-50.67255115	8.16E-09	1221635	0.067	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:55:20.00	-25.88959	g	26.68658381	2.46E-08	1221636	0.267	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:55:35.00	-69.46341739	g	17.17884991	3.39E-08	1221637	0.467	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:55:50.00	257.6906789	g	6.398786864	2.79E-08	1221638	0.667	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:56:05.00	269.5830554	g	-16.69129237	1.22E-07	1221639	0.867	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:56:20.00	246.1809427	g	-12.95929208	4.73E-08	1221640	1.067	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:56:36.00	268.8637597	g	-5.46829	6.64E-08	1221641	1.267	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:18:56:51.00	255.238276	g	-26.39471373	4.02E-08	1221642	1.467	u		0.03		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:05:03.00	-205.8808015	g	-47.11082084	5.56E-09	1221643	0.067	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:05:18.00	-20.06467707	g	25.27899245	2.64E-08	1221644	0.267	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:05:33.00	-67.32370783	g	27.61069185	2.98E-08	1221645	0.467	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:05:48.00	257.882532	g	11.21643563	2.80E-08	1221646	0.667	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:06:04.00	-89.58843331	g	-15.50168116	6.32E-08	1221647	0.867	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:06:19.00	243.9392898	g	-12.2111781	3.84E-08	1221648	1.067	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:06:34.00	269.4684641	g	-1.910994457	5.36E-08	1221649	1.267	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:06:49.00	254.9666817	g	-22.84478671	3.34E-08	1221650	1.467	u		0.04		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:11:06.00	-208.7481458	g	-48.54390313	4.53E-09	1221651	0.067	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:11:22.00	-12.68297746	g	24.60666452	2.44E-08	1221652	0.267	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:11:37.00	-67.66919007	g	33.95355353	2.02E-08	1221653	0.467	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:11:52.00	257.515936	g	-4.12031806	2.08E-08	1221654	0.667	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:12:07.00	-86.66612108	g	-14.22272546	3.43E-08	1221655	0.867	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:12:22.00	248.2453627	g	-15.10147437	3.31E-08	1221656	1.067	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:12:38.00	-87.47331695	g	-0.24246537	4.46E-08	1221657	1.267	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:12:53.00	258.3209769	g	-22.09170588	2.53E-08	1221658	1.467	u		0.05		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:17:19.00	-216.0810401	g	-57.99433605	2.91E-09	1221659	0.067	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:17:34.00	10.23048697	g	31.30461026	1.46E-08	1221660	0.267	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:17:50.00	-83.10879301	g	21.22404	2.61E-08	1221661	0.467	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:18:05.00	269.790931	g	-4.126111624	1.54E-08	1221662	0.667	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:18:20.00	-87.22092306	g	-12.18881366	1.96E-08	1221663	0.867	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:18:35.00	249.1462313	g	-8.2714231	2.64E-08	1221664	1.067	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:18:51.00	-88.76000907	g	-3.573798378	3.45E-08	1221665	1.267	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:19:06.00	257.0445893	g	-19.57216604	2.12E-08	1221666	1.467	u		0.06		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:23:41.00	-209.4295416	g	-38.26777631	2.18E-09	1221667	0.067	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:23:56.00	1.948403573	g	25.6894757	1.19E-08	1221668	0.267	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:24:11.00	-48.44415545	g	6.562115055	1.68E-08	1221669	0.467	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:24:27.00	268.4321682	g	7.45725768	1.64E-08	1221670	0.667	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:24:42.00	-81.14374701	g	-10.55646676	1.31E-08	1221671	0.867	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:24:57.00	242.6000756	g	-9.850739995	2.18E-08	1221672	1.067	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:25:12.00	267.648253	g	-0.947877155	2.93E-08	1221673	1.267	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:25:28.00	250.3625349	g	-19.32067521	1.76E-08	1221674	1.467	u		0.07		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:30:10.00	-208.4632565	g	-35.38966146	2.93E-09	1221675	0.067	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:30:25.00	-29.31547261	b	43.92280417	1.74E-08	1221676	0.267	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:30:40.00	-48.65327451	g	14.26862873	1.64E-08	1221677	0.467	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:30:56.00	255.7671085	g	4.783924343	1.84E-08	1221678	0.667	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:31:11.00	-83.65012953	g	-11.58140917	1.01E-08	1221679	0.867	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:31:26.00	244.5963656	g	-8.231953711	1.74E-08	1221680	1.067	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:31:41.00	267.4357012	g	-0.375196287	2.41E-08	1221681	1.267	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:31:56.00	255.7720037	g	-21.20906719	1.36E-08	1221682	1.467	u		0.08		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:36:48.00	-195.478724	g	-67.91066046	1.76E-09	1221683	0.067	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:37:03.00	2.995486117	g	21.19592207	1.03E-08	1221684	0.267	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:37:18.00	-86.76976002	g	53.71998911	1.07E-08	1221685	0.467	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:37:34.00	255.5935887	g	-1.023739293	1.28E-08	1221686	0.667	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:37:49.00	-80.8816613	g	-11.94822774	7.57E-09	1221687	0.867	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:38:04.00	244.5758385	g	-14.73127969	1.89E-08	1221688	1.067	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:38:19.00	265.498347	g	-1.963510882	1.92E-08	1221689	1.267	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:38:35.00	255.3771323	g	-22.26142469	1.17E-08	1221690	1.467	u		0.09		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:48:05.00	211.4042484	g	-57.8672513	2.01E-09	1221691	0.067	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:48:21.00	12.05179986	g	22.87817028	1.19E-08	1221692	0.267	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:48:36.00	268.5891528	g	13.13041172	9.90E-09	1221693	0.467	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:48:51.00	251.8901318	g	-6.553571853	1.02E-08	1221694	0.667	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:49:06.00	-78.63856725	g	-14.34947289	5.04E-09	1221695	0.867	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:49:22.00	249.7119381	g	-8.460980674	2.07E-08	1221696	1.067	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:49:37.00	265.0195069	g	1.034456761	1.63E-08	1221697	1.267	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:19:49:52.00	256.5001316	g	-18.61022003	8.83E-09	1221698	1.467	u		0.1		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:52:35.00	200.2648574	g	-9.728150124	1.29E-09	1221699	0.067	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:52:50.00	-69.36395264	g	24.22462408	8.21E-09	1221700	0.267	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:53:05.00	227.6770394	g	31.20104227	1.04E-08	1221701	0.467	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:53:20.00	-195.8936346	g	15.60860652	2.20E-09	1221702	0.667	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:53:35.00	-81.52941427	g	-5.497987934	2.98E-09	1221703	0.867	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:53:50.00	242.1850567	g	-9.931842046	1.16E-08	1221704	1.067	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:54:05.00	-84.69351423	g	-10.64362798	7.63E-09	1221705	1.267	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:20:54:20.00	253.4144025	g	-1.942836726	7.56E-09	1221706	1.467	u		0.12		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:00:02.00	-85.57321246	g	-43.86714979	1.41E-09	1221707	0.067	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:00:17.00	-25.60516442	g	12.8092599	7.46E-09	1221708	0.267	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:00:32.00	-58.98383471	g	-14.97539734	1.12E-08	1221709	0.467	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:00:47.00	84.98328637	g	45.7394553	3.86E-09	1221710	0.667	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:01:02.00	-73.73926505	g	-21.71027909	3.22E-09	1221711	0.867	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:01:17.00	259.9398641	g	-16.7304122	9.64E-09	1221712	1.067	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:01:32.00	-85.74636039	g	9.389441089	8.33E-09	1221713	1.267	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:01:47.00	230.0717698	g	-7.856009639	5.11E-09	1221714	1.467	u		0.14		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-1	PW23	PW23-1a	"PW23-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:07:53.00	266.5982152	g	33.872723	7.96E-10	1221715	0.067	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-2	PW23	PW23-2a	"PW23-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:08:08.00	-81.95096168	g	23.61600199	1.85E-09	1221716	0.267	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-3	PW23	PW23-3a	"PW23-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:08:23.00	73.08484413	g	2.401902053	5.17E-09	1221717	0.467	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-4	PW23	PW23-4a	"PW23-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:08:38.00	-4.5133872	g	20.51001955	6.44E-09	1221718	0.667	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-5	PW23	PW23-5a	"PW23-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:08:53.00	-82.02848025	g	7.739330826	2.56E-09	1221719	0.867	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-7	PW23	PW23-7a	"PW23-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:09:08.00	242.5160777	g	-1.78542571	6.19E-09	1221720	1.067	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-8	PW23	PW23-8a	"PW23-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:09:23.00	-71.27409075	g	-1.626696373	4.85E-09	1221721	1.267	u		0.17		
+This study	Botswana 2012	Mosolotsane 5 Sill	PW23-10	PW23	PW23-10a	"PW23-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LT-AF-Z	2013:04:02:21:09:38.00	-82.4771293	g	14.6720648	5.52E-09	1221722	1.467	u		0.17		
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				

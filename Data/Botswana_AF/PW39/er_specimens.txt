@@ -1,0 +1,26 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Marseilles Hill Sill	PW39-10	PW39	PW39-10a	0	0.0054108
+This study	Botswana 2012	Marseilles Hill Sill	PW39-10	PW39	PW39-10b	0	0.0050792
+This study	Botswana 2012	Marseilles Hill Sill	PW39-11	PW39	PW39-11a	0	0.0050717
+This study	Botswana 2012	Marseilles Hill Sill	PW39-11	PW39	PW39-11b	0	0.0055978
+This study	Botswana 2012	Marseilles Hill Sill	PW39-12	PW39	PW39-12a	0	0.0050792
+This study	Botswana 2012	Marseilles Hill Sill	PW39-12	PW39	PW39-12b	0	0.0056835
+This study	Botswana 2012	Marseilles Hill Sill	PW39-1	PW39	PW39-1a	0	0.0047905
+This study	Botswana 2012	Marseilles Hill Sill	PW39-1	PW39	PW39-1b	0	0.005012
+This study	Botswana 2012	Marseilles Hill Sill	PW39-2	PW39	PW39-2a	0	0.0047838
+This study	Botswana 2012	Marseilles Hill Sill	PW39-2	PW39	PW39-2b	0	0.0046071
+This study	Botswana 2012	Marseilles Hill Sill	PW39-3	PW39	PW39-3a	0	0.0053585
+This study	Botswana 2012	Marseilles Hill Sill	PW39-3	PW39	PW39-3b	0	0.0050534
+This study	Botswana 2012	Marseilles Hill Sill	PW39-4	PW39	PW39-4a	0	0.0051225
+This study	Botswana 2012	Marseilles Hill Sill	PW39-5	PW39	PW39-5a	0	0.0051704
+This study	Botswana 2012	Marseilles Hill Sill	PW39-5	PW39	PW39-5b	0	0.0048756
+This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6a	0	0.0054748
+This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6b	0	0.0058603
+This study	Botswana 2012	Marseilles Hill Sill	PW39-6	PW39	PW39-6c	0	9.87E-5
+This study	Botswana 2012	Marseilles Hill Sill	PW39-7	PW39	PW39-7a	0	0.0049348
+This study	Botswana 2012	Marseilles Hill Sill	PW39-7	PW39	PW39-7b	0	0.0046702
+This study	Botswana 2012	Marseilles Hill Sill	PW39-8	PW39	PW39-8a	0	0.0056237
+This study	Botswana 2012	Marseilles Hill Sill	PW39-8	PW39	PW39-8b	0	0.0056706
+This study	Botswana 2012	Marseilles Hill Sill	PW39-9	PW39	PW39-9a	0	0.0055061
+This study	Botswana 2012	Marseilles Hill Sill	PW39-9	PW39	PW39-9b	0	0.0053929

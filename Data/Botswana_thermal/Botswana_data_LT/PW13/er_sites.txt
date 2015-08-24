@@ -1,0 +1,3 @@
+tab 	er_sites
+er_citation_name	er_location_name	er_site_name	site_lat	site_lon
+This study	UMK_BOT	PW13	-24.3	25.7

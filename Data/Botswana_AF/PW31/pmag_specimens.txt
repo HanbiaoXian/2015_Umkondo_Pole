@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Mokgware Sill	PW31-10	PW31	PW31-10a	"PW31-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	23.0	47.0	l	43.1	8.3	9	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-10	PW31	PW31-10a	"PW31-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	23.0	205.3	l	10.9	8.3	9	0
+	This study	Botswana 2012	Mokgware Sill	PW31-10	PW31	PW31-10a	"PW31-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	23.0	204.6	l	12.6	8.3	9	100
+	This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11a	"PW31-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.7	35.4	l	29.9	16.1	7	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11a	"PW31-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.7	192.3	l	-3.3	16.1	7	0
+	This study	Botswana 2012	Mokgware Sill	PW31-11	PW31	PW31-11a	"PW31-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	9.7	192.5	l	-2.4	16.1	7	100
+	This study	Botswana 2012	Mokgware Sill	PW31-12	PW31	PW31-12a	"PW31-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	16.2	16.3	l	21.5	7.1	7	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-12	PW31	PW31-12a	"PW31-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	16.2	186.8	l	-11.3	7.1	7	0
+	This study	Botswana 2012	Mokgware Sill	PW31-12	PW31	PW31-12a	"PW31-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	16.2	187.6	l	-10.8	7.1	7	100
+	This study	Botswana 2012	Mokgware Sill	PW31-13	PW31	PW31-13a	"PW31-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	18.0	64.3	l	9.9	19.1	5	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-13	PW31	PW31-13a	"PW31-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	18.0	207.5	l	-3.7	19.1	5	0
+	This study	Botswana 2012	Mokgware Sill	PW31-13	PW31	PW31-13a	"PW31-13a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	18.0	207.6	l	-1.9	19.1	5	100
+	This study	Botswana 2012	Mokgware Sill	PW31-14	PW31	PW31-14a	"PW31-14a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	2.3	119.8	l	-6.2	14.8	7	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-14	PW31	PW31-14a	"PW31-14a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	2.3	200.6	l	11.3	14.8	7	0
+	This study	Botswana 2012	Mokgware Sill	PW31-14	PW31	PW31-14a	"PW31-14a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	2.3	199.8	l	12.7	14.8	7	100
+	This study	Botswana 2012	Mokgware Sill	PW31-15	PW31	PW31-15a	"PW31-15a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.2	65.0	l	12.3	12.5	8	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-15	PW31	PW31-15a	"PW31-15a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.2	199.7	l	4.7	12.5	8	0
+	This study	Botswana 2012	Mokgware Sill	PW31-15	PW31	PW31-15a	"PW31-15a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	16.2	199.3	l	6.1	12.5	8	100
+	This study	Botswana 2012	Mokgware Sill	PW31-16	PW31	PW31-16a	"PW31-16a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	11.2	63.1	l	17.9	18.5	5	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-16	PW31	PW31-16a	"PW31-16a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	11.2	183.6	l	-2.4	18.5	5	0
+	This study	Botswana 2012	Mokgware Sill	PW31-16	PW31	PW31-16a	"PW31-16a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	11.2	183.8	l	-2.2	18.5	5	100
+	This study	Botswana 2012	Mokgware Sill	PW31-17	PW31	PW31-17a	"PW31-17a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	4.5	131.3	l	-4.2	11.0	7	-1
+	This study	Botswana 2012	Mokgware Sill	PW31-17	PW31	PW31-17a	"PW31-17a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	4.5	203.1	l	12.2	11.0	7	0
+	This study	Botswana 2012	Mokgware Sill	PW31-17	PW31	PW31-17a	"PW31-17a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	4.5	202.2	l	13.7	11.0	7	100

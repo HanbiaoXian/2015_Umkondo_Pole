@@ -1,0 +1,23 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Semarule Hill Sill	PW9-10	PW9	PW9-10a	"PW9-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	25.5	343.8	l	11.3	8.5	9	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-10	PW9	PW9-10a	"PW9-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	25.5	200.6	l	-0.2	8.5	9	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-10	PW9	PW9-10a	"PW9-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	25.5	200.6	l	-0.2	8.5	9	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-11	PW9	PW9-11a	"PW9-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	9.2	23.5	l	10.8	10.5	11	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-11	PW9	PW9-11a	"PW9-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	9.2	184.1	l	1.6	10.5	11	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-11	PW9	PW9-11a	"PW9-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	9.2	184.1	l	1.6	10.5	11	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-4	PW9	PW9-4a	"PW9-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	9.0	249.5	l	-12.7	8.3	6	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-4	PW9	PW9-4a	"PW9-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	9.0	185.0	l	-0.3	8.3	6	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-4	PW9	PW9-4a	"PW9-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	9.0	185.0	l	-0.3	8.3	6	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-5	PW9	PW9-5a	"PW9-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	14.3	220.1	l	-20.3	13.3	7	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-5	PW9	PW9-5a	"PW9-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	14.3	182.4	l	4.9	13.3	7	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-5	PW9	PW9-5a	"PW9-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	14.3	182.4	l	4.9	13.3	7	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-6	PW9	PW9-6a	"PW9-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	6.5	275.5	l	17.1	10.0	5	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-6	PW9	PW9-6a	"PW9-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	6.5	181.9	l	12.9	10.0	5	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-6	PW9	PW9-6a	"PW9-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	8.000e-02	T		u	6.5	181.9	l	12.9	10.0	5	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-7	PW9	PW9-7a	"PW9-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	15.1	31.9	l	9.6	3.7	10	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-7	PW9	PW9-7a	"PW9-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	15.1	193.0	l	-3.2	3.7	10	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-7	PW9	PW9-7a	"PW9-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	15.1	193.0	l	-3.2	3.7	10	100
+	This study	Botswana 2012	Semarule Hill Sill	PW9-8	PW9	PW9-8a	"PW9-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	10.4	352.9	l	11.1	4.7	11	-1
+	This study	Botswana 2012	Semarule Hill Sill	PW9-8	PW9	PW9-8a	"PW9-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	10.4	187.4	l	-0.8	4.7	11	0
+	This study	Botswana 2012	Semarule Hill Sill	PW9-8	PW9	PW9-8a	"PW9-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	10.4	187.4	l	-0.8	4.7	11	100

@@ -1,0 +1,35 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Gajong Donut Sill	PW13-10	PW13	PW13-10a	0	0.0053723
+This study	Botswana 2012	Gajong Donut Sill	PW13-10	PW13	PW13-10b	0	0.0053087
+This study	Botswana 2012	Gajong Donut Sill	PW13-11	PW13	PW13-11a	0	0.0053715
+This study	Botswana 2012	Gajong Donut Sill	PW13-11	PW13	PW13-11b	0	0.0053633
+This study	Botswana 2012	Gajong Donut Sill	PW13-11	PW13	PW13-11c	0	0.0001014
+This study	Botswana 2012	Gajong Donut Sill	PW13-12	PW13	PW13-12a	0	0.0044248
+This study	Botswana 2012	Gajong Donut Sill	PW13-12	PW13	PW13-12b	0	0.0046172
+This study	Botswana 2012	Gajong Donut Sill	PW13-13	PW13	PW13-13a	0	0.0054652
+This study	Botswana 2012	Gajong Donut Sill	PW13-13	PW13	PW13-13b	0	0.0063384
+This study	Botswana 2012	Gajong Donut Sill	PW13-14	PW13	PW13-14a	0	0.0057056
+This study	Botswana 2012	Gajong Donut Sill	PW13-14	PW13	PW13-14b	0	0.0063362
+This study	Botswana 2012	Gajong Donut Sill	PW13-15	PW13	PW13-15a	0	0.0048416
+This study	Botswana 2012	Gajong Donut Sill	PW13-15	PW13	PW13-15b	0	0.0053054
+This study	Botswana 2012	Gajong Donut Sill	PW13-16	PW13	PW13-16a	0	0.0047206
+This study	Botswana 2012	Gajong Donut Sill	PW13-16	PW13	PW13-16b	0	0.0053649
+This study	Botswana 2012	Gajong Donut Sill	PW13-1	PW13	PW13-1a	0	0.0049853
+This study	Botswana 2012	Gajong Donut Sill	PW13-1	PW13	PW13-1b	0	0.0062893
+This study	Botswana 2012	Gajong Donut Sill	PW13-2	PW13	PW13-2a	0	0.0047283
+This study	Botswana 2012	Gajong Donut Sill	PW13-2	PW13	PW13-2b	0	0.0052896
+This study	Botswana 2012	Gajong Donut Sill	PW13-3	PW13	PW13-3a	0	0.0054606
+This study	Botswana 2012	Gajong Donut Sill	PW13-3	PW13	PW13-3b	0	0.0059639
+This study	Botswana 2012	Gajong Donut Sill	PW13-4	PW13	PW13-4a	0	0.0053684
+This study	Botswana 2012	Gajong Donut Sill	PW13-4	PW13	PW13-4b	0	0.0050559
+This study	Botswana 2012	Gajong Donut Sill	PW13-5	PW13	PW13-5a	0	0.0045567
+This study	Botswana 2012	Gajong Donut Sill	PW13-5	PW13	PW13-5b	0	0.0049466
+This study	Botswana 2012	Gajong Donut Sill	PW13-6	PW13	PW13-6a	0	0.0053109
+This study	Botswana 2012	Gajong Donut Sill	PW13-6	PW13	PW13-6b	0	0.0053004
+This study	Botswana 2012	Gajong Donut Sill	PW13-7	PW13	PW13-7a	0	0.0060729
+This study	Botswana 2012	Gajong Donut Sill	PW13-7	PW13	PW13-7b	0	0.005037
+This study	Botswana 2012	Gajong Donut Sill	PW13-8	PW13	PW13-8a	0	0.0054236
+This study	Botswana 2012	Gajong Donut Sill	PW13-8	PW13	PW13-8b	0	0.0060373
+This study	Botswana 2012	Gajong Donut Sill	PW13-9	PW13	PW13-9a	0	0.0051301
+This study	Botswana 2012	Gajong Donut Sill	PW13-9	PW13	PW13-9b	0	0.0061694

@@ -1,0 +1,202 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Synthesis of prior paleomagnetic results from the Umkondo Large Igneous Province}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Approach to dealing with previously published data}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Import function modules}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Compilation from Gose et al., (2006)}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Data from Seidel (2004)}{11}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}W-series sites of Seidel (2004)}{12}{subsubsection.2.4.1}
+\contentsline {paragraph}{W01 and W02 Middleburg sill}{13}{section*.2}
+\contentsline {paragraph}{W-03, W-06, and W-07 Middleburg sill}{17}{section*.3}
+\contentsline {paragraph}{W04 sill}{21}{section*.4}
+\contentsline {paragraph}{W05 sill}{22}{section*.5}
+\contentsline {paragraph}{W-08 and W-09 sill}{24}{section*.6}
+\contentsline {paragraph}{W-10 sill}{28}{section*.7}
+\contentsline {paragraph}{Middleburg (W-series sites) area summary from four different cooling units:}{30}{section*.8}
+\contentsline {subsubsection}{\numberline {2.4.2}Add W-series sites to compilation table}{31}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}VF-series sites of Seidel (2004)}{32}{subsubsection.2.4.3}
+\contentsline {paragraph}{VF-1 and VF-2 intrusion}{33}{section*.9}
+\contentsline {paragraph}{VF-3}{38}{section*.10}
+\contentsline {paragraph}{VF-4 and VF-5}{39}{section*.11}
+\contentsline {paragraph}{Vredefort (VF-series sites) area summary from two different cooling units}{43}{section*.12}
+\contentsline {subsubsection}{\numberline {2.4.4}Timbavati Intrusion (TG-series) of Seidel (2004)}{45}{subsubsection.2.4.4}
+\contentsline {subsubsection}{\numberline {2.4.5}Summary For All Seidel (2004) Cooling Units}{55}{subsubsection.2.4.5}
+\contentsline {subsection}{\numberline {2.5}Data from Pancake (2001)}{57}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Kgale Peak Intrusion}{61}{subsubsection.2.5.1}
+\contentsline {paragraph}{Kgale Peak sill date}{63}{section*.13}
+\contentsline {paragraph}{Kgale Peak sill paleomagnetism}{63}{section*.14}
+\contentsline {subsubsection}{\numberline {2.5.2}Manyana Sill (SW Kgale)}{66}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Moshaneng and Kanye Sills}{68}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}JP12 - South of Kanye}{71}{subsubsection.2.5.4}
+\contentsline {subsubsection}{\numberline {2.5.5}Molepolole Intrusions (JP(15, 16, 18, 19, 20, 21))}{73}{subsubsection.2.5.5}
+\contentsline {paragraph}{Suping Sill}{75}{section*.15}
+\contentsline {paragraph}{Mabelwane Hill sill}{78}{section*.16}
+\contentsline {subsubsection}{\numberline {2.5.6}Mosolotsane 1 Intrusion}{80}{subsubsection.2.5.6}
+\contentsline {paragraph}{Mosolotsane 1 date}{81}{section*.17}
+\contentsline {paragraph}{Mosolotsane 1 paleomagnetism}{82}{section*.18}
+\contentsline {subsubsection}{\numberline {2.5.7}Shoshong Sill}{84}{subsubsection.2.5.7}
+\contentsline {paragraph}{Shoshong dates}{84}{section*.19}
+\contentsline {paragraph}{Shoshong paleomagnetism}{85}{section*.20}
+\contentsline {subsubsection}{\numberline {2.5.8}Mokgware intrusions}{88}{subsubsection.2.5.8}
+\contentsline {paragraph}{Mokgware Sill date}{88}{section*.21}
+\contentsline {subsubsection}{\numberline {2.5.9}Seidel (2004) and Pancake (2001) VGP calculation}{91}{subsubsection.2.5.9}
+\contentsline {subsection}{\numberline {2.6}Data from Jones and McElhinny (1966)}{92}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Data from McElhinny and Opdyke (1964)}{95}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Data from Gose et al. (2006)}{97}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Data from Mare et al. (2006)}{101}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Data from Wilson et al. (1987)}{103}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Summary of paleomagnetic directions}{104}{subsection.2.11}
+\contentsline {section}{\numberline {3}Analysis of new paleomagnetic data from the Umkondo Large Igneous Province}{107}{section.3}
+\contentsline {subsection}{\numberline {3.1}Import needed modules for data analysis}{107}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Location of studied sites}{108}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Locality maps of sites}{109}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Analysis of demagnetization data from the newly samples sites}{112}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Data Reduction and Tabulation of Botswana sites}{115}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Kgale Peak Sill - PW1, PW2, JP1, JP2, JP3, and J\_M9}{116}{subsubsection.3.4.1}
+\contentsline {paragraph}{PW1}{116}{section*.22}
+\contentsline {paragraph}{PW2}{118}{section*.23}
+\contentsline {paragraph}{JP(1,2,3)}{120}{section*.24}
+\contentsline {paragraph}{Combined Kgale sill mean - PW1\_ALL, PW2\_AF}{120}{section*.25}
+\contentsline {subsubsection}{\numberline {3.4.2}Manyana Sill - PW3}{122}{subsubsection.3.4.2}
+\contentsline {paragraph}{Thermal data}{122}{section*.26}
+\contentsline {paragraph}{AF data}{123}{section*.27}
+\contentsline {paragraph}{Combined Manyana Sill Mean - PW3\_ALL}{125}{section*.28}
+\contentsline {subsubsection}{\numberline {3.4.3}Ranku Hill Sill - PW4}{126}{subsubsection.3.4.3}
+\contentsline {paragraph}{Thermal demag}{127}{section*.29}
+\contentsline {paragraph}{AF demag}{128}{section*.30}
+\contentsline {subsubsection}{\numberline {3.4.4}Rasemong North intrusion - PW5}{129}{subsubsection.3.4.4}
+\contentsline {paragraph}{Thermal demag}{129}{section*.31}
+\contentsline {paragraph}{AF demag}{130}{section*.32}
+\contentsline {paragraph}{Combined Rasemong Sill Mean - PW5\_ALL}{132}{section*.33}
+\contentsline {subsubsection}{\numberline {3.4.5}Metsemotlhaba River Sill - PW6}{134}{subsubsection.3.4.5}
+\contentsline {paragraph}{Thermal demag}{134}{section*.34}
+\contentsline {paragraph}{AF demag}{135}{section*.35}
+\contentsline {paragraph}{Metsemotlhaba River Sill combined mean - PW6\_ALL}{137}{section*.36}
+\contentsline {subsubsection}{\numberline {3.4.6}Mabogoapitse Hill Sill - PW7,PW8}{139}{subsubsection.3.4.6}
+\contentsline {paragraph}{Thermal demag (PW7, not PW8)}{139}{section*.37}
+\contentsline {paragraph}{AF demag (PW7 and PW8)}{140}{section*.38}
+\contentsline {subparagraph}{PW7-AF}{140}{section*.39}
+\contentsline {subparagraph}{PW8-AF}{142}{section*.40}
+\contentsline {paragraph}{Mabogoapitse Hill Sill Combined Mean (PW7\_ALL, PW8\_AF)}{144}{section*.41}
+\contentsline {subsubsection}{\numberline {3.4.7}Semarule Hill Sill - PW9}{146}{subsubsection.3.4.7}
+\contentsline {paragraph}{Thermal demag}{146}{section*.42}
+\contentsline {paragraph}{AF demag}{147}{section*.43}
+\contentsline {paragraph}{Combined Mean (PW9\_AF)}{149}{section*.44}
+\contentsline {subsubsection}{\numberline {3.4.8}Rapitsane Sill - PW10}{151}{subsubsection.3.4.8}
+\contentsline {paragraph}{Thermal demag}{151}{section*.45}
+\contentsline {paragraph}{AF demag}{152}{section*.46}
+\contentsline {paragraph}{Rapitsane Sill Mean (PW10\_ALL)}{154}{section*.47}
+\contentsline {subsubsection}{\numberline {3.4.9}Suping Sill - PW11,PW12,JP15,JP16}{156}{subsubsection.3.4.9}
+\contentsline {paragraph}{Thermal demag (PW11, not PW12)}{156}{section*.48}
+\contentsline {paragraph}{AF demag (PW11 and PW12)}{157}{section*.49}
+\contentsline {subparagraph}{PW11-AF}{157}{section*.50}
+\contentsline {subparagraph}{PW12-AF}{159}{section*.51}
+\contentsline {paragraph}{Combined Mean (PW11\_ALL, PW12\_AF, JP(15,16,19))}{161}{section*.52}
+\contentsline {subsubsection}{\numberline {3.4.10}Gajong Donut Sill - PW13}{163}{subsubsection.3.4.10}
+\contentsline {paragraph}{Thermal demag}{163}{section*.53}
+\contentsline {paragraph}{PW13 AF demag and combined thermal/AF samples}{164}{section*.54}
+\contentsline {subsubsection}{\numberline {3.4.11}Mogatelwane 1 Sill - PW14}{166}{subsubsection.3.4.11}
+\contentsline {subsubsection}{\numberline {3.4.12}Mogatelwane 2 Sill - PW15,PW16,PW17}{168}{subsubsection.3.4.12}
+\contentsline {paragraph}{Thermal demag (PW15 only)}{168}{section*.55}
+\contentsline {paragraph}{AF demag (PW15)}{169}{section*.56}
+\contentsline {subparagraph}{PW15\_AF}{169}{section*.57}
+\contentsline {paragraph}{Mogatelwane 2 Sill Combined mean (PW15\_ALL)}{171}{section*.58}
+\contentsline {subsubsection}{\numberline {3.4.13}Molepolole Prison Quarry Sill - PW18,PW19}{173}{subsubsection.3.4.13}
+\contentsline {paragraph}{Thermal demag}{173}{section*.59}
+\contentsline {subparagraph}{PW18\_thermal}{173}{section*.60}
+\contentsline {subparagraph}{PW19\_Thermal}{174}{section*.61}
+\contentsline {paragraph}{AF demag (PW18\_AF and PW19\_AF)}{176}{section*.62}
+\contentsline {subparagraph}{PW18\_AF}{176}{section*.63}
+\contentsline {subparagraph}{PW19\_AF}{178}{section*.64}
+\contentsline {paragraph}{Combined Molepolole prison quarry sill}{180}{section*.65}
+\contentsline {subsubsection}{\numberline {3.4.14}Lentsweletau Sill - PW20}{183}{subsubsection.3.4.14}
+\contentsline {paragraph}{Thermal demag}{183}{section*.66}
+\contentsline {paragraph}{AF demag}{185}{section*.67}
+\contentsline {subsubsection}{\numberline {3.4.15}Mosolotsane 1 Sill - PW21,PW22,JP22,JP23,JP24}{187}{subsubsection.3.4.15}
+\contentsline {paragraph}{Thermal demag (only PW22)}{187}{section*.68}
+\contentsline {paragraph}{AF demag (PW21 and PW22)}{188}{section*.69}
+\contentsline {subparagraph}{PW21\_AF}{188}{section*.70}
+\contentsline {subparagraph}{PW22\_AF}{190}{section*.71}
+\contentsline {paragraph}{Mosolotsane 1 Sill combined mean - PW21\_AF, PW22\_ALL, JP(22, 23, 24)}{191}{section*.72}
+\contentsline {subsubsection}{\numberline {3.4.16}Mosolotsane 5 Sill - PW23}{193}{subsubsection.3.4.16}
+\contentsline {paragraph}{Thermal demag}{193}{section*.73}
+\contentsline {paragraph}{AF demag}{194}{section*.74}
+\contentsline {paragraph}{Mosolotsane 5 Sill combined mean - PW23\_ALL}{196}{section*.75}
+\contentsline {subsubsection}{\numberline {3.4.17}Mosolotsane 4 Sill - PW24}{198}{subsubsection.3.4.17}
+\contentsline {paragraph}{Thermal demag}{198}{section*.76}
+\contentsline {paragraph}{AF demag}{199}{section*.77}
+\contentsline {paragraph}{Mosolotsane 4 Sill mean - PW24\_AF}{201}{section*.78}
+\contentsline {subsubsection}{\numberline {3.4.18}Mosolotsane 6 Sill - PW25}{203}{subsubsection.3.4.18}
+\contentsline {paragraph}{Thermal demag}{203}{section*.79}
+\contentsline {paragraph}{AF demag}{204}{section*.80}
+\contentsline {paragraph}{Mosolotsane 6 Sill mean - PW25\_AF}{206}{section*.81}
+\contentsline {subsubsection}{\numberline {3.4.19}Mosolotsane 3 Sill - PW26}{208}{subsubsection.3.4.19}
+\contentsline {paragraph}{Thermal demag}{208}{section*.82}
+\contentsline {paragraph}{AF demag}{209}{section*.83}
+\contentsline {paragraph}{Mosolotsane 3 Sill mean - (PW26\_AF)}{211}{section*.84}
+\contentsline {subsubsection}{\numberline {3.4.20}Mosolotsane 2 Sill - PW27}{213}{subsubsection.3.4.20}
+\contentsline {paragraph}{Thermal demag}{213}{section*.85}
+\contentsline {paragraph}{AF demag}{214}{section*.86}
+\contentsline {paragraph}{Mosolotsane 2 Sill combined mean (PW27\_AF)}{216}{section*.87}
+\contentsline {subsubsection}{\numberline {3.4.21}Shoshong Sill - PW28,JP31,JP33,JP34,J\_M(1-6)}{218}{subsubsection.3.4.21}
+\contentsline {paragraph}{Thermal demag}{218}{section*.88}
+\contentsline {paragraph}{AF demag}{219}{section*.89}
+\contentsline {paragraph}{Shosong Sill combined mean}{220}{section*.90}
+\contentsline {subsubsection}{\numberline {3.4.22}Phage Sill - PW29}{222}{subsubsection.3.4.22}
+\contentsline {paragraph}{Thermal demag}{222}{section*.91}
+\contentsline {paragraph}{AF demag}{223}{section*.92}
+\contentsline {subsubsection}{\numberline {3.4.23}Moijabana Sill - PW30}{225}{subsubsection.3.4.23}
+\contentsline {paragraph}{Thermal demag}{225}{section*.93}
+\contentsline {paragraph}{AF demag}{226}{section*.94}
+\contentsline {paragraph}{Moijabana Sill mean - PW30\_AF}{227}{section*.95}
+\contentsline {subsubsection}{\numberline {3.4.24}Mokgware Sill - PW31, JP30}{230}{subsubsection.3.4.24}
+\contentsline {paragraph}{Thermal demag}{230}{section*.96}
+\contentsline {paragraph}{AF demag}{231}{section*.97}
+\contentsline {paragraph}{Mokgware Sill combined mean}{233}{section*.98}
+\contentsline {subsubsection}{\numberline {3.4.25}Sepatamorire Hill Sill - PW32}{235}{subsubsection.3.4.25}
+\contentsline {paragraph}{Thermal demag}{235}{section*.99}
+\contentsline {paragraph}{AF demag}{236}{section*.100}
+\contentsline {paragraph}{Sepatamorire Hill Sill combined mean}{238}{section*.101}
+\contentsline {subsubsection}{\numberline {3.4.26}Palapye Dike - PW33}{240}{subsubsection.3.4.26}
+\contentsline {subsubsection}{\numberline {3.4.27}AF data}{240}{subsubsection.3.4.27}
+\contentsline {paragraph}{Palapye Dike mean - PW33}{241}{section*.102}
+\contentsline {subsubsection}{\numberline {3.4.28}Masama 1 Sill - PW34}{242}{subsubsection.3.4.28}
+\contentsline {paragraph}{Thermal demag}{242}{section*.103}
+\contentsline {paragraph}{AF demag}{243}{section*.104}
+\contentsline {paragraph}{Masama 1 Sill combined mean}{245}{section*.105}
+\contentsline {subsubsection}{\numberline {3.4.29}Masama 3 Sill - PW35 and PW37}{247}{subsubsection.3.4.29}
+\contentsline {paragraph}{Thermal demag - PW37}{247}{section*.106}
+\contentsline {paragraph}{AF demag}{248}{section*.107}
+\contentsline {subparagraph}{PW35\_AF}{248}{section*.108}
+\contentsline {subparagraph}{PW37\_AF}{250}{section*.109}
+\contentsline {subsubsection}{\numberline {3.4.30}Masama 2 Sill - PW36}{253}{subsubsection.3.4.30}
+\contentsline {paragraph}{Thermal demag}{253}{section*.110}
+\contentsline {paragraph}{AF demag}{254}{section*.111}
+\contentsline {paragraph}{Masama 2 Sill combined mean}{256}{section*.112}
+\contentsline {subsubsection}{\numberline {3.4.31}Dibete Kop Sill - PW38}{258}{subsubsection.3.4.31}
+\contentsline {paragraph}{Thermal demag}{258}{section*.113}
+\contentsline {paragraph}{AF demag}{259}{section*.114}
+\contentsline {paragraph}{Dibete Kop Sill - PW38\_ALL}{261}{section*.115}
+\contentsline {subsubsection}{\numberline {3.4.32}Marseilles Hill Sill - PW39}{263}{subsubsection.3.4.32}
+\contentsline {paragraph}{Thermal demag}{263}{section*.116}
+\contentsline {paragraph}{AF demag}{264}{section*.117}
+\contentsline {paragraph}{Marseilles Hill Sill - PW39\_ALL}{266}{section*.118}
+\contentsline {subsubsection}{\numberline {3.4.33}Sepitswane Sill - PW40}{268}{subsubsection.3.4.33}
+\contentsline {paragraph}{Thermal demag}{268}{section*.119}
+\contentsline {paragraph}{AF demag}{269}{section*.120}
+\contentsline {paragraph}{Sepitswane Sill mean - PW40}{270}{section*.121}
+\contentsline {subsection}{\numberline {3.5}Botswana Umkondo summary (Thermal/AF demagnetization results combined with existing data from the same intrusions)}{272}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Low Temperature Magnetizations from New Umkondo Sites}{273}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Unknown and Older Directions (from Gose et al. (2006) and this study)}{277}{subsection.3.7}
+\contentsline {section}{\numberline {4}Umkondo synthesis and grand mean pole}{279}{section.4}
+\contentsline {subsection}{\numberline {4.1}Polarity of VGPs}{285}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Calculating poles by polarity}{286}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Comparison between the two polarities}{287}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Watson common mean test of R and N Umkondo data in directional space}{289}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Plotting up mean poles and generating Table 2 of main manuscript}{291}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Comparing VGPs between sills and dikes}{294}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}Calculate scatter values, S\(_{w}\), for each VGP used in this study, according to Biggin (2008)}{297}{subsubsection.4.1.6}
+\contentsline {subsubsection}{\numberline {4.1.7}Elongation and Inclination - comparison to TK03 model}{299}{subsubsection.4.1.7}
+\contentsline {subsubsection}{\numberline {4.1.8}Data from the Ethiopian Traps}{301}{subsubsection.4.1.8}
+\contentsline {subsection}{\numberline {4.2}Cooling unit map - consolidated locality map (used for locality map in main text)}{308}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Kalahari and Grunehogna (crustal province in Antarctica)}{310}{subsection.4.3}
+\contentsline {section}{\numberline {5}Works Cited in Supporting Information}{311}{section.5}

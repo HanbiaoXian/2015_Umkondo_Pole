@@ -1,0 +1,38 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Suping Sill	PW12-10	PW12	PW12-10a	"PW12-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.1	280.6	l	-2.3	6.6	7	-1
+	This study	Botswana 2012	Suping Sill	PW12-10	PW12	PW12-10a	"PW12-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.1	224.1	l	-5.2	6.6	7	0
+	This study	Botswana 2012	Suping Sill	PW12-10	PW12	PW12-10a	"PW12-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	2.1	222.9	l	-10.5	6.6	7	100
+	This study	Botswana 2012	Suping Sill	PW12-11	PW12	PW12-11a	"PW12-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	9.000e-02	T		u	37.8	358.8	l	-49.3	8.9	5	-1
+	This study	Botswana 2012	Suping Sill	PW12-11	PW12	PW12-11a	"PW12-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	9.000e-02	T		u	37.8	288.1	l	-65.3	8.9	5	0
+	This study	Botswana 2012	Suping Sill	PW12-11	PW12	PW12-11a	"PW12-11a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	9.000e-02	T		u	37.8	292.5	l	-75.2	8.9	5	100
+	This study	Botswana 2012	Suping Sill	PW12-12	PW12	PW12-12a	"PW12-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	12.1	271.7	l	-29.7	14.5	6	-1
+	This study	Botswana 2012	Suping Sill	PW12-12	PW12	PW12-12a	"PW12-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	12.1	242.7	l	-29.2	14.5	6	0
+	This study	Botswana 2012	Suping Sill	PW12-12	PW12	PW12-12a	"PW12-12a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	12.1	238.4	l	-36.8	14.5	6	100
+	This study	Botswana 2012	Suping Sill	PW12-1	PW12	PW12-1a	"PW12-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.4	232.7	l	1.4	8.3	4	-1
+	This study	Botswana 2012	Suping Sill	PW12-1	PW12	PW12-1a	"PW12-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.4	200.9	l	10.9	8.3	4	0
+	This study	Botswana 2012	Suping Sill	PW12-1	PW12	PW12-1a	"PW12-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	3.4	202.6	l	9.1	8.3	4	100
+	This study	Botswana 2012	Suping Sill	PW12-2	PW12	PW12-2a	"PW12-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	6.9	299.8	l	57.9	10.2	7	-1
+	This study	Botswana 2012	Suping Sill	PW12-2	PW12	PW12-2a	"PW12-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	6.9	269.5	l	50.0	10.2	7	0
+	This study	Botswana 2012	Suping Sill	PW12-2	PW12	PW12-2a	"PW12-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	6.9	271.4	l	40.2	10.2	7	100
+	This study	Botswana 2012	Suping Sill	PW12-3	PW12	PW12-3a	"PW12-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u		111.9	p	71.4	5.7	5	-1
+	This study	Botswana 2012	Suping Sill	PW12-3	PW12	PW12-3a	"PW12-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u		349.0	p	61.7	5.7	5	0
+	This study	Botswana 2012	Suping Sill	PW12-3	PW12	PW12-3a	"PW12-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u		334.4	p	56.7	5.7	5	100
+	This study	Botswana 2012	Suping Sill	PW12-4	PW12	PW12-4a	"PW12-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	6.000e-02	3.000e-02	T		u	23.9	86.3	l	37.8	6.6	4	-1
+	This study	Botswana 2012	Suping Sill	PW12-4	PW12	PW12-4a	"PW12-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	6.000e-02	3.000e-02	T		u	23.9	268.6	l	34.8	6.6	4	0
+	This study	Botswana 2012	Suping Sill	PW12-4	PW12	PW12-4a	"PW12-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	6.000e-02	3.000e-02	T		u	23.9	269.8	l	25.0	6.6	4	100
+	This study	Botswana 2012	Suping Sill	PW12-5	PW12	PW12-5a	"PW12-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	8.2	327.5	l	17.9	2.6	5	-1
+	This study	Botswana 2012	Suping Sill	PW12-5	PW12	PW12-5a	"PW12-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	8.2	246.0	l	-3.5	2.6	5	0
+	This study	Botswana 2012	Suping Sill	PW12-5	PW12	PW12-5a	"PW12-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u	8.2	245.2	l	-11.6	2.6	5	100
+	This study	Botswana 2012	Suping Sill	PW12-6	PW12	PW12-6a	"PW12-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	33.5	314.3	l	-48.6	11.5	6	-1
+	This study	Botswana 2012	Suping Sill	PW12-6	PW12	PW12-6a	"PW12-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	33.5	224.5	l	-61.2	11.5	6	0
+	This study	Botswana 2012	Suping Sill	PW12-6	PW12	PW12-6a	"PW12-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	33.5	206.2	l	-65.4	11.5	6	100
+	This study	Botswana 2012	Suping Sill	PW12-7	PW12	PW12-7a	"PW12-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	13.3	313.2	l	10.0	4.4	8	-1
+	This study	Botswana 2012	Suping Sill	PW12-7	PW12	PW12-7a	"PW12-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	13.3	199.8	l	1.7	4.4	8	0
+	This study	Botswana 2012	Suping Sill	PW12-7	PW12	PW12-7a	"PW12-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.000e-02	T		u	13.3	200.0	l	0.2	4.4	8	100
+	This study	Botswana 2012	Suping Sill	PW12-8	PW12	PW12-8a	"PW12-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	13.3	286.6	l	-38.9	12.2	8	-1
+	This study	Botswana 2012	Suping Sill	PW12-8	PW12	PW12-8a	"PW12-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	13.3	257.3	l	-40.9	12.2	8	0
+	This study	Botswana 2012	Suping Sill	PW12-8	PW12	PW12-8a	"PW12-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	13.3	252.8	l	-49.9	12.2	8	100
+	This study	Botswana 2012	Suping Sill	PW12-9	PW12	PW12-9a	"PW12-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u		14.3	p	56.6	11.4	5	-1
+	This study	Botswana 2012	Suping Sill	PW12-9	PW12	PW12-9a	"PW12-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u		304.6	p	39.0	11.4	5	0
+	This study	Botswana 2012	Suping Sill	PW12-9	PW12	PW12-9a	"PW12-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFP:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	3.000e-02	T		u		302.0	p	29.7	11.4	5	100

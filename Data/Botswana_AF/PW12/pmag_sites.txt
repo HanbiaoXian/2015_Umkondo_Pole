@@ -1,0 +1,3 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	Suping Sill	PW12	PW12-10a:PW12-11a:PW12-12a:PW12-1a:PW12-2a:PW12-3a:PW12-4a:PW12-5a:PW12-6a:PW12-7a:PW12-8a:PW12-9a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:DE-BFP:LP-DC4:DE-FM-LP:DA-DIR-TILT	pmagpy-3.2.1	ACCEPT	26.8	A	236.1	Site direction included in results table	-18.0	4	12	10	2		9.1824	100

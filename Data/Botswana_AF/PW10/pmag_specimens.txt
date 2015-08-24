@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Rapitsane Sill	PW10-1	PW10	PW10-1a	"PW10-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	12.8	311.9	l	7.3	9.1	9	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-1	PW10	PW10-1a	"PW10-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	12.8	187.8	l	-5.5	9.1	9	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-1	PW10	PW10-1a	"PW10-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	12.8	187.6	l	0.1	9.1	9	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-2	PW10	PW10-2a	"PW10-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	26.1	318.3	l	12.8	6.3	7	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-2	PW10	PW10-2a	"PW10-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	26.1	199.3	l	-0.1	6.3	7	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-2	PW10	PW10-2a	"PW10-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	26.1	199.5	l	4.5	6.3	7	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-3	PW10	PW10-3a	"PW10-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	25.5	352.6	l	13.6	6.9	9	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-3	PW10	PW10-3a	"PW10-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	25.5	202.9	l	-13.2	6.9	9	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-3	PW10	PW10-3a	"PW10-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	25.5	201.8	l	-8.9	6.9	9	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-4	PW10	PW10-4a	"PW10-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	33.6	14.3	l	18.3	6.6	10	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-4	PW10	PW10-4a	"PW10-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	33.6	206.1	l	-4.0	6.6	10	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-4	PW10	PW10-4a	"PW10-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	33.6	205.9	l	-0.1	6.6	10	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-5	PW10	PW10-5a	"PW10-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	24.3	348.9	l	20.6	6.4	11	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-5	PW10	PW10-5a	"PW10-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	24.3	200.3	l	-6.0	6.4	11	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-5	PW10	PW10-5a	"PW10-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	3.000e-02	T		u	24.3	199.9	l	-1.5	6.4	11	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-6	PW10	PW10-6a	"PW10-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	37.6	331.7	l	25.1	8.4	6	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-6	PW10	PW10-6a	"PW10-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	37.6	197.2	l	-11.7	8.4	6	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-6	PW10	PW10-6a	"PW10-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	37.6	196.4	l	-6.9	8.4	6	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7a	"PW10-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	31.5	342.9	l	30.8	8.6	12	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7a	"PW10-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	31.5	203.6	l	-9.8	8.6	12	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-7	PW10	PW10-7a	"PW10-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	31.5	202.9	l	-5.6	8.6	12	100
+	This study	Botswana 2012	Rapitsane Sill	PW10-8	PW10	PW10-8a	"PW10-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	6.7	129.0	l	-9.2	6.8	9	-1
+	This study	Botswana 2012	Rapitsane Sill	PW10-8	PW10	PW10-8a	"PW10-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	6.7	197.9	l	-1.6	6.8	9	0
+	This study	Botswana 2012	Rapitsane Sill	PW10-8	PW10	PW10-8a	"PW10-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	6.7	198.0	l	3.1	6.8	9	100

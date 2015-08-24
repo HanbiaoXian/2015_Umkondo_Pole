@@ -1,0 +1,17 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	UMK_BOT	PW23.1b	PW23	PW23.1b	PW23.1b:LP-DIR-T	hargrave 2014-07-08 12:30:15	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.2.1	473	323	K		u	43.6	264.1	l	-51.7	10.0	4	-1
+	This study	UMK_BOT	PW23.1b	PW23	PW23.1b	PW23.1b:LP-DIR-T	hargrave 2014-07-08 12:30:15	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	473	323	K		u	43.6	286.4	l	-43.2	10.0	4	0
+	This study	UMK_BOT	PW23.1b	PW23	PW23.1b	PW23.1b:LP-DIR-T	hargrave 2014-07-08 12:30:15	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	473	323	K		u	43.6	291.2	l	-52.2	10.0	4	100
+	This study	UMK_BOT	PW23.2b	PW23	PW23.2b	PW23.2b:LP-DIR-T	hargrave 2014-07-08 12:31:54	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.2.1	523	373	K		u	28.3	197.1	l	-1.6	5.5	4	-1
+	This study	UMK_BOT	PW23.2b	PW23	PW23.2b	PW23.2b:LP-DIR-T	hargrave 2014-07-08 12:31:54	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	523	373	K		u	28.3	30.2	l	26.0	5.5	4	0
+	This study	UMK_BOT	PW23.2b	PW23	PW23.2b	PW23.2b:LP-DIR-T	hargrave 2014-07-08 12:31:54	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	523	373	K		u	28.3	25.6	l	31.8	5.5	4	100
+	This study	UMK_BOT	PW23.3b	PW23	PW23.3b	PW23.3b:LP-DIR-T	hargrave 2014-07-08 12:33:28	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.2.1	523	323	K		u	25.0	7.2	l	4.7	9.0	5	-1
+	This study	UMK_BOT	PW23.3b	PW23	PW23.3b	PW23.3b:LP-DIR-T	hargrave 2014-07-08 12:33:28	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	523	323	K		u	25.0	268.3	l	-20.1	9.0	5	0
+	This study	UMK_BOT	PW23.3b	PW23	PW23.3b	PW23.3b:LP-DIR-T	hargrave 2014-07-08 12:33:28	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	523	323	K		u	25.0	268.8	l	-30.1	9.0	5	100
+	This study	UMK_BOT	PW23.4b	PW23	PW23.4b	PW23.4b:LP-DIR-T	hargrave 2014-07-08 12:34:59	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.2.1	673	323	K		u	42.7	264.0	l	86.0	6.0	7	-1
+	This study	UMK_BOT	PW23.4b	PW23	PW23.4b	PW23.4b:LP-DIR-T	hargrave 2014-07-08 12:34:59	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	673	323	K		u	42.7	269.5	l	73.0	6.0	7	0
+	This study	UMK_BOT	PW23.4b	PW23	PW23.4b	PW23.4b:LP-DIR-T	hargrave 2014-07-08 12:34:59	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	673	323	K		u	42.7	267.2	l	63.0	6.0	7	100
+	This study	UMK_BOT	PW23.7b	PW23	PW23.7b	PW23.7b:LP-DIR-T	hargrave 2014-07-08 12:37:57	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.2.1	698	323	K		u	32.6	291.2	l	-86.0	5.0	8	-1
+	This study	UMK_BOT	PW23.7b	PW23	PW23.7b	PW23.7b:LP-DIR-T	hargrave 2014-07-08 12:37:57	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	698	323	K		u	32.6	132.7	l	-57.3	5.0	8	0
+	This study	UMK_BOT	PW23.7b	PW23	PW23.7b	PW23.7b:LP-DIR-T	hargrave 2014-07-08 12:37:57	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	698	323	K		u	32.6	123.0	l	-50.1	5.0	8	100

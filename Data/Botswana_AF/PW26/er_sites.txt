@@ -1,0 +1,3 @@
+tab 	er_sites
+er_citation_names	er_expedition_name	er_location_name	er_site_name	site_description	site_elevation	site_lat	site_lon
+This study	Botswana 2012	Mosolotsane 3 Sill	PW26			-22.8926	26.3811

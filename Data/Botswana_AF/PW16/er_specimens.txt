@@ -1,0 +1,16 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-1	PW16	PW16-1a	0	0.0052031
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-1	PW16	PW16-1b	0	0.0061485
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-2	PW16	PW16-2a	0	0.0047958
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-3	PW16	PW16-3a	0	0.0055683
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-3	PW16	PW16-3b	0	0.0061789
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-3	PW16	PW16-3C	0	6.86E-5
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-4	PW16	PW16-4a	0	0.0056141
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-4	PW16	PW16-4b	0	0.0060703
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-5	PW16	PW16-5a	0	0.0059173
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-5	PW16	PW16-5b	0	0.0058726
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-6	PW16	PW16-6a	0	0.0049525
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-6	PW16	PW16-6b	0	0.0053856
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-7	PW16	PW16-7a	0	0.0057407
+This study	Botswana 2012	Mogatelwane 2 Sill	PW16-7	PW16	PW16-7b	0	0.0060126

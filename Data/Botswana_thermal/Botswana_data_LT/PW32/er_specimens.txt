@@ -1,0 +1,8 @@
+tab 	er_specimens
+er_citation_name	er_location_name	er_sample_name	er_site_name	er_specimen_name
+This study	UMK_BOT	PW32.5b	PW32	PW32.5b
+This study	UMK_BOT	PW32.6b	PW32	PW32.6b
+This study	UMK_BOT	PW32.7b	PW32	PW32.7b
+This study	UMK_BOT	PW32.8b	PW32	PW32.8b
+This study	UMK_BOT	PW32.11b	PW32	PW32.11b
+This study	UMK_BOT	PW32.13b	PW32	PW32.13b

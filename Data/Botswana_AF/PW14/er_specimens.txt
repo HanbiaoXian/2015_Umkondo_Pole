@@ -1,0 +1,27 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-10	PW14	PW14-10a	0	0.0048744
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-10	PW14	PW14-10b	0	0.0051002
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-11	PW14	PW14-11a	0	0.0056443
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-11	PW14	PW14-11b	0	0.0049357
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-12	PW14	PW14-12a	0	0.0051226
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-12	PW14	PW14-12b	0	0.005603
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-1	PW14	PW14-1a	0	0.0053094
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-1	PW14	PW14-1b	0	0.0055315
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-2	PW14	PW14-2a	0	0.0053046
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-2	PW14	PW14-2b	0	0.0051902
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-3	PW14	PW14-3a	0	0.004972
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-3	PW14	PW14-3b	0	0.0062514
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-4	PW14	PW14-4a	0	0.0047158
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-4	PW14	PW14-4b	0	0.0050122
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-5	PW14	PW14-5a	0	0.0055523
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-5	PW14	PW14-5b	0	0.0058273
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-6	PW14	PW14-6a	0	0.0044645
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-6	PW14	PW14-6b	0	0.0047338
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-7	PW14	PW14-7a	0	0.0049791
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-7	PW14	PW14-7b	0	0.0060835
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-7	PW14	PW14-7c	0	8E-5
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-8	PW14	PW14-8a	0	0.0058794
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-8	PW14	PW14-8b	0	0.0056074
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-9	PW14	PW14-9a	0	0.0058099
+This study	Botswana 2012	Mogatelwane 1 Sill	PW14-9	PW14	PW14-9b	0	0.0058267

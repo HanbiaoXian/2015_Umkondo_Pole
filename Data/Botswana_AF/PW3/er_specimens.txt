@@ -1,0 +1,35 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Manyana Sill	PW3-10	PW3	PW3-10a	0	0.0043447
+This study	Botswana 2012	Manyana Sill	PW3-10	PW3	PW3-10b	0	0.0042655
+This study	Botswana 2012	Manyana Sill	PW3-11	PW3	PW3-11a	0	0.0051176
+This study	Botswana 2012	Manyana Sill	PW3-11	PW3	PW3-11b	0	0.0053993
+This study	Botswana 2012	Manyana Sill	PW3-12	PW3	PW3-12a	0	0.0053262
+This study	Botswana 2012	Manyana Sill	PW3-12	PW3	PW3-12b	0	0.0041905
+This study	Botswana 2012	Manyana Sill	PW3-13	PW3	PW3-13a	0	0.0050501
+This study	Botswana 2012	Manyana Sill	PW3-13	PW3	PW3-13b	0	0.0043334
+This study	Botswana 2012	Manyana Sill	PW3-14	PW3	PW3-14a	0	0.0062301
+This study	Botswana 2012	Manyana Sill	PW3-14	PW3	PW3-14b	0	0.0044771
+This study	Botswana 2012	Manyana Sill	PW3-15	PW3	PW3-15a	0	0.0045643
+This study	Botswana 2012	Manyana Sill	PW3-15	PW3	PW3-15b	0	0.0042797
+This study	Botswana 2012	Manyana Sill	PW3-15	PW3	PW3-15c	0	5.31E-5
+This study	Botswana 2012	Manyana Sill	PW3-16	PW3	PW3-16a	0	0.0042755
+This study	Botswana 2012	Manyana Sill	PW3-16	PW3	PW3-16b	0	0.0041762
+This study	Botswana 2012	Manyana Sill	PW3-1	PW3	PW3-1a	0	0.004581
+This study	Botswana 2012	Manyana Sill	PW3-1	PW3	PW3-1b	0	0.0039343
+This study	Botswana 2012	Manyana Sill	PW3-2	PW3	PW3-2a	0	0.0048888
+This study	Botswana 2012	Manyana Sill	PW3-2	PW3	PW3-2b	0	0.004335
+This study	Botswana 2012	Manyana Sill	PW3-3	PW3	PW3-3a	0	0.0052598
+This study	Botswana 2012	Manyana Sill	PW3-3	PW3	PW3-3b	0	0.0048466
+This study	Botswana 2012	Manyana Sill	PW3-4	PW3	PW3-4a	0	0.0044629
+This study	Botswana 2012	Manyana Sill	PW3-4	PW3	PW3-4b	0	0.0046416
+This study	Botswana 2012	Manyana Sill	PW3-5	PW3	PW3-5a	0	0.0042284
+This study	Botswana 2012	Manyana Sill	PW3-5	PW3	PW3-5b	0	0.0049562
+This study	Botswana 2012	Manyana Sill	PW3-6	PW3	PW3-6a	0	0.0047872
+This study	Botswana 2012	Manyana Sill	PW3-6	PW3	PW3-6b	0	0.0045557
+This study	Botswana 2012	Manyana Sill	PW3-7	PW3	PW3-7a	0	0.0049907
+This study	Botswana 2012	Manyana Sill	PW3-7	PW3	PW3-7b	0	0.0032792
+This study	Botswana 2012	Manyana Sill	PW3-8	PW3	PW3-8a	0	0.0044678
+This study	Botswana 2012	Manyana Sill	PW3-8	PW3	PW3-8b	0	0.0052308
+This study	Botswana 2012	Manyana Sill	PW3-9	PW3	PW3-9a	0	0.0045278
+This study	Botswana 2012	Manyana Sill	PW3-9	PW3	PW3-9b	0	0.0042044

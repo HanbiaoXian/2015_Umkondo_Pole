@@ -1,0 +1,28 @@
+tab	er_ages
+er_citation_names	er_site_name	er_location_name	age_description	magic_method_codes	age	age_unit
+This study	JP1	Botswana			1110	Ma
+This study	JP11	Botswana			1110	Ma
+This study	JP12	Botswana			1110	Ma
+This study	JP15	Botswana			1110	Ma
+This study	JP16	Botswana			1110	Ma
+This study	JP18	Botswana			1110	Ma
+This study	JP19	Botswana			1110	Ma
+This study	JP2	Botswana			1110	Ma
+This study	JP20	Botswana			1110	Ma
+This study	JP21	Botswana			1110	Ma
+This study	JP22	Botswana			1110	Ma
+This study	JP23	Botswana			1110	Ma
+This study	JP24	Botswana			1110	Ma
+This study	JP26	Botswana			1110	Ma
+This study	JP27	Botswana			1110	Ma
+This study	JP29	Botswana			1110	Ma
+This study	JP3	Botswana			1110	Ma
+This study	JP30	Botswana			1110	Ma
+This study	JP31	Botswana			1110	Ma
+This study	JP33	Botswana			1110	Ma
+This study	JP34	Botswana			1110	Ma
+This study	JP4	Botswana			1110	Ma
+This study	JP5B	Botswana			1110	Ma
+This study	JP6	Botswana			1110	Ma
+This study	JP8	Botswana			1110	Ma
+This study	JP9	Botswana			1110	Ma

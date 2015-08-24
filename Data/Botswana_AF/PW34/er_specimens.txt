@@ -1,0 +1,34 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Masama 1 Sill	PW34-10	PW34	PW34-10a	0	0.0052401
+This study	Botswana 2012	Masama 1 Sill	PW34-10	PW34	PW34-10b	0	0.0049438
+This study	Botswana 2012	Masama 1 Sill	PW34-11	PW34	PW34-11a	0	0.0045758
+This study	Botswana 2012	Masama 1 Sill	PW34-11	PW34	PW34-11b	0	0.0047919
+This study	Botswana 2012	Masama 1 Sill	PW34-12	PW34	PW34-12a	0	0.0052123
+This study	Botswana 2012	Masama 1 Sill	PW34-12	PW34	PW34-12b	0	0.0056158
+This study	Botswana 2012	Masama 1 Sill	PW34-13	PW34	PW34-13a	0	0.0048259
+This study	Botswana 2012	Masama 1 Sill	PW34-13	PW34	PW34-13b	0	0.0045824
+This study	Botswana 2012	Masama 1 Sill	PW34-14	PW34	PW34-14a	0	0.0046516
+This study	Botswana 2012	Masama 1 Sill	PW34-14	PW34	PW34-14b	0	0.0056789
+This study	Botswana 2012	Masama 1 Sill	PW34-15	PW34	PW34-15a	0	0.0042001
+This study	Botswana 2012	Masama 1 Sill	PW34-15	PW34	PW34-15b	0	0.0051165
+This study	Botswana 2012	Masama 1 Sill	PW34-16	PW34	PW34-16a	0	0.0051457
+This study	Botswana 2012	Masama 1 Sill	PW34-16	PW34	PW34-16b	0	0.0049032
+This study	Botswana 2012	Masama 1 Sill	PW34-1	PW34	PW34-1a	0	0.0050199
+This study	Botswana 2012	Masama 1 Sill	PW34-1	PW34	PW34-1b	0	0.0042911
+This study	Botswana 2012	Masama 1 Sill	PW34-2	PW34	PW34-2a	0	0.0058633
+This study	Botswana 2012	Masama 1 Sill	PW34-2	PW34	PW34-2b	0	0.0054322
+This study	Botswana 2012	Masama 1 Sill	PW34-3	PW34	PW34-3a	0	0.005137
+This study	Botswana 2012	Masama 1 Sill	PW34-3	PW34	PW34-3b	0	0.0049428
+This study	Botswana 2012	Masama 1 Sill	PW34-4	PW34	PW34-4a	0	0.0047855
+This study	Botswana 2012	Masama 1 Sill	PW34-5	PW34	PW34-5a	0	0.0058086
+This study	Botswana 2012	Masama 1 Sill	PW34-5	PW34	PW34-5b	0	0.0055564
+This study	Botswana 2012	Masama 1 Sill	PW34-6	PW34	PW34-6a	0	0.0052536
+This study	Botswana 2012	Masama 1 Sill	PW34-6	PW34	PW34-6b	0	0.0051214
+This study	Botswana 2012	Masama 1 Sill	PW34-7	PW34	PW34-7a	0	0.0049071
+This study	Botswana 2012	Masama 1 Sill	PW34-7	PW34	PW34-7b	0	0.0042989
+This study	Botswana 2012	Masama 1 Sill	PW34-8	PW34	PW34-8a	0	0.0055429
+This study	Botswana 2012	Masama 1 Sill	PW34-8	PW34	PW34-8b	0	0.0048372
+This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9a	0	0.0054714
+This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9b	0	0.0053673
+This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9c	0	9.67E-5

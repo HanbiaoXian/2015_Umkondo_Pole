@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+8.7	193.9	1.9	41	-22.3354	26.8228	8	8	0	7.8301	i		This study	Sepatamorire Hill Sill	PW32	PW32-11a:PW32-13a:PW32-18a:PW32-21a:PW32-5a:PW32-6a:PW32-7a:PW32-8a	LP-DIR-AF:DE-BFL:DA-DIR-TILT:DE-BFL-A:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW32	A	Site VGP, coord system = b component: A	100	8.1	6.2	-64.7	241.0	8

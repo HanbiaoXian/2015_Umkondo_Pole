@@ -1,0 +1,26 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Phage Sill	PW29-10	PW29	PW29-10a	0	0.0049433
+This study	Botswana 2012	Phage Sill	PW29-10	PW29	PW29-10b	0	0.0048354
+This study	Botswana 2012	Phage Sill	PW29-11	PW29	PW29-11a	0	0.0049055
+This study	Botswana 2012	Phage Sill	PW29-11	PW29	PW29-11b	0	0.004279
+This study	Botswana 2012	Phage Sill	PW29-12	PW29	PW29-12a	0	0.0045403
+This study	Botswana 2012	Phage Sill	PW29-12	PW29	PW29-12b	0	0.0046154
+This study	Botswana 2012	Phage Sill	PW29-1	PW29	PW29-1a	0	0.0044069
+This study	Botswana 2012	Phage Sill	PW29-1	PW29	PW29-1b	0	0.0041941
+This study	Botswana 2012	Phage Sill	PW29-2	PW29	PW29-2a	0	0.0042636
+This study	Botswana 2012	Phage Sill	PW29-3	PW29	PW29-3a	0	0.0046116
+This study	Botswana 2012	Phage Sill	PW29-3	PW29	PW29-3b	0	0.0039554
+This study	Botswana 2012	Phage Sill	PW29-4	PW29	PW29-4a	0	0.0041593
+This study	Botswana 2012	Phage Sill	PW29-4	PW29	PW29-4b	0	0.0045184
+This study	Botswana 2012	Phage Sill	PW29-5	PW29	PW29-5a	0	0.0046709
+This study	Botswana 2012	Phage Sill	PW29-5	PW29	PW29-5b	0	0.0038566
+This study	Botswana 2012	Phage Sill	PW29-6	PW29	PW29-6a	0	0.0046176
+This study	Botswana 2012	Phage Sill	PW29-6	PW29	PW29-6b	0	0.0046015
+This study	Botswana 2012	Phage Sill	PW29-7	PW29	PW29-7a	0	0.0048636
+This study	Botswana 2012	Phage Sill	PW29-7	PW29	PW29-7b	0	0.0051107
+This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8a	0	0.0045988
+This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8b	0	0.0043086
+This study	Botswana 2012	Phage Sill	PW29-8	PW29	PW29-8c	0	0.0001046
+This study	Botswana 2012	Phage Sill	PW29-9	PW29	PW29-9a	0	0.004481
+This study	Botswana 2012	Phage Sill	PW29-9	PW29	PW29-9b	0	0.0043388

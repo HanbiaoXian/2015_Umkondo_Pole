@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Ranku Hill Sill	PW4-10	PW4	PW4-10a	"PW4-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	8.000e-02	3.000e-02	T		u	3.6	64.9	l	18.5	2.2	6	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-10	PW4	PW4-10a	"PW4-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	8.000e-02	3.000e-02	T		u	3.6	104.4	l	12.2	2.2	6	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-10	PW4	PW4-10a	"PW4-10a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	8.000e-02	3.000e-02	T		u	3.6	103.5	l	10.3	2.2	6	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-1	PW4	PW4-1a	"PW4-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	2.2	207.3	l	20.1	2.0	7	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-1	PW4	PW4-1a	"PW4-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	2.2	260.9	l	23.7	2.0	7	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-1	PW4	PW4-1a	"PW4-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	7.000e-02	T		u	2.2	262.6	l	27.2	2.0	7	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-2	PW4	PW4-2a	"PW4-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	3.7	90.3	l	20.4	1.4	7	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-2	PW4	PW4-2a	"PW4-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	3.7	145.3	l	19.6	1.4	7	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-2	PW4	PW4-2a	"PW4-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	3.7	143.5	l	21.1	1.4	7	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-3	PW4	PW4-3a	"PW4-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	1.9	298.7	l	-8.8	2.7	6	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-3	PW4	PW4-3a	"PW4-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	1.9	127.5	l	-14.9	2.7	6	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-3	PW4	PW4-3a	"PW4-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	8.000e-02	T		u	1.9	128.8	l	-14.7	2.7	6	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-4	PW4	PW4-4a	"PW4-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	0.4	231.7	l	9.3	0.6	12	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-4	PW4	PW4-4a	"PW4-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	0.4	120.0	l	20.6	0.6	12	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-4	PW4	PW4-4a	"PW4-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	2.500e-02	T		u	0.4	118.1	l	19.9	0.6	12	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-6	PW4	PW4-6a	"PW4-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	9.000e-02	4.000e-02	T		u	1.5	267.0	l	-50.3	0.8	6	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-6	PW4	PW4-6a	"PW4-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	9.000e-02	4.000e-02	T		u	1.5	106.8	l	-46.6	0.8	6	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-6	PW4	PW4-6a	"PW4-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	9.000e-02	4.000e-02	T		u	1.5	111.9	l	-48.1	0.8	6	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-7	PW4	PW4-7a	"PW4-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	0.8	206.6	l	20.4	0.6	8	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-7	PW4	PW4-7a	"PW4-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	0.8	92.4	l	34.5	0.6	8	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-7	PW4	PW4-7a	"PW4-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	0.8	89.8	l	31.6	0.6	8	100
+	This study	Botswana 2012	Ranku Hill Sill	PW4-9	PW4	PW4-9a	"PW4-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	7.2	284.4	l	-8.3	3.0	7	-1
+	This study	Botswana 2012	Ranku Hill Sill	PW4-9	PW4	PW4-9a	"PW4-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	7.2	307.2	l	-11.3	3.0	7	0
+	This study	Botswana 2012	Ranku Hill Sill	PW4-9	PW4	PW4-9a	"PW4-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	4.000e-02	T		u	7.2	306.2	l	-11.4	3.0	7	100

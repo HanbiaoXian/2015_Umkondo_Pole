@@ -1,0 +1,3 @@
+tab 	er_sites
+er_citation_names	er_expedition_name	er_location_name	er_site_name	site_description	site_elevation	site_lat	site_lon
+This study	Botswana 2012	Marseilles Hill Sill	PW39			-23.9612	26.9102

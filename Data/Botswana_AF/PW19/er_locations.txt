@@ -1,0 +1,3 @@
+tab 	er_locations
+er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_description	location_end_lat	location_end_lon
+This study	Molepolole Prison Quarry Sill	-24.3761	25.4684		-24.3761	25.4684

@@ -1,0 +1,49 @@
+To get the latex output run these commands:
+
+ipython nbconvert Umkondo_Published_Data_Compilation.ipynb --to latex
+
+ipython nbconvert Umkondo_New_Data.ipynb --to latex
+
+
+Text to add at the beginning:
+
+\section{Introduction}
+
+This Supplementary Information is output from two Jupyter notebooks that can be viewed online at the links provided below or accessed in the Github repository associated with the paper: https://github.com/Swanson-Hysell-Group/2015_Umkondo. The two notebooks compiled here include a published data compilation notebook and a new data and associated analysis notebook. The published data compilation notebook contains the details of the compilation including the combination of previously published "sites" into single cooling unit sites: http://nbviewer.jupyter.org/github/Swanson-Hysell-Group/2015_Umkondo/blob/master/Code/Umkondo_Published_Data_Compilation.ipynb. The new data and associated analysis notebook includes analysis of the newly developed data, combination of that data with previously published results and the code associated with the calculation of the mean pole and paleosecular variation parameters: http://nbviewer.jupyter.org/github/Swanson-Hysell-Group/2015_Umkondo/blob/master/Code/Umkondo_New_Data.ipynb. Some of the tables which are truncated below, can be viewed in full when the notebooks are rendered in a web browser.
+
+In addition to the notebooks, all of the data that are imported into them for the analysis are availible within the Github repository.
+
+----
+
+\tightlist
+
+replace with
+
+nothing
+
+----
+
+\centering{\begin{
+
+replace with
+
+\begin{tiny}
+\centering{\begin{
+
+----
+
+\end{tabular}
+}
+
+replace with
+
+\end{tabular}}
+\end{tiny}
+
+----
+
+\$\pm\$
+
+replace with
+
+$\pm$

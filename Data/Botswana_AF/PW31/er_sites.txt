@@ -1,0 +1,3 @@
+tab 	er_sites
+er_citation_names	er_expedition_name	er_location_name	er_site_name	site_description	site_elevation	site_lat	site_lon
+This study	Botswana 2012	Mokgware Sill	PW31			-22.7069	26.6114

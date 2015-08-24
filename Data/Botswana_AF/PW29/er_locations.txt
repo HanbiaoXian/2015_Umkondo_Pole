@@ -1,0 +1,3 @@
+tab 	er_locations
+er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_description	location_end_lat	location_end_lon
+This study	Phage Sill	-22.7794	26.3937		-22.7794	26.3937

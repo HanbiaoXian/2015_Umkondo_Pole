@@ -1,0 +1,8 @@
+tab 	er_samples
+er_citation_name	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type	specimen_volume	specimen_weight
+This study	Botswana	PW13.1b	PW13	SO-CMD-NORTH	-11.1	0.0	90.0		0.0	-21.0	0				1.000e-03
+This study	Botswana	PW13.2b	PW13	SO-CMD-NORTH	180.5	0.0	90.0		0.0	-17.0	0				1.000e-03
+This study	Botswana	PW13.3b	PW13	SO-CMD-NORTH	81.0	0.0	90.0		0.0	-10.0	0				1.000e-03
+This study	Botswana	PW13.4b	PW13	SO-CMD-NORTH	164.8	0.0	90.0		0.0	-15.0	0				1.000e-03
+This study	Botswana	PW13.5b	PW13	SO-CMD-NORTH	128.4	0.0	90.0		0.0	-17.0	0				1.000e-03
+This study	Botswana	PW13.6b	PW13	SO-CMD-NORTH	148.3	0.0	90.0		0.0	-10.0	0				1.000e-03

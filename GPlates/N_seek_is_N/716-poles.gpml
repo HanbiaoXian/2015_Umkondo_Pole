@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0327" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-3193f175-493e-41b4-851c-842f6dc61c47</gpml:identity>
+            <gpml:revision>GPlates-3745d49e-9148-4f2f-9701-2a10fab7712a</gpml:revision>
+            <gml:name>Umkondo (Gose2006a)</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>64.000000000000014 38.79999999999999</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>3.7000000476837158</gpml:poleA95>
+            <gpml:averageAge>1109</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-6a6467a0-5f9a-4743-baff-ace4c3280096</gpml:identity>
+            <gpml:revision>GPlates-86d5052b-20cf-47d5-a7db-4fccd5f9fe18</gpml:revision>
+            <gml:name>Borgmass Intrusives - Grunehogna</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>62.29999999999999 33.299999999999997</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>3.2999999523162842</gpml:poleA95>
+            <gpml:averageAge>1131</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-8ce23a94-5513-4a94-bb52-071e22f287c1</gpml:identity>
+            <gpml:revision>GPlates-3588621b-82bb-4fb2-812d-f83301232afe</gpml:revision>
+            <gml:name>Umk_Nor_new</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>68.400000000000006 68.700000000000003</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>8.1999998092651367</gpml:poleA95>
+            <gpml:averageAge>1108</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-a6450823-f723-4d03-9d4c-f06a6d397800</gpml:identity>
+            <gpml:revision>GPlates-30156a7c-f623-41a7-b5b3-4539c008ef99</gpml:revision>
+            <gml:name>Umk_Rev_new</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>62.299999237060547 40.499999999999993</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>3.2999999523162842</gpml:poleA95>
+            <gpml:averageAge>1110</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-c94d5cf3-e945-457c-a8c6-db3fd3f5eb35</gpml:identity>
+            <gpml:revision>GPlates-aa21f876-4320-4fbe-865b-d014750153a0</gpml:revision>
+            <gml:name>Kalkpunt Fm. - 800-1065 Ma</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>57.000000000000007 3</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>7</gpml:poleA95>
+            <gpml:averageAge>1065</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-01cc246b-a1f9-4f19-ac3f-1de24e70f9a6</gpml:identity>
+            <gpml:revision>GPlates-d153f969-560a-48d1-9704-684dd1d89c75</gpml:revision>
+            <gml:name>Ntimbankulu pluton - 1030-1060 Ma</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>26.999999999999996 -32.999999999999993</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:poleA95>18</gpml:poleA95>
+            <gpml:averageAge>1060</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-f54b2528-08d9-484a-b88b-620162e1c80f</gpml:identity>
+            <gpml:revision>GPlates-8074af63-2442-4aa1-808d-00e8034423cf</gpml:revision>
+            <gml:name>Namaqua Eastern Zone - &lt;1165 ±10 Ma</gml:name>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>44.999999999999993 21.999999999999996</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:averageAge>1165</gpml:averageAge>
+            <gpml:poleA95>13</gpml:poleA95>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-72b065f0-1043-4b8c-b92b-f73319abb0b6</gpml:identity>
+            <gpml:revision>GPlates-fbffbbba-ddcd-423f-939c-2714c5fcad4d</gpml:revision>
+            <gml:name>Aubures Fm - &lt;1108 ±9 Ma</gml:name>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>55.999999999999993 18</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:averageAge>1108</gpml:averageAge>
+            <gpml:poleA95>11</gpml:poleA95>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-ad2257d8-ea60-4ce8-9bb6-cd8f74104862</gpml:identity>
+            <gpml:revision>GPlates-d57730a8-facb-4e69-8762-d764e379e932</gpml:revision>
+            <gml:name>Central Namaqua belt - 1030?1000 Ma</gml:name>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>8 -30.000000000000028</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:averageAge>1015</gpml:averageAge>
+            <gpml:poleA95>10</gpml:poleA95>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-cfb7b3bd-3874-4950-8a26-90b5af61c5c2</gpml:identity>
+            <gpml:revision>GPlates-fe9ffae7-c4a1-41c0-a6e8-4e3bb4133637</gpml:revision>
+            <gml:name>Port Edward Charnockite - 1004 ±5 Ma</gml:name>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-7 -30.000000000000028</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>716</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:averageAge>1004</gpml:averageAge>
+            <gpml:poleA95>4</gpml:poleA95>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+</gpml:FeatureCollection>

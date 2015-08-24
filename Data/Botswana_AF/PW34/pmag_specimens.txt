@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Masama 1 Sill	PW34-1	PW34	PW34-1a	"PW34-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	9.000e-02	3.000e-02	T		u	2.5	127.3	l	-33.7	2.9	7	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-1	PW34	PW34-1a	"PW34-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	9.000e-02	3.000e-02	T		u	2.5	182.9	l	-25.9	2.9	7	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-1	PW34	PW34-1a	"PW34-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	9.000e-02	3.000e-02	T		u	2.5	183.3	l	-18.0	2.9	7	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-2	PW34	PW34-2a	"PW34-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.3	26.4	l	-20.2	4.1	8	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-2	PW34	PW34-2a	"PW34-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.3	148.0	l	-31.7	4.1	8	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-2	PW34	PW34-2a	"PW34-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	2.3	150.9	l	-25.6	4.1	8	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-3	PW34	PW34-3a	"PW34-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	6.5	17.8	l	-8.4	6.3	10	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-3	PW34	PW34-3a	"PW34-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	6.5	177.8	l	-27.3	6.3	10	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-3	PW34	PW34-3a	"PW34-3a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	4.000e-02	T		u	6.5	178.6	l	-19.5	6.3	10	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-5	PW34	PW34-5a	"PW34-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	1.4	97.9	l	-12.9	3.0	10	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-5	PW34	PW34-5a	"PW34-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	1.4	180.3	l	-10.2	3.0	10	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-5	PW34	PW34-5a	"PW34-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	2.000e-02	T		u	1.4	180.4	l	-2.4	3.0	10	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-6	PW34	PW34-6a	"PW34-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	5.5	116.1	l	-13.6	3.5	9	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-6	PW34	PW34-6a	"PW34-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	5.5	179.1	l	-6.7	3.5	9	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-6	PW34	PW34-6a	"PW34-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	5.5	179.2	l	1.1	3.5	9	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-7	PW34	PW34-7a	"PW34-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	2.1	16.9	l	1.5	6.1	8	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-7	PW34	PW34-7a	"PW34-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	2.1	176.0	l	-9.1	6.1	8	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-7	PW34	PW34-7a	"PW34-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	4.000e-02	T		u	2.1	176.2	l	-1.3	6.1	8	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-8	PW34	PW34-8a	"PW34-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	8.2	173.7	l	-22.1	3.9	9	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-8	PW34	PW34-8a	"PW34-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	8.2	175.3	l	-7.2	3.9	9	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-8	PW34	PW34-8a	"PW34-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.200e-01	3.000e-02	T		u	8.2	175.4	l	0.5	3.9	9	100
+	This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9a	"PW34-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	1.1	296.3	l	-10.3	2.5	9	-1
+	This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9a	"PW34-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	1.1	177.8	l	-17.3	2.5	9	0
+	This study	Botswana 2012	Masama 1 Sill	PW34-9	PW34	PW34-9a	"PW34-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.000e-01	2.500e-02	T		u	1.1	178.3	l	-9.5	2.5	9	100

@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+180.0	131.1	78.1	1	-24.2000	25.9000	6	6	0	2.2516	i		This study	Botswana	PW20	PW20.1b:PW20.2b:PW20.3b:PW20.4b:PW20.5b:PW20.6b	LP-DIR-T:DE-BFL-A:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW20	A	Site VGP, coord system = b component: A	100	796.2	135.4	-37.6	47.6	6

@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+4.4	206.7	8.8	234	-22.7000	26.6000	6	6	0	5.9786	i		This study	Botswana	PW31	PW31.10b:PW31.11b:PW31.12b:PW31.13b:PW31.14b:PW31.15b	LP-DIR-T:DE-BFL-A:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW31	A	Site VGP, coord system = b component: A	100	4.1	3.2	-58.4	265.3	6

@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+50.5	182.2	44.0	2	-24.2558	25.6507	8	8	0	4.7560	i		This study	Gajong Donut Sill	PW13	PW13-11a:PW13-1a:PW13-2a:PW13-3a:PW13-4a:PW13-5a:PW13-6a:PW13-7a	LP-DIR-AF:DE-BFL-A:DA-DIR-TILT:DE-BFL:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	VGP Site: PW13	A	Site VGP, coord system = b component: A	100	64.0	38.0	-87.5	333.4	8

@@ -1,0 +1,11 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Masama 3 Sill	PW35-2	PW35	PW35-2a	0	0.0046242
+This study	Botswana 2012	Masama 3 Sill	PW35-2	PW35	PW35-2b	0	0.0046806
+This study	Botswana 2012	Masama 3 Sill	PW35-3	PW35	PW35-3a	0	0.0047605
+This study	Botswana 2012	Masama 3 Sill	PW35-3	PW35	PW35-3b	0	0.0053495
+This study	Botswana 2012	Masama 3 Sill	PW35-4	PW35	PW35-4a	0	0.0048741
+This study	Botswana 2012	Masama 3 Sill	PW35-6	PW35	PW35-6a	0	0.0046178
+This study	Botswana 2012	Masama 3 Sill	PW35-6	PW35	PW35-6b	0	0.0040623
+This study	Botswana 2012	Masama 3 Sill	PW35-6	PW35	PW35-6c	0	0.0001118
+This study	Botswana 2012	Masama 3 Sill	PW35-8	PW35	PW35-8a	0	0.004572

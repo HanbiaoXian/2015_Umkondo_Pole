@@ -1,0 +1,13 @@
+start gui
+ -I- cant find zeq_gui_preferences file, using defualt default 
+-W- Cant find er_ages in project directory-I- Read magic file  /Users/Laurentia/0000_Github/2015_Umkondo/Data/Botswana_AF/PW14/magic_measurements.txt
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-E- ERROR: specimen %s has more than one demagnetization experiment name. You need to merge them to one experiment-name?
+-I- Reading previous interpretations from pmag* tables
+-I- read redo file and processing new bounds

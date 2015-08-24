@@ -1,0 +1,22 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Masama 3 Sill	PW37-10	PW37	PW37-10a	0	0.0041542
+This study	Botswana 2012	Masama 3 Sill	PW37-10	PW37	PW37-10b	0	0.00477
+This study	Botswana 2012	Masama 3 Sill	PW37-1	PW37	PW37-1a	0	0.0043889
+This study	Botswana 2012	Masama 3 Sill	PW37-1	PW37	PW37-1b	0	0.0053221
+This study	Botswana 2012	Masama 3 Sill	PW37-2	PW37	PW37-2a	0	0.0050407
+This study	Botswana 2012	Masama 3 Sill	PW37-2	PW37	PW37-2b	0	0.0051603
+This study	Botswana 2012	Masama 3 Sill	PW37-3	PW37	PW37-3a	0	0.004893
+This study	Botswana 2012	Masama 3 Sill	PW37-3	PW37	PW37-3b	0	0.0055292
+This study	Botswana 2012	Masama 3 Sill	PW37-4	PW37	PW37-4a	0	0.0048287
+This study	Botswana 2012	Masama 3 Sill	PW37-5	PW37	PW37-5a	0	0.0050192
+This study	Botswana 2012	Masama 3 Sill	PW37-5	PW37	PW37-5b	0	0.0052612
+This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6a	0	0.0048517
+This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6b	0	0.0047004
+This study	Botswana 2012	Masama 3 Sill	PW37-6	PW37	PW37-6c	0	0.0001159
+This study	Botswana 2012	Masama 3 Sill	PW37-7	PW37	PW37-7a	0	0.0044676
+This study	Botswana 2012	Masama 3 Sill	PW37-7	PW37	PW37-7b	0	0.0043659
+This study	Botswana 2012	Masama 3 Sill	PW37-8	PW37	PW37-8a	0	0.004281
+This study	Botswana 2012	Masama 3 Sill	PW37-8	PW37	PW37-8b	0	0.0043358
+This study	Botswana 2012	Masama 3 Sill	PW37-9	PW37	PW37-9a	0	0.0047564
+This study	Botswana 2012	Masama 3 Sill	PW37-9	PW37	PW37-9b	0	0.0048612

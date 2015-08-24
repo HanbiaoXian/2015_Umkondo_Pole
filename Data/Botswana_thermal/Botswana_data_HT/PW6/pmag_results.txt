@@ -1,0 +1,3 @@
+tab 	pmag_results
+average_alpha95	average_dec	average_inc	average_k	average_lat	average_lon	average_n	average_n_lines	average_n_planes	average_r	data_type	er_analyst_mail_names	er_citation_names	er_location_names	er_site_names	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	pmag_result_name	pole_comp_name	result_description	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon	vgp_n
+23.8	181.9	-7.1	9	-24.5000	25.8000	6	6	0	5.4346	i		This study	UMK_BOT	PW6	PW6.1b:PW6.4b:PW6.5b:PW6.6b:PW6.7b:PW6.8b	LP-DIR-T:DE-BFL-A:DA-DIR-TILT:LP-DC4:DE-FM	pmagpy-2.235	ACCEPT	VGP Site: PW6	A	Site VGP, coord system = b component: A	100	21.8	18.0	-61.9	209.8	6

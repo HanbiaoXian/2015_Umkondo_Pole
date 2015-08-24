@@ -1,0 +1,8 @@
+tab 	er_specimens
+er_citation_name	er_location_name	er_sample_name	er_site_name	er_specimen_name
+This study	Botswana	PW19.1b	PW19	PW19.1b
+This study	Botswana	PW19.4b	PW19	PW19.4b
+This study	Botswana	PW19.5b	PW19	PW19.5b
+This study	Botswana	PW19.8b	PW19	PW19.8b
+This study	Botswana	PW19.9b	PW19	PW19.9b
+This study	Botswana	PW19.10b	PW19	PW19.10b

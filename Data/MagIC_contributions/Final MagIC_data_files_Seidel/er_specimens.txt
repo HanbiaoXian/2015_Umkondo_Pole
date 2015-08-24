@@ -1,0 +1,402 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name
+This study	Timbavati	TG01-1	TG01	TG01-1
+This study	Timbavati	TG01-10	TG01	TG01-10
+This study	Timbavati	TG01-11	TG01	TG01-11
+This study	Timbavati	TG01-12	TG01	TG01-12
+This study	Timbavati	TG01-13	TG01	TG01-13
+This study	Timbavati	TG01-14	TG01	TG01-14
+This study	Timbavati	TG01-15	TG01	TG01-15
+This study	Timbavati	TG01-16	TG01	TG01-16
+This study	Timbavati	TG01-17	TG01	TG01-17
+This study	Timbavati	TG01-18	TG01	TG01-18
+This study	Timbavati	TG01-19	TG01	TG01-19
+This study	Timbavati	TG01-2	TG01	TG01-2
+This study	Timbavati	TG01-20	TG01	TG01-20
+This study	Timbavati	TG01-21	TG01	TG01-21
+This study	Timbavati	TG01-22	TG01	TG01-22
+This study	Timbavati	TG01-23	TG01	TG01-23
+This study	Timbavati	TG01-3	TG01	TG01-3
+This study	Timbavati	TG01-4	TG01	TG01-4
+This study	Timbavati	TG01-5	TG01	TG01-5
+This study	Timbavati	TG01-6	TG01	TG01-6
+This study	Timbavati	TG01-7	TG01	TG01-7
+This study	Timbavati	TG01-8	TG01	TG01-8
+This study	Timbavati	TG01-9	TG01	TG01-9
+This study	Timbavati	TG02-1	TG02	TG02-1
+This study	Timbavati	TG02-10	TG02	TG02-10
+This study	Timbavati	TG02-11	TG02	TG02-11
+This study	Timbavati	TG02-12	TG02	TG02-12
+This study	Timbavati	TG02-2	TG02	TG02-2
+This study	Timbavati	TG02-3	TG02	TG02-3
+This study	Timbavati	TG02-4	TG02	TG02-4
+This study	Timbavati	TG02-5	TG02	TG02-5
+This study	Timbavati	TG02-6	TG02	TG02-6
+This study	Timbavati	TG02-7	TG02	TG02-7
+This study	Timbavati	TG02-8	TG02	TG02-8
+This study	Timbavati	TG02-9	TG02	TG02-9
+This study	Timbavati	TG03-1	TG03	TG03-1
+This study	Timbavati	TG03-10	TG03	TG03-10
+This study	Timbavati	TG03-11	TG03	TG03-11
+This study	Timbavati	TG03-12	TG03	TG03-12
+This study	Timbavati	TG03-2	TG03	TG03-2
+This study	Timbavati	TG03-3	TG03	TG03-3
+This study	Timbavati	TG03-4	TG03	TG03-4
+This study	Timbavati	TG03-5	TG03	TG03-5
+This study	Timbavati	TG03-6	TG03	TG03-6
+This study	Timbavati	TG03-7	TG03	TG03-7
+This study	Timbavati	TG03-8	TG03	TG03-8
+This study	Timbavati	TG03-9	TG03	TG03-9
+This study	Timbavati	TG04-1	TG04	TG04-1
+This study	Timbavati	TG04-10	TG04	TG04-10
+This study	Timbavati	TG04-11	TG04	TG04-11
+This study	Timbavati	TG04-12	TG04	TG04-12
+This study	Timbavati	TG04-2	TG04	TG04-2
+This study	Timbavati	TG04-3	TG04	TG04-3
+This study	Timbavati	TG04-4	TG04	TG04-4
+This study	Timbavati	TG04-5	TG04	TG04-5
+This study	Timbavati	TG04-6	TG04	TG04-6
+This study	Timbavati	TG04-7	TG04	TG04-7
+This study	Timbavati	TG04-8	TG04	TG04-8
+This study	Timbavati	TG04-9	TG04	TG04-9
+This study	Timbavati	TG05-1	TG05	TG05-1
+This study	Timbavati	TG05-10	TG05	TG05-10
+This study	Timbavati	TG05-11	TG05	TG05-11
+This study	Timbavati	TG05-12	TG05	TG05-12
+This study	Timbavati	TG05-13	TG05	TG05-13
+This study	Timbavati	TG05-14	TG05	TG05-14
+This study	Timbavati	TG05-15	TG05	TG05-15
+This study	Timbavati	TG05-2	TG05	TG05-2
+This study	Timbavati	TG05-3	TG05	TG05-3
+This study	Timbavati	TG05-4	TG05	TG05-4
+This study	Timbavati	TG05-5	TG05	TG05-5
+This study	Timbavati	TG05-6	TG05	TG05-6
+This study	Timbavati	TG05-7	TG05	TG05-7
+This study	Timbavati	TG05-8	TG05	TG05-8
+This study	Timbavati	TG05-9	TG05	TG05-9
+This study	Timbavati	TG06-1	TG06	TG06-1
+This study	Timbavati	TG06-10	TG06	TG06-10
+This study	Timbavati	TG06-11	TG06	TG06-11
+This study	Timbavati	TG06-12	TG06	TG06-12
+This study	Timbavati	TG06-2	TG06	TG06-2
+This study	Timbavati	TG06-3	TG06	TG06-3
+This study	Timbavati	TG06-4	TG06	TG06-4
+This study	Timbavati	TG06-5	TG06	TG06-5
+This study	Timbavati	TG06-6	TG06	TG06-6
+This study	Timbavati	TG06-7	TG06	TG06-7
+This study	Timbavati	TG06-8	TG06	TG06-8
+This study	Timbavati	TG06-9	TG06	TG06-9
+This study	Timbavati	TG07-1	TG07	TG07-1
+This study	Timbavati	TG07-10	TG07	TG07-10
+This study	Timbavati	TG07-11	TG07	TG07-11
+This study	Timbavati	TG07-12	TG07	TG07-12
+This study	Timbavati	TG07-2	TG07	TG07-2
+This study	Timbavati	TG07-3	TG07	TG07-3
+This study	Timbavati	TG07-4	TG07	TG07-4
+This study	Timbavati	TG07-5	TG07	TG07-5
+This study	Timbavati	TG07-6	TG07	TG07-6
+This study	Timbavati	TG07-7	TG07	TG07-7
+This study	Timbavati	TG07-8	TG07	TG07-8
+This study	Timbavati	TG07-9	TG07	TG07-9
+This study	Timbavati	TG08-1	TG08	TG08-1
+This study	Timbavati	TG08-10	TG08	TG08-10
+This study	Timbavati	TG08-11	TG08	TG08-11
+This study	Timbavati	TG08-12	TG08	TG08-12
+This study	Timbavati	TG08-2	TG08	TG08-2
+This study	Timbavati	TG08-3	TG08	TG08-3
+This study	Timbavati	TG08-4	TG08	TG08-4
+This study	Timbavati	TG08-5	TG08	TG08-5
+This study	Timbavati	TG08-6	TG08	TG08-6
+This study	Timbavati	TG08-7	TG08	TG08-7
+This study	Timbavati	TG08-8	TG08	TG08-8
+This study	Timbavati	TG08-9	TG08	TG08-9
+This study	Timbavati	TG09-1	TG09	TG09-1
+This study	Timbavati	TG09-10	TG09	TG09-10
+This study	Timbavati	TG09-11	TG09	TG09-11
+This study	Timbavati	TG09-12	TG09	TG09-12
+This study	Timbavati	TG09-2	TG09	TG09-2
+This study	Timbavati	TG09-3	TG09	TG09-3
+This study	Timbavati	TG09-4	TG09	TG09-4
+This study	Timbavati	TG09-5	TG09	TG09-5
+This study	Timbavati	TG09-6	TG09	TG09-6
+This study	Timbavati	TG09-7	TG09	TG09-7
+This study	Timbavati	TG09-8	TG09	TG09-8
+This study	Timbavati	TG09-9	TG09	TG09-9
+This study	Timbavati	TG11-10	TG11	TG11-10
+This study	Timbavati	TG11-11	TG11	TG11-11
+This study	Timbavati	TG11-12	TG11	TG11-12
+This study	Timbavati	TG11-13	TG11	TG11-13
+This study	Timbavati	TG11-14	TG11	TG11-14
+This study	Timbavati	TG11-15	TG11	TG11-15
+This study	Timbavati	TG11-16	TG11	TG11-16
+This study	Timbavati	TG11-17	TG11	TG11-17
+This study	Timbavati	TG11-18	TG11	TG11-18
+This study	Timbavati	TG11-3	TG11	TG11-3
+This study	Timbavati	TG11-4	TG11	TG11-4
+This study	Timbavati	TG11-5	TG11	TG11-5
+This study	Timbavati	TG11-6	TG11	TG11-6
+This study	Timbavati	TG11-7	TG11	TG11-7
+This study	Timbavati	TG11-8	TG11	TG11-8
+This study	Timbavati	TG11-9	TG11	TG11-9
+This study	Karoo Dike	KD1-1	KD1	KD1-1
+This study	Karoo Dike	KD1-10	KD1	KD1-10
+This study	Karoo Dike	KD1-11	KD1	KD1-11
+This study	Karoo Dike	KD1-12	KD1	KD1-12
+This study	Karoo Dike	KD1-13	KD1	KD1-13
+This study	Karoo Dike	KD1-14	KD1	KD1-14
+This study	Karoo Dike	KD1-15	KD1	KD1-15
+This study	Karoo Dike	KD1-16	KD1	KD1-16
+This study	Karoo Dike	KD1-17	KD1	KD1-17
+This study	Karoo Dike	KD1-2	KD1	KD1-2
+This study	Karoo Dike	KD1-3	KD1	KD1-3
+This study	Karoo Dike	KD1-4	KD1	KD1-4
+This study	Karoo Dike	KD1-5	KD1	KD1-5
+This study	Karoo Dike	KD1-6	KD1	KD1-6
+This study	Karoo Dike	KD1-7	KD1	KD1-7
+This study	Karoo Dike	KD1-8	KD1	KD1-8
+This study	Karoo Dike	KD1-9	KD1	KD1-9
+This study	Baked sed	L1-1	L1	L1-1
+This study	Baked sed	L1-10	L1	L1-10
+This study	Baked sed	L1-11	L1	L1-11
+This study	Baked sed	L1-12	L1	L1-12
+This study	Baked sed	L1-13	L1	L1-13
+This study	Baked sed	L1-14	L1	L1-14
+This study	Baked sed	L1-15	L1	L1-15
+This study	Baked sed	L1-16	L1	L1-16
+This study	Baked sed	L1-17	L1	L1-17
+This study	Baked sed	L1-18	L1	L1-18
+This study	Baked sed	L1-19	L1	L1-19
+This study	Baked sed	L1-2	L1	L1-2
+This study	Baked sed	L1-3	L1	L1-3
+This study	Baked sed	L1-4	L1	L1-4
+This study	Baked sed	L1-5	L1	L1-5
+This study	Baked sed	L1-6	L1	L1-6
+This study	Baked sed	L1-7	L1	L1-7
+This study	Baked sed	L1-8	L1	L1-8
+This study	Baked sed	L1-9	L1	L1-9
+This study	Baked sed	L2-1	L2	L2-1
+This study	Baked sed	L2-10	L2	L2-10
+This study	Baked sed	L2-11	L2	L2-11
+This study	Baked sed	L2-12	L2	L2-12
+This study	Baked sed	L2-2	L2	L2-2
+This study	Baked sed	L2-3	L2	L2-3
+This study	Baked sed	L2-4	L2	L2-4
+This study	Baked sed	L2-5	L2	L2-5
+This study	Baked sed	L2-6	L2	L2-6
+This study	Baked sed	L2-7	L2	L2-7
+This study	Baked sed	L2-8	L2	L2-8
+This study	Baked sed	L2-9	L2	L2-9
+This study	Timbavati	TG12-1	TG12	TG12-1
+This study	Timbavati	TG12-10	TG12	TG12-10
+This study	Timbavati	TG12-11	TG12	TG12-11
+This study	Timbavati	TG12-12	TG12	TG12-12
+This study	Timbavati	TG12-13	TG12	TG12-13
+This study	Timbavati	TG12-2	TG12	TG12-2
+This study	Timbavati	TG12-3	TG12	TG12-3
+This study	Timbavati	TG12-4	TG12	TG12-4
+This study	Timbavati	TG12-5	TG12	TG12-5
+This study	Timbavati	TG12-6	TG12	TG12-6
+This study	Timbavati	TG12-7	TG12	TG12-7
+This study	Timbavati	TG12-8	TG12	TG12-8
+This study	Timbavati	TG12-9	TG12	TG12-9
+This study	Vredefort	VF1-1	VF1	VF1-1
+This study	Vredefort	VF1-10	VF1	VF1-10
+This study	Vredefort	VF1-11	VF1	VF1-11
+This study	Vredefort	VF1-12	VF1	VF1-12
+This study	Vredefort	VF1-2	VF1	VF1-2
+This study	Vredefort	VF1-3	VF1	VF1-3
+This study	Vredefort	VF1-4	VF1	VF1-4
+This study	Vredefort	VF1-5	VF1	VF1-5
+This study	Vredefort	VF1-6	VF1	VF1-6
+This study	Vredefort	VF1-7	VF1	VF1-7
+This study	Vredefort	VF1-8	VF1	VF1-8
+This study	Vredefort	VF1-9	VF1	VF1-9
+This study	Vredefort	VF2-1	VF2	VF2-1
+This study	Vredefort	VF2-10	VF2	VF2-10
+This study	Vredefort	VF2-11	VF2	VF2-11
+This study	Vredefort	VF2-2	VF2	VF2-2
+This study	Vredefort	VF2-3	VF2	VF2-3
+This study	Vredefort	VF2-4	VF2	VF2-4
+This study	Vredefort	VF2-5	VF2	VF2-5
+This study	Vredefort	VF2-6	VF2	VF2-6
+This study	Vredefort	VF2-7	VF2	VF2-7
+This study	Vredefort	VF2-8	VF2	VF2-8
+This study	Vredefort	VF2-9	VF2	VF2-9
+This study	Vredefort	VF3-1	VF3	VF3-1
+This study	Vredefort	VF3-10	VF3	VF3-10
+This study	Vredefort	VF3-11	VF3	VF3-11
+This study	Vredefort	VF3-12	VF3	VF3-12
+This study	Vredefort	VF3-2	VF3	VF3-2
+This study	Vredefort	VF3-3	VF3	VF3-3
+This study	Vredefort	VF3-4	VF3	VF3-4
+This study	Vredefort	VF3-5	VF3	VF3-5
+This study	Vredefort	VF3-6	VF3	VF3-6
+This study	Vredefort	VF3-7	VF3	VF3-7
+This study	Vredefort	VF3-8	VF3	VF3-8
+This study	Vredefort	VF3-9	VF3	VF3-9
+This study	Vredefort	VF4-1	VF4	VF4-1
+This study	Vredefort	VF4-10	VF4	VF4-10
+This study	Vredefort	VF4-11	VF4	VF4-11
+This study	Vredefort	VF4-12	VF4	VF4-12
+This study	Vredefort	VF4-2	VF4	VF4-2
+This study	Vredefort	VF4-3	VF4	VF4-3
+This study	Vredefort	VF4-4	VF4	VF4-4
+This study	Vredefort	VF4-5	VF4	VF4-5
+This study	Vredefort	VF4-6	VF4	VF4-6
+This study	Vredefort	VF4-7	VF4	VF4-7
+This study	Vredefort	VF4-8	VF4	VF4-8
+This study	Vredefort	VF4-9	VF4	VF4-9
+This study	Vredefort	VF5-1	VF5	VF5-1
+This study	Vredefort	VF5-10	VF5	VF5-10
+This study	Vredefort	VF5-11	VF5	VF5-11
+This study	Vredefort	VF5-12	VF5	VF5-12
+This study	Vredefort	VF5-2	VF5	VF5-2
+This study	Vredefort	VF5-3	VF5	VF5-3
+This study	Vredefort	VF5-4	VF5	VF5-4
+This study	Vredefort	VF5-5	VF5	VF5-5
+This study	Vredefort	VF5-6	VF5	VF5-6
+This study	Vredefort	VF5-7	VF5	VF5-7
+This study	Vredefort	VF5-8	VF5	VF5-8
+This study	Vredefort	VF5-9	VF5	VF5-9
+This study	Baked ss	WS1-1	WS1	WS1-1
+This study	Baked ss	WS1-10	WS1	WS1-10
+This study	Baked ss	WS1-11	WS1	WS1-11
+This study	Baked ss	WS1-2	WS1	WS1-2
+This study	Baked ss	WS1-3	WS1	WS1-3
+This study	Baked ss	WS1-4	WS1	WS1-4
+This study	Baked ss	WS1-5	WS1	WS1-5
+This study	Baked ss	WS1-6	WS1	WS1-6
+This study	Baked ss	WS1-7	WS1	WS1-7
+This study	Baked ss	WS1-8	WS1	WS1-8
+This study	Baked ss	WS1-9	WS1	WS1-9
+This study	post-Waterberg	W01-1	W01	W01-1
+This study	post-Waterberg	W01-10	W01	W01-10
+This study	post-Waterberg	W01-11	W01	W01-11
+This study	post-Waterberg	W01-12	W01	W01-12
+This study	post-Waterberg	W01-13	W01	W01-13
+This study	post-Waterberg	W01-14	W01	W01-14
+This study	post-Waterberg	W01-15	W01	W01-15
+This study	post-Waterberg	W01-16	W01	W01-16
+This study	post-Waterberg	W01-2	W01	W01-2
+This study	post-Waterberg	W01-3	W01	W01-3
+This study	post-Waterberg	W01-4	W01	W01-4
+This study	post-Waterberg	W01-5	W01	W01-5
+This study	post-Waterberg	W01-6	W01	W01-6
+This study	post-Waterberg	W01-7	W01	W01-7
+This study	post-Waterberg	W01-8	W01	W01-8
+This study	post-Waterberg	W01-9	W01	W01-9
+This study	post-Waterberg	W02-1	W02	W02-1
+This study	post-Waterberg	W02-10	W02	W02-10
+This study	post-Waterberg	W02-11	W02	W02-11
+This study	post-Waterberg	W02-12	W02	W02-12
+This study	post-Waterberg	W02-13	W02	W02-13
+This study	post-Waterberg	W02-14	W02	W02-14
+This study	post-Waterberg	W02-15	W02	W02-15
+This study	post-Waterberg	W02-16	W02	W02-16
+This study	post-Waterberg	W02-17	W02	W02-17
+This study	post-Waterberg	W02-18	W02	W02-18
+This study	post-Waterberg	W02-2	W02	W02-2
+This study	post-Waterberg	W02-3	W02	W02-3
+This study	post-Waterberg	W02-4	W02	W02-4
+This study	post-Waterberg	W02-5	W02	W02-5
+This study	post-Waterberg	W02-6	W02	W02-6
+This study	post-Waterberg	W02-7	W02	W02-7
+This study	post-Waterberg	W02-8	W02	W02-8
+This study	post-Waterberg	W02-9	W02	W02-9
+This study	post-Waterberg	W03-1	W03	W03-1
+This study	post-Waterberg	W03-10	W03	W03-10
+This study	post-Waterberg	W03-11	W03	W03-11
+This study	post-Waterberg	W03-12	W03	W03-12
+This study	post-Waterberg	W03-2	W03	W03-2
+This study	post-Waterberg	W03-3	W03	W03-3
+This study	post-Waterberg	W03-4	W03	W03-4
+This study	post-Waterberg	W03-5	W03	W03-5
+This study	post-Waterberg	W03-6	W03	W03-6
+This study	post-Waterberg	W03-7	W03	W03-7
+This study	post-Waterberg	W03-8	W03	W03-8
+This study	post-Waterberg	W03-9	W03	W03-9
+This study	post-Waterberg	W04-1	W04	W04-1
+This study	post-Waterberg	W04-10	W04	W04-10
+This study	post-Waterberg	W04-11	W04	W04-11
+This study	post-Waterberg	W04-12	W04	W04-12
+This study	post-Waterberg	W04-2	W04	W04-2
+This study	post-Waterberg	W04-3	W04	W04-3
+This study	post-Waterberg	W04-4	W04	W04-4
+This study	post-Waterberg	W04-5	W04	W04-5
+This study	post-Waterberg	W04-6	W04	W04-6
+This study	post-Waterberg	W04-7	W04	W04-7
+This study	post-Waterberg	W04-8	W04	W04-8
+This study	post-Waterberg	W04-9	W04	W04-9
+This study	post-Waterberg	W05-1	W05	W05-1
+This study	post-Waterberg	W05-10	W05	W05-10
+This study	post-Waterberg	W05-11	W05	W05-11
+This study	post-Waterberg	W05-12	W05	W05-12
+This study	post-Waterberg	W05-13	W05	W05-13
+This study	post-Waterberg	W05-2	W05	W05-2
+This study	post-Waterberg	W05-3	W05	W05-3
+This study	post-Waterberg	W05-4	W05	W05-4
+This study	post-Waterberg	W05-5	W05	W05-5
+This study	post-Waterberg	W05-6	W05	W05-6
+This study	post-Waterberg	W05-7	W05	W05-7
+This study	post-Waterberg	W05-8	W05	W05-8
+This study	post-Waterberg	W05-9	W05	W05-9
+This study	post-Waterberg	W06-1	W06	W06-1
+This study	post-Waterberg	W06-10	W06	W06-10
+This study	post-Waterberg	W06-11	W06	W06-11
+This study	post-Waterberg	W06-12	W06	W06-12
+This study	post-Waterberg	W06-2	W06	W06-2
+This study	post-Waterberg	W06-3	W06	W06-3
+This study	post-Waterberg	W06-4	W06	W06-4
+This study	post-Waterberg	W06-5	W06	W06-5
+This study	post-Waterberg	W06-6	W06	W06-6
+This study	post-Waterberg	W06-7	W06	W06-7
+This study	post-Waterberg	W06-8	W06	W06-8
+This study	post-Waterberg	W06-9	W06	W06-9
+This study	post-Waterberg	W07-1	W07	W07-1
+This study	post-Waterberg	W07-10	W07	W07-10
+This study	post-Waterberg	W07-11	W07	W07-11
+This study	post-Waterberg	W07-12	W07	W07-12
+This study	post-Waterberg	W07-2	W07	W07-2
+This study	post-Waterberg	W07-3	W07	W07-3
+This study	post-Waterberg	W07-4	W07	W07-4
+This study	post-Waterberg	W07-5	W07	W07-5
+This study	post-Waterberg	W07-6	W07	W07-6
+This study	post-Waterberg	W07-7	W07	W07-7
+This study	post-Waterberg	W07-8	W07	W07-8
+This study	post-Waterberg	W07-9	W07	W07-9
+This study	post-Waterberg	W08-1	W08	W08-1
+This study	post-Waterberg	W08-10	W08	W08-10
+This study	post-Waterberg	W08-11	W08	W08-11
+This study	post-Waterberg	W08-12	W08	W08-12
+This study	post-Waterberg	W08-2	W08	W08-2
+This study	post-Waterberg	W08-3	W08	W08-3
+This study	post-Waterberg	W08-4	W08	W08-4
+This study	post-Waterberg	W08-5	W08	W08-5
+This study	post-Waterberg	W08-6	W08	W08-6
+This study	post-Waterberg	W08-7	W08	W08-7
+This study	post-Waterberg	W08-8	W08	W08-8
+This study	post-Waterberg	W08-9	W08	W08-9
+This study	post-Waterberg	W09-1	W09	W09-1
+This study	post-Waterberg	W09-10	W09	W09-10
+This study	post-Waterberg	W09-11	W09	W09-11
+This study	post-Waterberg	W09-12	W09	W09-12
+This study	post-Waterberg	W09-2	W09	W09-2
+This study	post-Waterberg	W09-3	W09	W09-3
+This study	post-Waterberg	W09-4	W09	W09-4
+This study	post-Waterberg	W09-5	W09	W09-5
+This study	post-Waterberg	W09-6	W09	W09-6
+This study	post-Waterberg	W09-7	W09	W09-7
+This study	post-Waterberg	W09-8	W09	W09-8
+This study	post-Waterberg	W09-9	W09	W09-9
+This study	post-Waterberg	W10-1	W10	W10-1
+This study	post-Waterberg	W10-10	W10	W10-10
+This study	post-Waterberg	W10-11	W10	W10-11
+This study	post-Waterberg	W10-12	W10	W10-12
+This study	post-Waterberg	W10-2	W10	W10-2
+This study	post-Waterberg	W10-3	W10	W10-3
+This study	post-Waterberg	W10-4	W10	W10-4
+This study	post-Waterberg	W10-5	W10	W10-5
+This study	post-Waterberg	W10-6	W10	W10-6
+This study	post-Waterberg	W10-7	W10	W10-7
+This study	post-Waterberg	W10-8	W10	W10-8
+This study	post-Waterberg	W10-9	W10	W10-9

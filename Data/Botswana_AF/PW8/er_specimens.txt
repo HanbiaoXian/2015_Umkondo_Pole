@@ -1,0 +1,24 @@
+tab 	er_specimens
+er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-10	PW8	PW8-10a	0	0.0049003
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-11	PW8	PW8-11a	0	0.0053684
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-11	PW8	PW8-11b	0	0.0046864
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-12	PW8	PW8-12a	0	0.0058204
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-12	PW8	PW8-12b	0	0.0062211
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-13	PW8	PW8-13a	0	0.0051866
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-13	PW8	PW8-13b	0	0.0056169
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-1	PW8	PW8-1a	0	0.0055007
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-1	PW8	PW8-1b	0	0.005457
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-2	PW8	PW8-2a	0	0.0055799
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-2	PW8	PW8-2b	0	0.0062642
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-3	PW8	PW8-3a	0	0.0058633
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-3	PW8	PW8-3b	0	0.0066093
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-4	PW8	PW8-4a	0	0.0051176
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-4	PW8	PW8-4b	0	0.0042424
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-5	PW8	PW8-5a	0	0.0057666
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-5	PW8	PW8-5b	0	0.0060127
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-6	PW8	PW8-6a	0	0.0052087
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-6	PW8	PW8-6b	0	0.0053847
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-7	PW8	PW8-7a	0	0.0043796
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-7	PW8	PW8-7b	0	0.0048156
+This study	Botswana 2012	Mabogoapitse Hill Sill	PW8-8	PW8	PW8-8c	0	8.69E-5

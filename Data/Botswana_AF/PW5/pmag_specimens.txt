@@ -1,0 +1,26 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_expedition_name	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-1	PW5	PW5-1a	"PW5-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	7.0	91.4	l	-14.7	1.1	8	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-1	PW5	PW5-1a	"PW5-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	7.0	7.1	l	-13.3	1.1	8	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-1	PW5	PW5-1a	"PW5-1a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	7.0	7.1	l	-13.3	1.1	8	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-2	PW5	PW5-2a	"PW5-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	10.4	80.0	l	-17.8	1.6	7	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-2	PW5	PW5-2a	"PW5-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	10.4	7.4	l	-20.2	1.6	7	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-2	PW5	PW5-2a	"PW5-2a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	10.4	7.4	l	-20.2	1.6	7	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-4	PW5	PW5-4a	"PW5-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.1	100.1	l	-23.8	1.5	8	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-4	PW5	PW5-4a	"PW5-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.1	7.7	l	-18.6	1.5	8	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-4	PW5	PW5-4a	"PW5-4a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.1	7.7	l	-18.6	1.5	8	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-5	PW5	PW5-5a	"PW5-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	4.6	298.3	l	-12.5	0.6	7	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-5	PW5	PW5-5a	"PW5-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	4.6	3.3	l	-17.5	0.6	7	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-5	PW5	PW5-5a	"PW5-5a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	6.000e-02	T		u	4.6	3.3	l	-17.5	0.6	7	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-6	PW5	PW5-6a	"PW5-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.4	273.9	l	-13.2	1.8	8	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-6	PW5	PW5-6a	"PW5-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.4	8.6	l	-13.6	1.8	8	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-6	PW5	PW5-6a	"PW5-6a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	6.000e-02	T		u	6.4	8.6	l	-13.6	1.8	8	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-7	PW5	PW5-7a	"PW5-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	4.000e-02	T		u	6.1	117.1	l	-44.3	1.3	9	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-7	PW5	PW5-7a	"PW5-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	4.000e-02	T		u	6.1	17.1	l	-34.9	1.3	9	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-7	PW5	PW5-7a	"PW5-7a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	4.000e-02	T		u	6.1	17.1	l	-34.9	1.3	9	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-8	PW5	PW5-8a	"PW5-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	6.9	125.9	l	-47.2	1.5	8	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-8	PW5	PW5-8a	"PW5-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	6.9	14.5	l	-34.3	1.5	8	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-8	PW5	PW5-8a	"PW5-8a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.400e-01	5.000e-02	T		u	6.9	14.5	l	-34.3	1.5	8	100
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-9	PW5	PW5-9a	"PW5-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.7	47.0	l	4.6	0.9	9	-1
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-9	PW5	PW5-9a	"PW5-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-GEO	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.7	4.9	l	-24.4	0.9	9	0
+	This study	Botswana 2012	Rasemong North Intrusion	PW5-9	PW5	PW5-9a	"PW5-9a:NRM_demag(T,Hac)0"	IRM-SRM-U	LP-DIR-AF:DE-BFL:DA-DIR-TILT	pmagpy-3.2.1	1.700e-01	5.000e-02	T		u	9.7	4.9	l	-24.4	0.9	9	100

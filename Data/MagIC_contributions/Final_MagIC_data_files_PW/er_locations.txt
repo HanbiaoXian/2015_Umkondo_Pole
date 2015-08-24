@@ -1,0 +1,1 @@
+tab	er_locations						er_citation_names	er_location_name	location_begin_lon	location_end_lon	location_begin_lat	location_end_lat	location_type	location_descriptionThis study:10.1029/2005JB003897	Botswana	25	27.5	-22	-25	Region	Region of Umkondo sills in southern Botswana

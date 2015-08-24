@@ -1,0 +1,20 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	UMK_BOT	PW18.1b	PW18	PW18.1b	PW18.1b:LP-DIR-T	hargrave 2014-07-10 12:15:05	LP-DIR-T:DE-BFL-O:DA-DIR	pmagpy-3.2.1	850	833	K		u	10.4	130.0	l	31.7	7.7	5	-1
+	This study	UMK_BOT	PW18.1b	PW18	PW18.1b	PW18.1b:LP-DIR-T	hargrave 2014-07-10 12:15:05	LP-DIR-T:DE-BFL-O:DA-DIR-GEO	pmagpy-3.2.1	850	833	K		u	10.4	103.4	l	45.4	7.7	5	0
+	This study	UMK_BOT	PW18.1b	PW18	PW18.1b	PW18.1b:LP-DIR-T	hargrave 2014-07-10 12:15:05	LP-DIR-T:DE-BFL-O:DA-DIR-TILT	pmagpy-3.2.1	850	833	K		u	10.4	102.9	l	49.3	7.7	5	100
+	This study	UMK_BOT	PW18.2b	PW18	PW18.2b	PW18.2b:LP-DIR-T	hargrave 2014-07-10 12:16:36	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	850	833	K		u	0.0	149.8	l	45.6	10.7	6	-1
+	This study	UMK_BOT	PW18.2b	PW18	PW18.2b	PW18.2b:LP-DIR-T	hargrave 2014-07-10 12:16:36	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	850	833	K		u	0.0	156.7	l	62.8	10.7	6	0
+	This study	UMK_BOT	PW18.2b	PW18	PW18.2b	PW18.2b:LP-DIR-T	hargrave 2014-07-10 12:16:36	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	850	833	K		u	0.0	163.0	l	65.4	10.7	6	100
+	This study	UMK_BOT	PW18.3b	PW18	PW18.3b	PW18.3b:LP-DIR-T	hargrave 2014-07-10 12:18:11	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	850	838	K		u	0.0	163.2	l	43.5	6.8	5	-1
+	This study	UMK_BOT	PW18.3b	PW18	PW18.3b	PW18.3b:LP-DIR-T	hargrave 2014-07-10 12:18:11	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	850	838	K		u	0.0	93.5	l	66.5	6.8	5	0
+	This study	UMK_BOT	PW18.3b	PW18	PW18.3b	PW18.3b:LP-DIR-T	hargrave 2014-07-10 12:18:11	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	850	838	K		u	0.0	90.3	l	70.3	6.8	5	100
+	This study	UMK_BOT	PW18.4b	PW18	PW18.4b	PW18.4b:LP-DIR-T	hargrave 2014-07-10 12:19:49	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	847	833	K		u	0.0	345.3	l	68.1	8.0	5	-1
+	This study	UMK_BOT	PW18.4b	PW18	PW18.4b	PW18.4b:LP-DIR-T	hargrave 2014-07-10 12:19:49	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	847	833	K		u	0.0	175.5	l	50.5	8.0	5	0
+	This study	UMK_BOT	PW18.4b	PW18	PW18.4b	PW18.4b:LP-DIR-T	hargrave 2014-07-10 12:19:49	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	847	833	K		u	0.0	180.1	l	52.0	8.0	5	100
+	This study	UMK_BOT	PW18.6b	PW18	PW18.6b	PW18.6b:LP-DIR-T	hargrave 2014-07-10 12:23:03	LP-DIR-T:DE-BFL-O:DA-DIR	pmagpy-3.2.1	850	833	K		u	7.8	149.8	l	66.7	7.9	7	-1
+	This study	UMK_BOT	PW18.6b	PW18	PW18.6b	PW18.6b:LP-DIR-T	hargrave 2014-07-10 12:23:03	LP-DIR-T:DE-BFL-O:DA-DIR-GEO	pmagpy-3.2.1	850	833	K		u	7.8	108.9	l	63.0	7.9	7	0
+	This study	UMK_BOT	PW18.6b	PW18	PW18.6b	PW18.6b:LP-DIR-T	hargrave 2014-07-10 12:23:03	LP-DIR-T:DE-BFL-O:DA-DIR-TILT	pmagpy-3.2.1	850	833	K		u	7.8	108.7	l	67.0	7.9	7	100
+	This study	UMK_BOT	PW18.7b	PW18	PW18.7b	PW18.7b:LP-DIR-T	hargrave 2014-07-10 12:24:44	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.2.1	850	838	K		u	0.0	135.8	l	54.8	9.0	5	-1
+	This study	UMK_BOT	PW18.7b	PW18	PW18.7b	PW18.7b:LP-DIR-T	hargrave 2014-07-10 12:24:44	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.2.1	850	838	K		u	0.0	137.5	l	64.7	9.0	5	0
+	This study	UMK_BOT	PW18.7b	PW18	PW18.7b	PW18.7b:LP-DIR-T	hargrave 2014-07-10 12:24:44	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.2.1	850	838	K		u	0.0	142.1	l	68.2	9.0	5	100
