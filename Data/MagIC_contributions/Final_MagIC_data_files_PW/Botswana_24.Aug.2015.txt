@@ -1,6 +1,6 @@
 tab 	er_expeditions
-expedition_description	expedition_start_lon	er_expedition_name	expedition_start_loc	expedition_start_lat	er_citation_names
-sampling Umkondo sills in southern Botswana to complement the existing number of cooling units	25.86	Botswana 2012	"-24.6878,25.8622"	-24.6878	This study
+expedition_description	er_expedition_name	expedition_box_lon_min	expedition_box_lon_max	er_citation_names	expedition_box_lat_max	expedition_box_lat_min
+sampling Umkondo sills in southern Botswana to complement the existing number of cooling units	Botswana 2012	25.00	27.50	This study	-22.0	-25.0
 >>>>>>>>>>
 tab 	er_locations
 location_type	er_citation_names	location_end_lat	location_begin_lon	er_location_name	location_description	location_begin_lat	location_end_lon
@@ -18386,7 +18386,7 @@ Botswana	This study	i	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	8	-57.91672992	Masama 1 Sil
 Botswana	This study	i	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	13	-64.46583609	Masama 3 Sill	Masama 3 Sill VGP	100	226.79
 Botswana	This study	i	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	8	-67.72062659	Masama 2 Sill	Masama 2 Sill VGP	100	215.20
 Botswana	This study	i	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	7	-62.76450224	Dibete Kop Sill	Dibete Kop Sill VGP	0	239.48
-Botswana	This study	a	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	50	-63.94	Kgale Peak Sill:Rasemong Sill:Metsemotlhaba River Sill:Mabogoapitse Hill Sill:Semarule Hill Sill:Rapitsane Sill:Suping Sill:Mogatelwane 2 Sill:Mosolotsane 1 Sill:Mosolotsane 5 Sill:Mosolotsane 4 Sill:Mosolotsane 6 Sill:Mosolotsane 3 Sill:Mosolotsane 2 Sill:Shoshong Sill:Phage Sill:Moijabana Sill:Mokgware Sill:Sepatamorire Sill:Palapye dike:Masama 1 Sill:Masama 3 Sill:Masama 2 Sill:Dibete Kop Sill:Gose et al. [2006]	Umkondo Grand Mean Pole	100	222.26
+Botswana	This study	a	LT-NO:LT-LT-Z:LT-AF-Z:LP-DIR-T	49	-63.95	Kgale Peak Sill:Rasemong Sill:Metsemotlhaba River Sill:Mabogoapitse Hill Sill:Semarule Hill Sill:Rapitsane Sill:Suping Sill:Mogatelwane 2 Sill:Mosolotsane 1 Sill:Mosolotsane 5 Sill:Mosolotsane 4 Sill:Mosolotsane 6 Sill:Mosolotsane 3 Sill:Mosolotsane 2 Sill:Shoshong Sill:Phage Sill:Moijabana Sill:Mokgware Sill:Sepatamorire Sill:Palapye dike:Masama 1 Sill:Masama 3 Sill:Masama 2 Sill:Dibete Kop Sill:Gose et al. [2006]	Umkondo Grand Mean Pole	100	222.10
 >>>>>>>>>>
 tab 	magic_methods
 magic_method_code
