@@ -1,4 +1,4 @@
-##A new grand mean paleomagnetic pole for the Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field.
+##A new grand mean paleomagnetic pole for the 1.11 Ga Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field.
 
 This repository contains materials associated with a manuscript focused on the paleomagnetism of the Umkondo Large Igneous Province that is in review at Geophysical Journal International. The manuscript is titled: "A new grand mean paleomagnetic pole for the Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field."
 
