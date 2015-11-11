@@ -1,6 +1,9 @@
 ##A new grand mean paleomagnetic pole for the 1.11 Ga Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field.
 
-This repository contains materials associated with a manuscript focused on the paleomagnetism of the Umkondo Large Igneous Province that is in review at Geophysical Journal International. The manuscript is titled: "A new grand mean paleomagnetic pole for the Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field."
+This repository contains materials associated with a manuscript focused on the paleomagnetism of the Umkondo Large Igneous Province that was published in Geophysical Journal International. 
+
+Swanson-Hysell, N.L., Kilian, T.K., and Hanson, R.H.  A new grand mean paleomagnetic pole for the Umkondo Large Igneous Province with implications for paleogeography and the geomagnetic field. *Geophysical Journal International*, (2015), doi:10.1093/gji/ggv402.
+[open access archive](http://www.escholarship.org/uc/item/7rp4g7mf) | [link to journal page](http://gji.oxfordjournals.org/content/203/3/2237.abstract?keytype=ref&ijkey=B2xEzntiy4dEUII)
 
 Within this Github repository are the following folders:
 
